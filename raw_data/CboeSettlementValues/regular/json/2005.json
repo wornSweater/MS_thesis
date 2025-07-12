@@ -1,0 +1,364 @@
+{
+  "data": [
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "579.08",
+      "year_month": "2005-12"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1274.84",
+      "year_month": "2005-12"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "*109.25",
+      "year_month": "2005-12"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "686.11",
+      "year_month": "2005-12"
+    },
+    {
+      "description": "Nasdaq 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "1699.06",
+      "year_month": "2005-12"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "574.69",
+      "year_month": "2005-11"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1254.85",
+      "year_month": "2005-11"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "108.44",
+      "year_month": "2005-11"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "673.36",
+      "year_month": "2005-11"
+    },
+    {
+      "description": "Nasdaq 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "*1691.09",
+      "year_month": "2005-11"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "544.50",
+      "year_month": "2005-10"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1183.79",
+      "year_month": "2005-10"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "102.81",
+      "year_month": "2005-10"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "627.45",
+      "year_month": "2005-10"
+    },
+    {
+      "description": "Nasdaq 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "1577.28",
+      "year_month": "2005-10"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "573.37",
+      "year_month": "2005-09"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1232.79",
+      "year_month": "2005-09"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "106.08",
+      "year_month": "2005-09"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "669.53",
+      "year_month": "2005-09"
+    },
+    {
+      "description": "Nasdaq 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "1591.92",
+      "year_month": "2005-09"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "566.67",
+      "year_month": "2005-08"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1223.90",
+      "year_month": "2005-08"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "105.88",
+      "year_month": "2005-08"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "651.13",
+      "year_month": "2005-08"
+    },
+    {
+      "description": "Nasdaq 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "1574.57",
+      "year_month": "2005-08"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "575.53",
+      "year_month": "2005-07"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1226.86",
+      "year_month": "2005-07"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "106.32",
+      "year_month": "2005-07"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "659.42",
+      "year_month": "2005-07"
+    },
+    {
+      "description": "Nasdaq 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "1579.19",
+      "year_month": "2005-07"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "572.34",
+      "year_month": "2005-06"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1222.68",
+      "year_month": "2005-06"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "106.75",
+      "year_month": "2005-06"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "646.12",
+      "year_month": "2005-06"
+    },
+    {
+      "description": "Nasdaq 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "1553.96",
+      "year_month": "2005-06"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "565.75",
+      "year_month": "2005-05"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1191.93",
+      "year_month": "2005-05"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "105.03",
+      "year_month": "2005-05"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "610.97",
+      "year_month": "2005-05"
+    },
+    {
+      "description": "Nasdaq 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "1521.59",
+      "year_month": "2005-05"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "547.25",
+      "year_month": "2005-04"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1158.85",
+      "year_month": "2005-04"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "102.44",
+      "year_month": "2005-04"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "592.06",
+      "year_month": "2005-04"
+    },
+    {
+      "description": "Nasdaq 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "1425.81",
+      "year_month": "2005-04"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "567.94",
+      "year_month": "2005-03"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1190.70",
+      "year_month": "2005-03"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "106.50",
+      "year_month": "2005-03"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "628.71",
+      "year_month": "2005-03"
+    },
+    {
+      "description": "Nasdaq 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "1486.90",
+      "year_month": "2005-03"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "575.42",
+      "year_month": "2005-02"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1201.79",
+      "year_month": "2005-02"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "107.56",
+      "year_month": "2005-02"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "634.04",
+      "year_month": "2005-02"
+    },
+    {
+      "description": "Nasdaq 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "1520.57",
+      "year_month": "2005-02"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "557.32",
+      "year_month": "2005-01"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1176.77",
+      "year_month": "2005-01"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "104.83",
+      "year_month": "2005-01"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "614.52",
+      "year_month": "2005-01"
+    },
+    {
+      "description": "Nasdaq 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "1515.88",
+      "year_month": "2005-01"
+    }
+  ]
+}

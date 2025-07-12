@@ -1,0 +1,2516 @@
+{
+  "data": [
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-12-29",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1183.15",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-12-29",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2673.61",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-12-29",
+      "settlement_symbol": "DJS",
+      "settlement_value": "248.55",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-12-29",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1535.51",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-12-27",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2682.62",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-12-27",
+      "settlement_symbol": "VRO",
+      "settlement_value": "10.31",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-12-26",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2680.50",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-12-22",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1189.02",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-12-22",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2683.34",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-12-22",
+      "settlement_symbol": "DJS",
+      "settlement_value": "247.75",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-12-22",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1542.93",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-12-20",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2679.25",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-12-18",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2690.16",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-12-13",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2662.85",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-12-13",
+      "settlement_symbol": "VRO",
+      "settlement_value": "9.99",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-12-11",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2659.99",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-12-08",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1170.82",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-12-08",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2651.50",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-12-08",
+      "settlement_symbol": "DJS",
+      "settlement_value": "242.84",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-12-08",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1521.72",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-12-06",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2629.27",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-12-06",
+      "settlement_symbol": "VRO",
+      "settlement_value": "11.42",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-12-04",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2639.44",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-12-01",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1166.19",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-12-01",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2642.22",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-12-01",
+      "settlement_symbol": "DJS",
+      "settlement_value": "243.18",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-12-01",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1537.02",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-11-29",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2626.07",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-11-29",
+      "settlement_symbol": "VRO",
+      "settlement_value": "10.28",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-11-27",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2601.42",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-11-24",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1146.98",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-11-24",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2602.42",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-11-24",
+      "settlement_symbol": "DJS",
+      "settlement_value": "235.62",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-11-24",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1519.16",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-11-22",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2597.08",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-11-22",
+      "settlement_symbol": "VRO",
+      "settlement_value": "9.74",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-11-20",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2582.14",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-11-15",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2564.62",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-11-13",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2584.84",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-11-10",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1140.39",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-11-10",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2582.30",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-11-10",
+      "settlement_symbol": "DJS",
+      "settlement_value": "234.43",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-11-10",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1475.27",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-11-08",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2594.38",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-11-08",
+      "settlement_symbol": "VRO",
+      "settlement_value": "10.10",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-11-06",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2591.13",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-11-03",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1143.41",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-11-03",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2587.84",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-11-03",
+      "settlement_symbol": "DJS",
+      "settlement_value": "235.48",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-11-03",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1494.91",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-11-01",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2579.36",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-11-01",
+      "settlement_symbol": "VRO",
+      "settlement_value": "9.77",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-10-30",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2572.83",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-10-27",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1140.09",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-10-27",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2581.07",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-10-27",
+      "settlement_symbol": "DJS",
+      "settlement_value": "233.81",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-10-27",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1508.32",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-10-25",
+      "settlement_symbol": "VRO",
+      "settlement_value": "11.04",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-10-23",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2564.98",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-10-18",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2561.26",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-10-16",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2557.64",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-10-13",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1126.16",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-10-13",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2553.17",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-10-13",
+      "settlement_symbol": "DJS",
+      "settlement_value": "228.72",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-10-13",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1502.66",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-10-11",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2555.24",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-10-11",
+      "settlement_symbol": "VRO",
+      "settlement_value": "9.96",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-10-09",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2544.73",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-10-06",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1125.03",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-10-06",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2549.33",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-10-06",
+      "settlement_symbol": "DJS",
+      "settlement_value": "227.45",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-10-06",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1510.22",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-10-04",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2537.74",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-10-04",
+      "settlement_symbol": "VRO",
+      "settlement_value": "9.61",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-10-02",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2529.12",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-09-29",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1112.19",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-09-29",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2519.36",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-09-29",
+      "settlement_symbol": "DJS",
+      "settlement_value": "223.56",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-09-29",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1490.86",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-09-27",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2507.04",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-09-27",
+      "settlement_symbol": "VRO",
+      "settlement_value": "9.83",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-09-25",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2496.66",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-09-22",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1106.61",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-09-22",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2502.22",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-09-22",
+      "settlement_symbol": "DJS",
+      "settlement_value": "223.27",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-09-22",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1450.78",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-09-20",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2508.24",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-09-18",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2503.87",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-09-13",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2498.37",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-09-13",
+      "settlement_symbol": "VRO",
+      "settlement_value": "10.71",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-09-11",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2488.11",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-09-08",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1086.98",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-09-08",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2461.43",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-09-08",
+      "settlement_symbol": "DJS",
+      "settlement_value": "217.57",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-09-08",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1399.43",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-09-06",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2465.54",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-09-06",
+      "settlement_symbol": "VRO",
+      "settlement_value": "12.02",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-09-05",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2457.85",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-09-01",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1095.25",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-09-01",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2476.55",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-09-01",
+      "settlement_symbol": "DJS",
+      "settlement_value": "219.94",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-09-01",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1413.57",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-08-30",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2457.59",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-08-30",
+      "settlement_symbol": "VRO",
+      "settlement_value": "12.03",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-08-28",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2444.24",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-08-25",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1080.02",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-08-25",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2443.05",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-08-25",
+      "settlement_symbol": "DJS",
+      "settlement_value": "218.42",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-08-25",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1377.45",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-08-23",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2444.04",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-08-23",
+      "settlement_symbol": "VRO",
+      "settlement_value": "12.85",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-08-21",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2428.37",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-08-16",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2468.11",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-08-14",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2465.84",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-08-11",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1081.80",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-08-11",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2441.32",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-08-11",
+      "settlement_symbol": "DJS",
+      "settlement_value": "219.00",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-08-11",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1374.23",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-08-09",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2474.02",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-08-09",
+      "settlement_symbol": "VRO",
+      "settlement_value": "11.97",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-08-07",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2480.91",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-08-04",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1095.42",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-08-04",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2476.83",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-08-04",
+      "settlement_symbol": "DJS",
+      "settlement_value": "220.68",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-08-04",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1412.32",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-08-02",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2477.57",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-08-02",
+      "settlement_symbol": "VRO",
+      "settlement_value": "10.02",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-07-31",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2470.30",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-07-28",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1089.53",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-07-28",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2472.10",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-07-28",
+      "settlement_symbol": "DJS",
+      "settlement_value": "217.96",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-07-28",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1429.26",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-07-26",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2477.83",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-07-26",
+      "settlement_symbol": "VRO",
+      "settlement_value": "9.10",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-07-24",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2469.91",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-07-19",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2473.83",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-07-17",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2459.14",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-07-14",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1083.13",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-07-14",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2459.27",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-07-14",
+      "settlement_symbol": "DJS",
+      "settlement_value": "215.49",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-07-14",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1428.82",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-07-12",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2443.25",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-07-12",
+      "settlement_symbol": "VRO",
+      "settlement_value": "10.68",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-07-10",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2427.43",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-07-07",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1068.65",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-07-07",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2425.18",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-07-07",
+      "settlement_symbol": "DJS",
+      "settlement_value": "213.73",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-07-07",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1415.84",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-07-05",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2432.54",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-07-05",
+      "settlement_symbol": "VRO",
+      "settlement_value": "11.45",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-07-03",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2429.01",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-06-30",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1067.71",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-06-30",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2423.41",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-06-30",
+      "settlement_symbol": "DJS",
+      "settlement_value": "213.77",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-06-30",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1415.36",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-06-28",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2440.69",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-06-28",
+      "settlement_symbol": "VRO",
+      "settlement_value": "10.52",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-06-26",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2439.07",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-06-23",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1075.43",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-06-23",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2438.30",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-06-23",
+      "settlement_symbol": "DJS",
+      "settlement_value": "213.69",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-06-23",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1414.78",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-06-21",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2435.61",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-06-19",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2453.46",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-06-14",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2437.92",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-06-14",
+      "settlement_symbol": "VRO",
+      "settlement_value": "10.55",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-06-12",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2429.39",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-06-09",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1071.90",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-06-09",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2431.77",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-06-09",
+      "settlement_symbol": "DJS",
+      "settlement_value": "212.21",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-06-09",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1421.71",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-06-07",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2433.14",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-06-07",
+      "settlement_symbol": "VRO",
+      "settlement_value": "10.21",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-06-05",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2436.10",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-06-02",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1074.36",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-06-02",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2439.07",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-06-02",
+      "settlement_symbol": "DJS",
+      "settlement_value": "211.51",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-06-02",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1405.39",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-05-31",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2411.80",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-05-31",
+      "settlement_symbol": "VRO",
+      "settlement_value": "10.58",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-05-30",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2412.91",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-05-26",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1065.35",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-05-26",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2415.82",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-05-26",
+      "settlement_symbol": "DJS",
+      "settlement_value": "210.64",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-05-26",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1382.24",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-05-24",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2404.39",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-05-24",
+      "settlement_symbol": "VRO",
+      "settlement_value": "10.68",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-05-22",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2394.02",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-05-17",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2357.03",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-05-15",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2402.32",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-05-12",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1056.81",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-05-12",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2390.90",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-05-12",
+      "settlement_symbol": "DJS",
+      "settlement_value": "208.84",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-05-12",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1382.77",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-05-10",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2399.63",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-05-10",
+      "settlement_symbol": "VRO",
+      "settlement_value": "9.78",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-05-08",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2399.38",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-05-05",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1061.26",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-05-05",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2399.29",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-05-05",
+      "settlement_symbol": "DJS",
+      "settlement_value": "209.44",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-05-05",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1397.00",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-05-03",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2388.13",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-05-03",
+      "settlement_symbol": "VRO",
+      "settlement_value": "10.90",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-05-01",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2388.33",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-04-28",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1054.86",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-04-28",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2384.20",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-04-28",
+      "settlement_symbol": "DJS",
+      "settlement_value": "209.85",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-04-28",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1400.43",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-04-26",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2387.45",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-04-26",
+      "settlement_symbol": "VRO",
+      "settlement_value": "10.50",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-04-24",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2374.15",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-04-19",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2338.17",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-04-17",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2349.01",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-04-13",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1030.40",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-04-13",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2328.95",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-04-13",
+      "settlement_symbol": "DJS",
+      "settlement_value": "205.46",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-04-13",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1345.24",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-04-12",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2344.93",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-04-12",
+      "settlement_symbol": "VRO",
+      "settlement_value": "16.04",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-04-10",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2357.16",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-04-07",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1042.68",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-04-07",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2355.54",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-04-07",
+      "settlement_symbol": "DJS",
+      "settlement_value": "206.44",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2017-04-07",
+      "settlement_symbol": "NDS",
+      "settlement_value": "5425.36",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-04-07",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1364.56",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-04-05",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2352.95",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-04-05",
+      "settlement_symbol": "VRO",
+      "settlement_value": "11.18",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-04-03",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2358.84",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-03-31",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1046.06",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-03-31",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2362.72",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-03-31",
+      "settlement_symbol": "DJS",
+      "settlement_value": "206.92",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2017-03-31",
+      "settlement_symbol": "NDS",
+      "settlement_value": "5430.05",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-03-31",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1385.92",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-03-29",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2361.13",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-03-29",
+      "settlement_symbol": "VRO",
+      "settlement_value": "12.01",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-03-27",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2341.59",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-03-24",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1039.08",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-03-24",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2343.98",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-03-24",
+      "settlement_symbol": "DJS",
+      "settlement_value": "206.86",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2017-03-24",
+      "settlement_symbol": "NDS",
+      "settlement_value": "5382.75",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-03-24",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1354.64",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-03-22",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2348.45",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-03-20",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2373.47",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-03-15",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2385.26",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-03-14",
+      "settlement_symbol": "VRO",
+      "settlement_value": "12.12",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-03-13",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2373.47",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-03-10",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1055.02",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-03-10",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2372.60",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-03-10",
+      "settlement_symbol": "DJS",
+      "settlement_value": "209.57",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2017-03-10",
+      "settlement_symbol": "NDS",
+      "settlement_value": "5393.88",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-03-10",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1365.26",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-03-08",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2362.98",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-03-08",
+      "settlement_symbol": "VRO",
+      "settlement_value": "11.25",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-03-06",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2375.31",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-03-03",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1056.84",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-03-03",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2383.12",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-03-03",
+      "settlement_symbol": "DJS",
+      "settlement_value": "210.09",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2017-03-03",
+      "settlement_symbol": "NDS",
+      "settlement_value": "5357.45",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-03-03",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1394.13",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-03-01",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2395.96",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-03-01",
+      "settlement_symbol": "VRO",
+      "settlement_value": "11.77",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-02-27",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2369.75",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-02-24",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1047.81",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-02-24",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2367.34",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-02-24",
+      "settlement_symbol": "DJS",
+      "settlement_value": "207.58",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2017-02-24",
+      "settlement_symbol": "NDS",
+      "settlement_value": "5315.14",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-02-24",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1394.52",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-02-22",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2362.82",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-02-22",
+      "settlement_symbol": "VRO",
+      "settlement_value": "12.07",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-02-21",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2365.38",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-02-15",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2349.25",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-02-13",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2328.25",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-02-10",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1020.67",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-02-10",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2316.10",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-02-10",
+      "settlement_symbol": "DJS",
+      "settlement_value": "202.10",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2017-02-10",
+      "settlement_symbol": "NDS",
+      "settlement_value": "5225.11",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-02-10",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1388.84",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-02-08",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2294.67",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-02-08",
+      "settlement_symbol": "VRO",
+      "settlement_value": "11.98",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-02-06",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2292.56",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-02-03",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1013.69",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-02-03",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2297.42",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-02-03",
+      "settlement_symbol": "DJS",
+      "settlement_value": "199.84",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2017-02-03",
+      "settlement_symbol": "NDS",
+      "settlement_value": "5154.41",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-02-03",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1377.84",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-02-01",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2279.55",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-02-01",
+      "settlement_symbol": "VRO",
+      "settlement_value": "11.57",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-01-30",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2280.90",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-01-27",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1012.93",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-01-27",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2294.69",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-01-27",
+      "settlement_symbol": "DJS",
+      "settlement_value": "201.00",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2017-01-27",
+      "settlement_symbol": "NDS",
+      "settlement_value": "5174.07",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-01-27",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1370.70",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-01-25",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2298.37",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-01-25",
+      "settlement_symbol": "VRO",
+      "settlement_value": "10.65",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-01-23",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2265.20",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-01-18",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2271.89",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-01-17",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2267.89",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-01-13",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1006.59",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-01-13",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2274.64",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-01-13",
+      "settlement_symbol": "DJS",
+      "settlement_value": "199.14",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2017-01-13",
+      "settlement_symbol": "NDS",
+      "settlement_value": "5047.99",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-01-13",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1372.05",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-01-11",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2275.32",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-01-11",
+      "settlement_symbol": "VRO",
+      "settlement_value": "11.96",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-01-09",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2268.90",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2017-01-06",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1008.15",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-01-06",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2276.98",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2017-01-06",
+      "settlement_symbol": "DJS",
+      "settlement_value": "199.00",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2017-01-06",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4975.51",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-01-06",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1367.28",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-01-04",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2270.75",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2017-01-04",
+      "settlement_symbol": "VRO",
+      "settlement_value": "13.00",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-01-03",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2257.83",
+      "year_month": "2017-01"
+    }
+  ]
+}

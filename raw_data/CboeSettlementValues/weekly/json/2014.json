@@ -1,0 +1,2252 @@
+{
+  "data": [
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "**",
+      "settlement_symbol": "OEX",
+      "settlement_value": "",
+      "year_month": "2014-12"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "**",
+      "settlement_symbol": "SPX",
+      "settlement_value": "",
+      "year_month": "2014-12"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "**",
+      "settlement_symbol": "RLS",
+      "settlement_value": "",
+      "year_month": "2014-12"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "**",
+      "settlement_symbol": "DJS",
+      "settlement_value": "",
+      "year_month": "2014-12"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "**",
+      "settlement_symbol": "NDS",
+      "settlement_value": "",
+      "year_month": "2014-12"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-12-31",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "14.14",
+      "year_month": "2014-12"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-12-26",
+      "settlement_symbol": "OEX",
+      "settlement_value": "922.48",
+      "year_month": "2014-12"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-12-26",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2088.77",
+      "year_month": "2014-12"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-12-26",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1211.85",
+      "year_month": "2014-12"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-12-26",
+      "settlement_symbol": "DJS",
+      "settlement_value": "180.74",
+      "year_month": "2014-12"
+    },
+    {
+      "description": "Nasdaq 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-12-26",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4295.77",
+      "year_month": "2014-12"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-12-24",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "10.38",
+      "year_month": "2014-12"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-12-17",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "23.67",
+      "year_month": "2014-12"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-12-12",
+      "settlement_symbol": "OEX",
+      "settlement_value": "885.88",
+      "year_month": "2014-12"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-12-12",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2002.33",
+      "year_month": "2014-12"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-12-12",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1152.74",
+      "year_month": "2014-12"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-12-12",
+      "settlement_symbol": "DJS",
+      "settlement_value": "174.60",
+      "year_month": "2014-12"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-12-12",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4202.14",
+      "year_month": "2014-12"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-12-10",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "16.97",
+      "year_month": "2014-12"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-12-05",
+      "settlement_symbol": "OEX",
+      "settlement_value": "919.66",
+      "year_month": "2014-12"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-12-05",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2075.37",
+      "year_month": "2014-12"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-12-05",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1172.01",
+      "year_month": "2014-12"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-12-05",
+      "settlement_symbol": "DJS",
+      "settlement_value": "179.06",
+      "year_month": "2014-12"
+    },
+    {
+      "description": "Nasdaq 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-12-05",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4318.06",
+      "year_month": "2014-12"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-12-03",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "12.86",
+      "year_month": "2014-12"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "**",
+      "settlement_symbol": "OEX",
+      "settlement_value": "**",
+      "year_month": "2014-11"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "**",
+      "settlement_symbol": "SPX",
+      "settlement_value": "**",
+      "year_month": "2014-11"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "**",
+      "settlement_symbol": "RLS",
+      "settlement_value": "**",
+      "year_month": "2014-11"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "**",
+      "settlement_symbol": "DJS",
+      "settlement_value": "**",
+      "year_month": "2014-11"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "**",
+      "settlement_symbol": "NDS",
+      "settlement_value": "**",
+      "year_month": "2014-11"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "**",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "**",
+      "year_month": "2014-11"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-11-28",
+      "settlement_symbol": "OEX",
+      "settlement_value": "916.24",
+      "year_month": "2014-11"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-11-28",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2067.56",
+      "year_month": "2014-11"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-11-28",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1188.48",
+      "year_month": "2014-11"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-11-28",
+      "settlement_symbol": "DJS",
+      "settlement_value": "178.40",
+      "year_month": "2014-11"
+    },
+    {
+      "description": "Nasdaq 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-11-28",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4334.66",
+      "year_month": "2014-11"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-11-26",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "11.59",
+      "year_month": "2014-11"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-11-19",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "10.95",
+      "year_month": "2014-11"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-11-14",
+      "settlement_symbol": "OEX",
+      "settlement_value": "906.83",
+      "year_month": "2014-11"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-11-14",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2039.82",
+      "year_month": "2014-11"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-11-14",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1175.08",
+      "year_month": "2014-11"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-11-14",
+      "settlement_symbol": "DJS",
+      "settlement_value": "176.34",
+      "year_month": "2014-11"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-11-14",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4220.86",
+      "year_month": "2014-11"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-11-12",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "12.66",
+      "year_month": "2014-11"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-11-07",
+      "settlement_symbol": "OEX",
+      "settlement_value": "901.57",
+      "year_month": "2014-11"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-11-07",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2031.92",
+      "year_month": "2014-11"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-11-07",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1169.98",
+      "year_month": "2014-11"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-11-07",
+      "settlement_symbol": "DJS",
+      "settlement_value": "175.39",
+      "year_month": "2014-11"
+    },
+    {
+      "description": "Nasdaq 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-11-07",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4178.04",
+      "year_month": "2014-11"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-11-05",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "13.50",
+      "year_month": "2014-11"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-10-31",
+      "settlement_symbol": "OEX",
+      "settlement_value": "895.79",
+      "year_month": "2014-10"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-10-31",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2018.05",
+      "year_month": "2014-10"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-10-31",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1176.10",
+      "year_month": "2014-10"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-10-31",
+      "settlement_symbol": "DJS",
+      "settlement_value": "173.67",
+      "year_month": "2014-10"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-10-31",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4173.51",
+      "year_month": "2014-10"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-10-29",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "15.39",
+      "year_month": "2014-10"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-10-24",
+      "settlement_symbol": "OEX",
+      "settlement_value": "873.33",
+      "year_month": "2014-10"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-10-24",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1964.58",
+      "year_month": "2014-10"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-10-24",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1118.62",
+      "year_month": "2014-10"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-10-24",
+      "settlement_symbol": "DJS",
+      "settlement_value": "166.97",
+      "year_month": "2014-10"
+    },
+    {
+      "description": "Nasdaq 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-10-24",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4021.92",
+      "year_month": "2014-10"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-10-22",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "16.98",
+      "year_month": "2014-10"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-10-15",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "31.29",
+      "year_month": "2014-10"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-10-10",
+      "settlement_symbol": "OEX",
+      "settlement_value": "853.36",
+      "year_month": "2014-10"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-10-10",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1906.13",
+      "year_month": "2014-10"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-10-10",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1061.98",
+      "year_month": "2014-10"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-10-10",
+      "settlement_symbol": "DJS",
+      "settlement_value": "166.74",
+      "year_month": "2014-10"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-10-10",
+      "settlement_symbol": "NDS",
+      "settlement_value": "3943.26",
+      "year_month": "2014-10"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-10-08",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "18.14",
+      "year_month": "2014-10"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-10-03",
+      "settlement_symbol": "OEX",
+      "settlement_value": "878.77",
+      "year_month": "2014-10"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-10-03",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1967.90",
+      "year_month": "2014-10"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-10-03",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1107.35",
+      "year_month": "2014-10"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-10-03",
+      "settlement_symbol": "DJS",
+      "settlement_value": "169.11",
+      "year_month": "2014-10"
+    },
+    {
+      "description": "Nasdaq 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-10-03",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4001.91",
+      "year_month": "2014-10"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-10-01",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "17.20",
+      "year_month": "2014-10"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "**",
+      "settlement_symbol": "OEX",
+      "settlement_value": "",
+      "year_month": "2014-09"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "**",
+      "settlement_symbol": "SPX",
+      "settlement_value": "",
+      "year_month": "2014-09"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "**",
+      "settlement_symbol": "RLS",
+      "settlement_value": "",
+      "year_month": "2014-09"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "**",
+      "settlement_symbol": "DJS",
+      "settlement_value": "",
+      "year_month": "2014-09"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "**",
+      "settlement_symbol": "NDS",
+      "settlement_value": "",
+      "year_month": "2014-09"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "**",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "",
+      "year_month": "2014-09"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-09-26",
+      "settlement_symbol": "OEX",
+      "settlement_value": "885.25",
+      "year_month": "2014-09"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-09-26",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1982.85",
+      "year_month": "2014-09"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-09-26",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1111.78",
+      "year_month": "2014-09"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-09-26",
+      "settlement_symbol": "DJS",
+      "settlement_value": "170.18",
+      "year_month": "2014-09"
+    },
+    {
+      "description": "Nasdaq 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-09-26",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4015.31",
+      "year_month": "2014-09"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-09-24",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "15.34",
+      "year_month": "2014-09"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-09-17",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "12.70",
+      "year_month": "2014-09"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-09-12",
+      "settlement_symbol": "OEX",
+      "settlement_value": "883.07",
+      "year_month": "2014-09"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-09-12",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1985.54",
+      "year_month": "2014-09"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-09-12",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1173.10",
+      "year_month": "2014-09"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-09-12",
+      "settlement_symbol": "DJS",
+      "settlement_value": "170.25",
+      "year_month": "2014-09"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-09-12",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4086.19",
+      "year_month": "2014-09"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-09-10",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "14.21",
+      "year_month": "2014-09"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-09-05",
+      "settlement_symbol": "OEX",
+      "settlement_value": "890.48",
+      "year_month": "2014-09"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-09-05",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2007.71",
+      "year_month": "2014-09"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-09-05",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1163.69",
+      "year_month": "2014-09"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-09-05",
+      "settlement_symbol": "DJS",
+      "settlement_value": "170.56",
+      "year_month": "2014-09"
+    },
+    {
+      "description": "Nasdaq 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-09-05",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4071.14",
+      "year_month": "2014-09"
+    },
+    {
+      "description": "Short-Term vix",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-09-03",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "9.51",
+      "year_month": "2014-09"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-08-29",
+      "settlement_symbol": "OEX",
+      "settlement_value": "889.08",
+      "year_month": "2014-08"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-08-29",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2003.37",
+      "year_month": "2014-08"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-08-29",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1167.67",
+      "year_month": "2014-08"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-08-29",
+      "settlement_symbol": "DJS",
+      "settlement_value": "171.04",
+      "year_month": "2014-08"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-08-29",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4087.94",
+      "year_month": "2014-08"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-08-27",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "9.78",
+      "year_month": "2014-08"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-08-22",
+      "settlement_symbol": "OEX",
+      "settlement_value": "882.79",
+      "year_month": "2014-08"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-08-22",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1988.40",
+      "year_month": "2014-08"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-08-22",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1159.51",
+      "year_month": "2014-08"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-08-22",
+      "settlement_symbol": "DJS",
+      "settlement_value": "170.24",
+      "year_month": "2014-08"
+    },
+    {
+      "description": "Nasdaq 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-08-22",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4055.04",
+      "year_month": "2014-08"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-08-20",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "11.73",
+      "year_month": "2014-08"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-08-13",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "13.74",
+      "year_month": "2014-08"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-08-08",
+      "settlement_symbol": "OEX",
+      "settlement_value": "857.89",
+      "year_month": "2014-08"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-08-08",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1931.59",
+      "year_month": "2014-08"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-08-08",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1118.27",
+      "year_month": "2014-08"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-08-08",
+      "settlement_symbol": "DJS",
+      "settlement_value": "163.91",
+      "year_month": "2014-08"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-08-08",
+      "settlement_symbol": "NDS",
+      "settlement_value": "3859.56",
+      "year_month": "2014-08"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-08-06",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "18.46",
+      "year_month": "2014-08"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-08-01",
+      "settlement_symbol": "OEX",
+      "settlement_value": "855.45",
+      "year_month": "2014-08"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-08-01",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1925.15",
+      "year_month": "2014-08"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-08-01",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1120.69",
+      "year_month": "2014-08"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-08-01",
+      "settlement_symbol": "DJS",
+      "settlement_value": "165.13",
+      "year_month": "2014-08"
+    },
+    {
+      "description": "Nasdaq 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-08-01",
+      "settlement_symbol": "NDS",
+      "settlement_value": "3885.46",
+      "year_month": "2014-08"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "**",
+      "settlement_symbol": "OEX",
+      "settlement_value": "",
+      "year_month": "2014-07"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "**",
+      "settlement_symbol": "SPX",
+      "settlement_value": "",
+      "year_month": "2014-07"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "**",
+      "settlement_symbol": "RLS",
+      "settlement_value": "",
+      "year_month": "2014-07"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "**",
+      "settlement_symbol": "DJS",
+      "settlement_value": "",
+      "year_month": "2014-07"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "**",
+      "settlement_symbol": "NDS",
+      "settlement_value": "",
+      "year_month": "2014-07"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-07-30",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "12.75",
+      "year_month": "2014-07"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-07-25",
+      "settlement_symbol": "OEX",
+      "settlement_value": "879.88",
+      "year_month": "2014-07"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-07-25",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1978.34",
+      "year_month": "2014-07"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-07-25",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1146.92",
+      "year_month": "2014-07"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-07-25",
+      "settlement_symbol": "DJS",
+      "settlement_value": "169.98",
+      "year_month": "2014-07"
+    },
+    {
+      "description": "Nasdaq 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-07-25",
+      "settlement_symbol": "NDS",
+      "settlement_value": "3959.08",
+      "year_month": "2014-07"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-07-23",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "11.61",
+      "year_month": "2014-07"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-07-16",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "9.61",
+      "year_month": "2014-07"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-07-11",
+      "settlement_symbol": "OEX",
+      "settlement_value": "871.90",
+      "year_month": "2014-07"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-07-11",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1967.57",
+      "year_month": "2014-07"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-07-11",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1159.51",
+      "year_month": "2014-07"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-07-11",
+      "settlement_symbol": "DJS",
+      "settlement_value": "169.12",
+      "year_month": "2014-07"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-07-11",
+      "settlement_symbol": "NDS",
+      "settlement_value": "3892.77",
+      "year_month": "2014-07"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-07-09",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "11.07",
+      "year_month": "2014-07"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-07-03",
+      "settlement_symbol": "OEX",
+      "settlement_value": "878.14",
+      "year_month": "2014-07"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-07-03",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1985.44",
+      "year_month": "2014-07"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-07-03",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1203.40",
+      "year_month": "2014-07"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-07-03",
+      "settlement_symbol": "DJS",
+      "settlement_value": "170.21",
+      "year_month": "2014-07"
+    },
+    {
+      "description": "Nasdaq 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-07-03",
+      "settlement_symbol": "NDS",
+      "settlement_value": "3911.70",
+      "year_month": "2014-07"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-07-02",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "9.89",
+      "year_month": "2014-07"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "**",
+      "settlement_symbol": "OEX",
+      "settlement_value": "",
+      "year_month": "2014-06"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "**",
+      "settlement_symbol": "SPX",
+      "settlement_value": "",
+      "year_month": "2014-06"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "**",
+      "settlement_symbol": "RLS",
+      "settlement_value": "",
+      "year_month": "2014-06"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "**",
+      "settlement_symbol": "DJS",
+      "settlement_value": "",
+      "year_month": "2014-06"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "**",
+      "settlement_symbol": "NDS",
+      "settlement_value": "",
+      "year_month": "2014-06"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "**",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "",
+      "year_month": "2014-06"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-06-27",
+      "settlement_symbol": "OEX",
+      "settlement_value": "866.54",
+      "year_month": "2014-06"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-06-27",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1960.96",
+      "year_month": "2014-06"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-06-27",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1173.84",
+      "year_month": "2014-06"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-06-27",
+      "settlement_symbol": "DJS",
+      "settlement_value": "168.10",
+      "year_month": "2014-06"
+    },
+    {
+      "description": "Nasdaq 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-06-27",
+      "settlement_symbol": "NDS",
+      "settlement_value": "3827.09",
+      "year_month": "2014-06"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-06-24",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "10.49",
+      "year_month": "2014-06"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-06-18",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "12.94",
+      "year_month": "2014-06"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-06-13",
+      "settlement_symbol": "OEX",
+      "settlement_value": "857.19",
+      "year_month": "2014-06"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-06-13",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1936.16",
+      "year_month": "2014-06"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-06-13",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1163.65",
+      "year_month": "2014-06"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-06-13",
+      "settlement_symbol": "DJS",
+      "settlement_value": "167.58",
+      "year_month": "2014-06"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-06-13",
+      "settlement_symbol": "NDS",
+      "settlement_value": "3781.75",
+      "year_month": "2014-06"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-06-11",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "10.61",
+      "year_month": "2014-06"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-06-06",
+      "settlement_symbol": "OEX",
+      "settlement_value": "862.32",
+      "year_month": "2014-06"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-06-06",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1949.44",
+      "year_month": "2014-06"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-06-06",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1160.25",
+      "year_month": "2014-06"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-06-06",
+      "settlement_symbol": "DJS",
+      "settlement_value": "168.69",
+      "year_month": "2014-06"
+    },
+    {
+      "description": "Nasdaq 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-06-06",
+      "settlement_symbol": "NDS",
+      "settlement_value": "3797.66",
+      "year_month": "2014-06"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-06-04",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "11.49",
+      "year_month": "2014-06"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-05-30",
+      "settlement_symbol": "OEX",
+      "settlement_value": "852.69",
+      "year_month": "2014-05"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-05-30",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1923.57",
+      "year_month": "2014-05"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-05-30",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1141.70",
+      "year_month": "2014-05"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-05-30",
+      "settlement_symbol": "DJS",
+      "settlement_value": "166.75",
+      "year_month": "2014-05"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-05-30",
+      "settlement_symbol": "NDS",
+      "settlement_value": "3746.11",
+      "year_month": "2014-05"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-05-28",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "11.21",
+      "year_month": "2014-05"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-05-23",
+      "settlement_symbol": "OEX",
+      "settlement_value": "842.59",
+      "year_month": "2014-05"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-05-23",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1900.53",
+      "year_month": "2014-05"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-05-23",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1115.46",
+      "year_month": "2014-05"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-05-23",
+      "settlement_symbol": "DJS",
+      "settlement_value": "165.60",
+      "year_month": "2014-05"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-05-23",
+      "settlement_symbol": "NDS",
+      "settlement_value": "3661.10",
+      "year_month": "2014-05"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-05-21",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "11.01",
+      "year_month": "2014-05"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-05-14",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "10.86",
+      "year_month": "2014-05"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-05-09",
+      "settlement_symbol": "OEX",
+      "settlement_value": "832.96",
+      "year_month": "2014-05"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-05-09",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1878.48",
+      "year_month": "2014-05"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-05-09",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1091.40",
+      "year_month": "2014-05"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-05-09",
+      "settlement_symbol": "DJS",
+      "settlement_value": "165.40",
+      "year_month": "2014-05"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-05-09",
+      "settlement_symbol": "NDS",
+      "settlement_value": "3535.60",
+      "year_month": "2014-05"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-05-07",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "12.28",
+      "year_month": "2014-05"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-05-02",
+      "settlement_symbol": "OEX",
+      "settlement_value": "833.86",
+      "year_month": "2014-05"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-05-02",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1881.14",
+      "year_month": "2014-05"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-05-02",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1127.41",
+      "year_month": "2014-05"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-05-02",
+      "settlement_symbol": "DJS",
+      "settlement_value": "165.39",
+      "year_month": "2014-05"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-05-02",
+      "settlement_symbol": "NDS",
+      "settlement_value": "3613.48",
+      "year_month": "2014-05"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "**",
+      "settlement_symbol": "OEX",
+      "settlement_value": "",
+      "year_month": "2014-04"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "**",
+      "settlement_symbol": "SPX",
+      "settlement_value": "",
+      "year_month": "2014-04"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "**",
+      "settlement_symbol": "RLS",
+      "settlement_value": "",
+      "year_month": "2014-04"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "**",
+      "settlement_symbol": "DJS",
+      "settlement_value": "",
+      "year_month": "2014-04"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "**",
+      "settlement_symbol": "NDS",
+      "settlement_value": "",
+      "year_month": "2014-04"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-04-30",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "14.36",
+      "year_month": "2014-04"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-04-25",
+      "settlement_symbol": "OEX",
+      "settlement_value": "825.56",
+      "year_month": "2014-04"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-04-25",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1863.40",
+      "year_month": "2014-04"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-04-25",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1138.27",
+      "year_month": "2014-04"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-04-25",
+      "settlement_symbol": "DJS",
+      "settlement_value": "164.36",
+      "year_month": "2014-04"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-04-25",
+      "settlement_symbol": "NDS",
+      "settlement_value": "3570.76",
+      "year_month": "2014-04"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-04-23",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "12.95",
+      "year_month": "2014-04"
+    },
+    {
+      "description": "Short-Term VIX",
+      "trading_symbol": "VXST",
+      "expiration_date": "2014-04-16",
+      "settlement_symbol": "SVRO",
+      "settlement_value": "14.82",
+      "year_month": "2014-04"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-04-11",
+      "settlement_symbol": "OEX",
+      "settlement_value": "804.90",
+      "year_month": "2014-04"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-04-11",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1815.69",
+      "year_month": "2014-04"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-04-11",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1116.86",
+      "year_month": "2014-04"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-04-11",
+      "settlement_symbol": "DJS",
+      "settlement_value": "160.87",
+      "year_month": "2014-04"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-04-11",
+      "settlement_symbol": "NDS",
+      "settlement_value": "3453.82",
+      "year_month": "2014-04"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-04-04",
+      "settlement_symbol": "OEX",
+      "settlement_value": "824.58",
+      "year_month": "2014-04"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-04-04",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1865.09",
+      "year_month": "2014-04"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-04-04",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1190.14",
+      "year_month": "2014-04"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-04-04",
+      "settlement_symbol": "DJS",
+      "settlement_value": "166.37",
+      "year_month": "2014-04"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-04-04",
+      "settlement_symbol": "NDS",
+      "settlement_value": "3663.33",
+      "year_month": "2014-04"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "**",
+      "settlement_symbol": "OEX",
+      "settlement_value": "**",
+      "year_month": "2014-03"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "**",
+      "settlement_symbol": "SPX",
+      "settlement_value": "**",
+      "year_month": "2014-03"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "**",
+      "settlement_symbol": "RLS",
+      "settlement_value": "**",
+      "year_month": "2014-03"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "**",
+      "settlement_symbol": "DJS",
+      "settlement_value": "**",
+      "year_month": "2014-03"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "**",
+      "settlement_symbol": "NDS",
+      "settlement_value": "**",
+      "year_month": "2014-03"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-03-28",
+      "settlement_symbol": "OEX",
+      "settlement_value": "822.40",
+      "year_month": "2014-03"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-03-28",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1857.62",
+      "year_month": "2014-03"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-03-28",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1152.19",
+      "year_month": "2014-03"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-03-28",
+      "settlement_symbol": "DJS",
+      "settlement_value": "163.10",
+      "year_month": "2014-03"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-03-28",
+      "settlement_symbol": "NDS",
+      "settlement_value": "3575.21",
+      "year_month": "2014-03"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-03-14",
+      "settlement_symbol": "OEX",
+      "settlement_value": "811.70",
+      "year_month": "2014-03"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-03-14",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1841.13",
+      "year_month": "2014-03"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-03-14",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1172.80",
+      "year_month": "2014-03"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-03-14",
+      "settlement_symbol": "DJS",
+      "settlement_value": "161.00",
+      "year_month": "2014-03"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-03-14",
+      "settlement_symbol": "NDS",
+      "settlement_value": "3636.57",
+      "year_month": "2014-03"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-03-07",
+      "settlement_symbol": "OEX",
+      "settlement_value": "826.70",
+      "year_month": "2014-03"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-03-07",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1878.04",
+      "year_month": "2014-03"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-03-07",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1211.35",
+      "year_month": "2014-03"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-03-07",
+      "settlement_symbol": "DJS",
+      "settlement_value": "164.96",
+      "year_month": "2014-03"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-03-07",
+      "settlement_symbol": "NDS",
+      "settlement_value": "3739.44",
+      "year_month": "2014-03"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "**",
+      "settlement_symbol": "OEX",
+      "settlement_value": "**",
+      "year_month": "2014-02"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "**",
+      "settlement_symbol": "SPX",
+      "settlement_value": "**",
+      "year_month": "2014-02"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "**",
+      "settlement_symbol": "RLS",
+      "settlement_value": "**",
+      "year_month": "2014-02"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "**",
+      "settlement_symbol": "DJS",
+      "settlement_value": "**",
+      "year_month": "2014-02"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "**",
+      "settlement_symbol": "NDS",
+      "settlement_value": "**",
+      "year_month": "2014-02"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-02-28",
+      "settlement_symbol": "OEX",
+      "settlement_value": "818.24",
+      "year_month": "2014-02"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-02-28",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1859.45",
+      "year_month": "2014-02"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-02-28",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1190.18",
+      "year_month": "2014-02"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-02-28",
+      "settlement_symbol": "DJS",
+      "settlement_value": "162.81",
+      "year_month": "2014-02"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-02-28",
+      "settlement_symbol": "NDS",
+      "settlement_value": "3709.10",
+      "year_month": "2014-02"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-02-14",
+      "settlement_symbol": "OEX",
+      "settlement_value": "812.57",
+      "year_month": "2014-02"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-02-14",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1838.63",
+      "year_month": "2014-02"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-02-14",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1148.66",
+      "year_month": "2014-02"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-02-14",
+      "settlement_symbol": "DJS",
+      "settlement_value": "160.05",
+      "year_month": "2014-02"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-02-14",
+      "settlement_symbol": "NDS",
+      "settlement_value": "3646.62",
+      "year_month": "2014-02"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-02-07",
+      "settlement_symbol": "OEX",
+      "settlement_value": "789.27",
+      "year_month": "2014-02"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-02-07",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1797.02",
+      "year_month": "2014-02"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-02-07",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1107.60",
+      "year_month": "2014-02"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-02-07",
+      "settlement_symbol": "DJS",
+      "settlement_value": "156.85",
+      "year_month": "2014-02"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-02-07",
+      "settlement_symbol": "NDS",
+      "settlement_value": "3522.86",
+      "year_month": "2014-02"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-01-31",
+      "settlement_symbol": "OEX",
+      "settlement_value": "789.70",
+      "year_month": "2014-01"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-01-31",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1782.59",
+      "year_month": "2014-01"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-01-31",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1121.12",
+      "year_month": "2014-01"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-01-31",
+      "settlement_symbol": "DJS",
+      "settlement_value": "156.39",
+      "year_month": "2014-01"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-01-31",
+      "settlement_symbol": "NDS",
+      "settlement_value": "3485.79",
+      "year_month": "2014-01"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-01-24",
+      "settlement_symbol": "OEX",
+      "settlement_value": "796.28",
+      "year_month": "2014-01"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-01-24",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1790.29",
+      "year_month": "2014-01"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-01-24",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1163.66",
+      "year_month": "2014-01"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-01-24",
+      "settlement_symbol": "DJS",
+      "settlement_value": "160.93",
+      "year_month": "2014-01"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-01-24",
+      "settlement_symbol": "NDS",
+      "settlement_value": "3604.07",
+      "year_month": "2014-01"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-01-10",
+      "settlement_symbol": "OEX",
+      "settlement_value": "817.95",
+      "year_month": "2014-01"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-01-10",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1842.37",
+      "year_month": "2014-01"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-01-10",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1160.75",
+      "year_month": "2014-01"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-01-10",
+      "settlement_symbol": "DJS",
+      "settlement_value": "164.82",
+      "year_month": "2014-01"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-01-10",
+      "settlement_symbol": "NDS",
+      "settlement_value": "3568.94",
+      "year_month": "2014-01"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "OEX",
+      "expiration_date": "2014-01-03",
+      "settlement_symbol": "OEX",
+      "settlement_value": "816.47",
+      "year_month": "2014-01"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2014-01-03",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1831.37",
+      "year_month": "2014-01"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "trading_symbol": "RUT",
+      "expiration_date": "2014-01-03",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1151.70",
+      "year_month": "2014-01"
+    },
+    {
+      "description": "DJ 1/100th",
+      "trading_symbol": "DJX",
+      "expiration_date": "2014-01-03",
+      "settlement_symbol": "DJS",
+      "settlement_value": "164.68",
+      "year_month": "2014-01"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2014-01-03",
+      "settlement_symbol": "NDS",
+      "settlement_value": "3565.84",
+      "year_month": "2014-01"
+    }
+  ]
+}

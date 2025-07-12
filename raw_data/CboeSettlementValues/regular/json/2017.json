@@ -1,0 +1,1156 @@
+{
+  "data": [
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1186.68",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "2669.02",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "8.75",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "RVX Options",
+      "settlement_symbol": "RSL",
+      "settlement_value": "14.67",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "246.70",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "6436.94",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "MSCI EAFE",
+      "settlement_symbol": "MXS",
+      "settlement_value": "2007.97",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "MSCI Emerging Markets",
+      "settlement_symbol": "EFS",
+      "settlement_value": "1118.50",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1510.22",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "Russell 1000 Index",
+      "settlement_symbol": "RIR",
+      "settlement_value": "1477.28",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "Russell 1000 Growth",
+      "settlement_symbol": "RLR",
+      "settlement_value": "1353.63",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "Russell 1000 Value",
+      "settlement_symbol": "RVS",
+      "settlement_value": "1213.94",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "FTSE-100 Mini Index",
+      "settlement_symbol": "UKS",
+      "settlement_value": "744.60",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "FTSE China 50 Mini Index",
+      "settlement_symbol": "FZS",
+      "settlement_value": "200.98",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "FTSE Emerging Index Options",
+      "settlement_symbol": "EMS",
+      "settlement_value": "544.02",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "S&P 500 PM Settled Options",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2675.81",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1135.35",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "2580.25",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "13.79",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "RVX Options",
+      "settlement_symbol": "RSL",
+      "settlement_value": "16.59",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "234.03",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "6349.35",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "MSCI EAFE",
+      "settlement_symbol": "MXS",
+      "settlement_value": "1986.15",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "MSCI Emerging Markets",
+      "settlement_symbol": "EFS",
+      "settlement_value": "1136.45",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1481.08",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "Russell 1000 Index",
+      "settlement_symbol": "RIR",
+      "settlement_value": "1430.06",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "Russell 1000 Growth",
+      "settlement_symbol": "RLR",
+      "settlement_value": "1316.80",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "Russell 1000 Value",
+      "settlement_symbol": "RVS",
+      "settlement_value": "1169.22",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "FTSE-100 Mini Index",
+      "settlement_symbol": "UKS",
+      "settlement_value": "736.37",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "FTSE China 50 Mini Index",
+      "settlement_symbol": "FZS",
+      "settlement_value": "206.10",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "FTSE Emerging Index Options",
+      "settlement_symbol": "EMS",
+      "settlement_value": "548.73",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "S&P 500 PM Settled Options",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2578.85",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1135.26",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "2571.76",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "10.53",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "RVX Options",
+      "settlement_symbol": "RSL",
+      "settlement_value": "13.88",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "232.52",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "6122.05",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "MSCI EAFE",
+      "settlement_symbol": "MXS",
+      "settlement_value": "1997.74",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "MSCI Emerging Markets",
+      "settlement_symbol": "EFS",
+      "settlement_value": "1119.69",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1513.92",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "Russell 1000 Index",
+      "settlement_symbol": "RIR",
+      "settlement_value": "1425.72",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "Russell 1000 Growth",
+      "settlement_symbol": "RLR",
+      "settlement_value": "1291.85",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "Russell 1000 Value",
+      "settlement_symbol": "RVS",
+      "settlement_value": "1184.94",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "FTSE-100 Mini Index",
+      "settlement_symbol": "UKS",
+      "settlement_value": "754.77",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "FTSE China 50 Mini Index",
+      "settlement_symbol": "FZS",
+      "settlement_value": "203.07",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "FTSE Emerging Index Options",
+      "settlement_symbol": "EMS",
+      "settlement_value": "546.56",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "S&P 500 PM Settled Options",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2575.21",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1105.11",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "2496.83",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "9.87",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "RVX Options",
+      "settlement_symbol": "RSL",
+      "settlement_value": "12.38",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "222.83",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "5973.85",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "MSCI EAFE",
+      "settlement_symbol": "MXS",
+      "settlement_value": "1964.30",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "MSCI Emerging Markets",
+      "settlement_symbol": "EFS",
+      "settlement_value": "1102.16",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1427.02",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "Russell 1000 Index",
+      "settlement_symbol": "RIR",
+      "settlement_value": "1383.06",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "Russell 1000 Growth",
+      "settlement_symbol": "RLR",
+      "settlement_value": "1250.91",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "Russell 1000 Value",
+      "settlement_symbol": "RVS",
+      "settlement_value": "1151.59",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "FTSE-100 Mini Index",
+      "settlement_symbol": "UKS",
+      "settlement_value": "723.43",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "FTSE China 50 Mini Index",
+      "settlement_symbol": "FZS",
+      "settlement_value": "194.81",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "FTSE Emerging Index Options",
+      "settlement_symbol": "EMS",
+      "settlement_value": "542.89",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "S&P 500 PM Settled Options",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2500.23",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1073.52",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "2425.90",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "12.95",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "RVX Options",
+      "settlement_symbol": "RSL",
+      "settlement_value": "15.62",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "217.11",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "5793.88",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "MSCI EAFE",
+      "settlement_symbol": "MXS",
+      "settlement_value": "1916.68",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "MSCI Emerging Markets",
+      "settlement_symbol": "EFS",
+      "settlement_value": "1059.54",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1348.70",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "Russell 1000 Index",
+      "settlement_symbol": "RIR",
+      "settlement_value": "1342.92",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "Russell 1000 Growth",
+      "settlement_symbol": "RLR",
+      "settlement_value": "1210.29",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "Russell 1000 Value",
+      "settlement_symbol": "RVS",
+      "settlement_value": "1122.12",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "FTSE-100 Mini Index",
+      "settlement_symbol": "UKS",
+      "settlement_value": "731.05",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "FTSE China 50 Mini Index",
+      "settlement_symbol": "FZS",
+      "settlement_value": "185.79",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "FTSE Emerging Index Options",
+      "settlement_symbol": "EMS",
+      "settlement_value": "521.88",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "S&P 500 PM Settled Options",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2425.55",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1087.74",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "2465.65",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "10.11",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "RVX Options",
+      "settlement_symbol": "RSL",
+      "settlement_value": "13.81",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "215.67",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "5892.11",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "MSCI EAFE",
+      "settlement_symbol": "MXS",
+      "settlement_value": "1927.65",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "MSCI Emerging Markets",
+      "settlement_symbol": "EFS",
+      "settlement_value": "1060.18",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1454.29",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "Russell 1000 Index",
+      "settlement_symbol": "RIR",
+      "settlement_value": "1366.58",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "Russell 1000 Growth",
+      "settlement_symbol": "RLR",
+      "settlement_value": "1225.65",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "Russell 1000 Value",
+      "settlement_symbol": "RVS",
+      "settlement_value": "1147.35",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "FTSE-100 Mini Index",
+      "settlement_symbol": "UKS",
+      "settlement_value": "751.59",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "FTSE China 50 Mini Index",
+      "settlement_symbol": "FZS",
+      "settlement_value": "185.50",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "FTSE Emerging Index Options",
+      "settlement_symbol": "EMS",
+      "settlement_value": "518.77",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "S&P 500 PM Settled Options",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2472.54",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1071.85",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "2434.89",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "10.71",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "RVX Options",
+      "settlement_symbol": "RSL",
+      "settlement_value": "14.74",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "213.60",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "5702.27",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "MSCI EAFE",
+      "settlement_symbol": "MXS",
+      "settlement_value": "1892.93",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "MSCI Emerging Markets",
+      "settlement_symbol": "EFS",
+      "settlement_value": "1003.12",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1397.20",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "Russell 1000 Index",
+      "settlement_symbol": "RIR",
+      "settlement_value": "1349.18",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "Russell 1000 Growth",
+      "settlement_symbol": "RLR",
+      "settlement_value": "1198.83",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "Russell 1000 Value",
+      "settlement_symbol": "RVS",
+      "settlement_value": "1143.86",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "FTSE-100 Mini Index",
+      "settlement_symbol": "UKS",
+      "settlement_value": "748.61",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "FTSE China 50 Mini Index",
+      "settlement_symbol": "FZS",
+      "settlement_value": "177.12",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "FTSE Emerging Index Options",
+      "settlement_symbol": "EMS",
+      "settlement_value": "495.08",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "S&P 500 PM Settled Options",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2433.15",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1050.79",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "2372.50",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "12.98",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "RVX Options",
+      "settlement_symbol": "RSL",
+      "settlement_value": "16.40",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "207.01",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "5642.30",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "MSCI EAFE",
+      "settlement_symbol": "MXS",
+      "settlement_value": "1882.75",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "MSCI Emerging Markets",
+      "settlement_symbol": "EFS",
+      "settlement_value": "995.67",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1363.38",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "Russell 1000 Index",
+      "settlement_symbol": "RIR",
+      "settlement_value": "1314.69",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "Russell 1000 Growth",
+      "settlement_symbol": "RLR",
+      "settlement_value": "1170.10",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "Russell 1000 Value",
+      "settlement_symbol": "RVS",
+      "settlement_value": "1112.71",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "FTSE-100 Mini Index",
+      "settlement_symbol": "UKS",
+      "settlement_value": "748.41",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "FTSE China 50 Mini Index",
+      "settlement_symbol": "FZS",
+      "settlement_value": "175.52",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "FTSE Emerging Index Options",
+      "settlement_symbol": "EMS",
+      "settlement_value": "493.93",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "S&P 500 PM Settled Options",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2381.73",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1037.07",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "S&P 500 PM Settled Options",
+      "settlement_symbol": "SPXPM",
+      "settlement_value": "2348.69",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "2354.18",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "14.37",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "RVX Options",
+      "settlement_symbol": "RSL",
+      "settlement_value": "19.60",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "205.91",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "5445.46",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "MSCI EAFE",
+      "settlement_symbol": "MXS",
+      "settlement_value": "1780.77",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "MSCI Emerging Markets",
+      "settlement_symbol": "EFS",
+      "settlement_value": "961.78",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1382.87",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "Russell 1000 Index",
+      "settlement_symbol": "RIR",
+      "settlement_value": "1306.30",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "Russell 1000 Growth",
+      "settlement_symbol": "RLR",
+      "settlement_value": "1147.00",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "Russell 1000 Value",
+      "settlement_symbol": "RVS",
+      "settlement_value": "1121.26",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "FTSE-100 Mini Index",
+      "settlement_symbol": "UKS",
+      "settlement_value": "710.81",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "FTSE China 50 Mini Index",
+      "settlement_symbol": "FZS",
+      "settlement_value": "170.21",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "FTSE Emerging Index Options",
+      "settlement_symbol": "EMS",
+      "settlement_value": "484.70",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1055.34",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "S&P 500 PM Settled Options",
+      "settlement_symbol": "SPXPM",
+      "settlement_value": "2378.25",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "2385.80",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "12.74",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "RVX Options",
+      "settlement_symbol": "RSL",
+      "settlement_value": "18.35",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "209.72",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "5425.34",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "MSCI EAFE",
+      "settlement_symbol": "MXS",
+      "settlement_value": "1798.96",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "MSCI Emerging Markets",
+      "settlement_symbol": "EFS",
+      "settlement_value": "965.57",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1383.95",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "Russell 1000 Index",
+      "settlement_symbol": "RIR",
+      "settlement_value": "1322.39",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "Russell 1000 Growth",
+      "settlement_symbol": "RLR",
+      "settlement_value": "1147.34",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "Russell 1000 Value",
+      "settlement_symbol": "RVS",
+      "settlement_value": "1148.89",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "FTSE-100 Mini Index",
+      "settlement_symbol": "UKS",
+      "settlement_value": "743.85",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "FTSE China 50 Mini Index",
+      "settlement_symbol": "FZS",
+      "settlement_value": "175.29",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "FTSE Emerging Index Options",
+      "settlement_symbol": "EMS",
+      "settlement_value": "487.76",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1039.23",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "S&P 500 PM Settled Options",
+      "settlement_symbol": "SPXPM",
+      "settlement_value": "2351.16",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "2341.31",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "12.26",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "RVX Options",
+      "settlement_symbol": "RSL",
+      "settlement_value": "17.18",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "205.50",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "5294.83",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "MSCI EAFE",
+      "settlement_symbol": "MXS",
+      "settlement_value": "1754.94",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "MSCI Emerging Markets",
+      "settlement_symbol": "EFS",
+      "settlement_value": "939.03",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1399.13",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "Russell 1000 Index",
+      "settlement_symbol": "RIR",
+      "settlement_value": "1299.88",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "Russell 1000 Growth",
+      "settlement_symbol": "RLR",
+      "settlement_value": "1121.39",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "Russell 1000 Value",
+      "settlement_symbol": "RVS",
+      "settlement_value": "1135.77",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "FTSE-100 Mini Index",
+      "settlement_symbol": "UKS",
+      "settlement_value": "728.11",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "FTSE China 50 Mini Index",
+      "settlement_symbol": "FZS",
+      "settlement_value": "171.80",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "FTSE Emerging Index Options",
+      "settlement_symbol": "EMS",
+      "settlement_value": "477.13",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1003.04",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "S&P 500 PM Settled Options",
+      "settlement_symbol": "SPXPM",
+      "settlement_value": "2271.31",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "2273.60",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "12.52",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "RVX Options",
+      "settlement_symbol": "RSL",
+      "settlement_value": "21.85",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "198.34",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "5079.46",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "MSCI EAFE",
+      "settlement_symbol": "MXS",
+      "settlement_value": "1719.58",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "MSCI Emerging Markets",
+      "settlement_symbol": "EFS",
+      "settlement_value": "893.28",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1347.41",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "Russell 1000 Index",
+      "settlement_symbol": "RIR",
+      "settlement_value": "1261.85",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "Russell 1000 Growth",
+      "settlement_symbol": "RLR",
+      "settlement_value": "1083.11",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "Russell 1000 Value",
+      "settlement_symbol": "RVS",
+      "settlement_value": "1107.99",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "FTSE-100 Mini Index",
+      "settlement_symbol": "UKS",
+      "settlement_value": "721.33",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "FTSE China 50 Mini Index",
+      "settlement_symbol": "FZS",
+      "settlement_value": "162.19",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "FTSE Emerging Index Options",
+      "settlement_symbol": "EMS",
+      "settlement_value": "451.88",
+      "year_month": "2017-01"
+    }
+  ]
+}

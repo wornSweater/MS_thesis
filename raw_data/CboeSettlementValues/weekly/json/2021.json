@@ -1,0 +1,3124 @@
+{
+  "data": [
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-12-31",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2194.58,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-12-31",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4766.18,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-12-31",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2245.3125,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-12-31",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1232.01,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-12-31",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2336.07,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-12-31",
+      "settlement_symbol": "DJS",
+      "settlement_value": 363.71,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-12-29",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4793.06,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-12-29",
+      "settlement_symbol": "VRO",
+      "settlement_value": 17.94,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-12-27",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4791.19,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-12-23",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2183.22,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-12-23",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4725.79,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-12-23",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2241.5761,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-12-23",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1219.6,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-12-23",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2314.75,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-12-23",
+      "settlement_symbol": "DJS",
+      "settlement_value": 358.54,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-12-22",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4696.56,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-12-20",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4568.02,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-12-15",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4709.85,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-12-15",
+      "settlement_symbol": "VRO",
+      "settlement_value": 22.2,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-12-13",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4668.97,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-12-10",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2181.62,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-12-10",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4712.02,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-12-10",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2211.8056,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-12-10",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1238.54,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-12-10",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2289.62,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-12-10",
+      "settlement_symbol": "DJS",
+      "settlement_value": 358.92,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-12-08",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4701.21,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-12-08",
+      "settlement_symbol": "VRO",
+      "settlement_value": 22.01,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-12-06",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4591.67,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-12-03",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2095.32,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-12-03",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4538.43,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-12-03",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2159.3098,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-12-03",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1224.64,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-12-03",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2235.12,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-12-03",
+      "settlement_symbol": "DJS",
+      "settlement_value": 347.39,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-12-01",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4513.04,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-12-01",
+      "settlement_symbol": "VRO",
+      "settlement_value": 24.44,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-11-29",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4655.27,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-11-26",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2122.4,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-11-26",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4594.62,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-11-26",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2245.9353,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-11-26",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1223.13,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-11-26",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2256.95,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-11-26",
+      "settlement_symbol": "DJS",
+      "settlement_value": 350.36,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-11-24",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4701.46,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-11-23",
+      "settlement_symbol": "VRO",
+      "settlement_value": 20,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-11-22",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4682.94,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-11-17",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4688.67,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-11-15",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4682.8,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-11-12",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2155.54,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-11-12",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4682.85,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-11-12",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2411.7758,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-11-12",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1285.48,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-11-12",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2364.2,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-11-12",
+      "settlement_symbol": "DJS",
+      "settlement_value": 360.48,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-11-10",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4646.71,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-11-10",
+      "settlement_symbol": "VRO",
+      "settlement_value": 18.65,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-11-08",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4701.7,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-11-05",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2170.37,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-11-05",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4697.53,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-11-05",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2437.0824,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-11-05",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1264.07,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-11-05",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2373.27,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-11-05",
+      "settlement_symbol": "DJS",
+      "settlement_value": 363.09,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-11-03",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4660.57,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-11-03",
+      "settlement_symbol": "VRO",
+      "settlement_value": 16.37,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-11-01",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4613.67,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-10-29",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2121.95,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-10-29",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4605.38,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-10-29",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2297.1909,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-10-29",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1264.75,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-10-29",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2335.53,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-10-29",
+      "settlement_symbol": "DJS",
+      "settlement_value": 356.46,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-10-27",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4551.68,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-10-27",
+      "settlement_symbol": "VRO",
+      "settlement_value": 15.76,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-10-25",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4566.48,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-10-22",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2078.7,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-10-22",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4544.9,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-10-22",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2291.266,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-10-22",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1293.14,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-10-22",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2338.59,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-10-22",
+      "settlement_symbol": "DJS",
+      "settlement_value": 356.13,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-10-20",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4536.19,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-10-18",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4486.46,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-10-13",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4363.8,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-10-13",
+      "settlement_symbol": "VRO",
+      "settlement_value": 19.39,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-10-11",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4361.19,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-10-08",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2019.05,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-10-08",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4391.34,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-10-08",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2233.0893,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-10-08",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1257.04,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-10-08",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2269.79,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-10-08",
+      "settlement_symbol": "DJS",
+      "settlement_value": 347.95,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-10-06",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4363.55,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-10-06",
+      "settlement_symbol": "VRO",
+      "settlement_value": 23.12,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-10-04",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4300.46,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-10-01",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2001.87,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-10-01",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4357.04,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-10-01",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2241.6315,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-10-01",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1246.6,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-10-01",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2263.9,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-10-01",
+      "settlement_symbol": "DJS",
+      "settlement_value": 340.31,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-09-29",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4359.46,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-09-29",
+      "settlement_symbol": "VRO",
+      "settlement_value": 22.95,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-09-27",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4443.11,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-09-24",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2045.17,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-09-24",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4455.48,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-09-24",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2248.0747,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-09-24",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1265.1,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-09-24",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2341.69,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-09-24",
+      "settlement_symbol": "DJS",
+      "settlement_value": 346.66,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-09-22",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4395.64,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-09-22",
+      "settlement_symbol": "VRO",
+      "settlement_value": 22.48,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-09-20",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4357.73,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-09-15",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4480.7,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-09-13",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4468.73,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-09-10",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2048.95,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-09-10",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4458.58,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-09-10",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2227.5464,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-09-10",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1308.94,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-09-10",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2381.44,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-09-10",
+      "settlement_symbol": "DJS",
+      "settlement_value": 350.7,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-09-08",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4514.07,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-09-08",
+      "settlement_symbol": "VRO",
+      "settlement_value": 19,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-09-07",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4520.03,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-09-03",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2082.79,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-09-03",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4535.43,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-09-03",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2292.0477,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-09-03",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1315.91,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-09-03",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2389.45,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-09-03",
+      "settlement_symbol": "DJS",
+      "settlement_value": 353.47,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-09-01",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4524.09,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-09-01",
+      "settlement_symbol": "VRO",
+      "settlement_value": 16.42,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-08-30",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4528.79,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-08-27",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2068.29,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-08-27",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4509.37,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-08-27",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2277.1507,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-08-27",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1272.67,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-08-27",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2349.46,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-08-27",
+      "settlement_symbol": "DJS",
+      "settlement_value": 352.82,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-08-25",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4496.19,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-08-25",
+      "settlement_symbol": "VRO",
+      "settlement_value": 17.24,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-08-23",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4479.53,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-08-18",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4400.27,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-08-16",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4479.71,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-08-13",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2049.53,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-08-13",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4468,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-08-13",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2223.1085,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-08-13",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1280.86,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-08-13",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2379,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-08-13",
+      "settlement_symbol": "DJS",
+      "settlement_value": 355.74,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-08-11",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4447.7,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-08-11",
+      "settlement_symbol": "VRO",
+      "settlement_value": 16.32,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-08-09",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4432.35,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-08-06",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2031.71,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-08-06",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4436.52,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-08-06",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2247.7611,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-08-06",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1292.53,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-08-06",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2344.82,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-08-06",
+      "settlement_symbol": "DJS",
+      "settlement_value": 351.57,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-08-04",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4402.66,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-08-04",
+      "settlement_symbol": "VRO",
+      "settlement_value": 18.97,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-08-02",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4387.16,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-07-30",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2011.75,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-07-30",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4395.26,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-07-30",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2226.2463,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-07-30",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1277.81,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-07-30",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2321.09,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-07-30",
+      "settlement_symbol": "DJS",
+      "settlement_value": 349.9,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-07-28",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4400.64,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-07-28",
+      "settlement_symbol": "VRO",
+      "settlement_value": 19,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-07-26",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4422.3,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-07-23",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2031.92,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-07-23",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4411.79,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-07-23",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2209.6487,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-07-23",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1311.3,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-07-23",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2307.08,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-07-23",
+      "settlement_symbol": "DJS",
+      "settlement_value": 349.88,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-07-21",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4358.69,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-07-19",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4258.49,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-07-14",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4374.3,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-07-14",
+      "settlement_symbol": "VRO",
+      "settlement_value": 16.22,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-07-12",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4384.63,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-07-09",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2005.92,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-07-09",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4369.55,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-07-09",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2280.0046,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-07-09",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1318.18,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-07-09",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2313.37,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-07-09",
+      "settlement_symbol": "DJS",
+      "settlement_value": 346.51,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-07-07",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4358.13,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-07-07",
+      "settlement_symbol": "VRO",
+      "settlement_value": 16.47,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-07-06",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4343.54,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-07-02",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1993.12,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-07-02",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4352.34,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-07-02",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2305.7624,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-07-02",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1355.38,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-07-02",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2315.5,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-07-02",
+      "settlement_symbol": "DJS",
+      "settlement_value": 346.88,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-06-30",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4297.5,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-06-30",
+      "settlement_symbol": "VRO",
+      "settlement_value": 16.78,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-06-28",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4290.61,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-06-25",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1952.49,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-06-25",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4280.7,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-06-25",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2334.3955,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-06-25",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1379.59,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-06-25",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2342.44,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-06-25",
+      "settlement_symbol": "DJS",
+      "settlement_value": 343.64,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-06-23",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4241.84,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-06-23",
+      "settlement_symbol": "VRO",
+      "settlement_value": 16.3,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-06-21",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4224.79,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-06-16",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4223.7,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-06-14",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4255.15,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-06-11",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1929.59,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-06-11",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4247.44,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-06-11",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2335.8076,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-06-11",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1381.99,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-06-11",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2365.55,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-06-11",
+      "settlement_symbol": "DJS",
+      "settlement_value": 345.65,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-06-09",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4219.55,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-06-09",
+      "settlement_symbol": "VRO",
+      "settlement_value": 16.92,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-06-07",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4226.52,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-06-04",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1915.73,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-06-04",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4229.89,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-06-04",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2286.4121,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-06-04",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1381.56,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-06-04",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2357.8,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-06-04",
+      "settlement_symbol": "DJS",
+      "settlement_value": 346.98,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-06-02",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4208.12,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-06-02",
+      "settlement_symbol": "VRO",
+      "settlement_value": 18.04,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-06-01",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4202.04,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-05-28",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1904.55,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-05-28",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4204.11,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-05-28",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2268.9722,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-05-28",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1360.78,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-05-28",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2341.39,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-05-28",
+      "settlement_symbol": "DJS",
+      "settlement_value": 346.07,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-05-26",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4195.99,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-05-26",
+      "settlement_symbol": "VRO",
+      "settlement_value": 18.91,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-05-24",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4197.05,
+      "display_order": 17
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-05-21",
+      "settlement_symbol": "DJS",
+      "settlement_value": 342.52,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-05-19",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4115.68,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-05-17",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4163.29,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-05-14",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1890.32,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-05-14",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4173.85,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-05-14",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2224.63,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-05-14",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1307.53,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-05-14",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2292.17,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-05-14",
+      "settlement_symbol": "DJS",
+      "settlement_value": 342.14,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-05-12",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4063.04,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-05-12",
+      "settlement_symbol": "VRO",
+      "settlement_value": 23.29,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-05-10",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4188.43,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-05-07",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1919.28,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-05-07",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4232.6,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-05-07",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2271.6294,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-05-07",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1348.57,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-05-07",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2324.42,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-05-07",
+      "settlement_symbol": "DJS",
+      "settlement_value": 345.06,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-05-05",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4167.59,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-05-05",
+      "settlement_symbol": "VRO",
+      "settlement_value": 18.39,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-05-03",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4192.66,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-04-30",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1900.83,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-04-30",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4181.17,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-04-30",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2266.45,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-04-30",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1347.61,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-04-30",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2268.51,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-04-30",
+      "settlement_symbol": "DJS",
+      "settlement_value": 338.88,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-04-28",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4183.18,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-04-28",
+      "settlement_symbol": "VRO",
+      "settlement_value": 17.38,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-04-26",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4187.62,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-04-23",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1898.23,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-04-23",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4180.17,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-04-23",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2271.8564,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-04-23",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1353.02,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-04-23",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2287.85,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-04-23",
+      "settlement_symbol": "DJS",
+      "settlement_value": 337.48,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-04-21",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4173.42,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-04-19",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4163.26,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-04-16",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1908.86,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-04-16",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4185.47,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-04-16",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2262.67,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-04-16",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1348.69,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-04-16",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2299.28,
+      "display_order": 39
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-04-15",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4170.42,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-04-14",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4124.66,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-04-14",
+      "settlement_symbol": "VRO",
+      "settlement_value": 16.8,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-04-12",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4127.99,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-04-09",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1882.89,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-04-09",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4128.8,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-04-09",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2243.47,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-04-09",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1330.36,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-04-09",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2262.48,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-04-09",
+      "settlement_symbol": "DJS",
+      "settlement_value": 335.94,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-04-07",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4079.95,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-04-07",
+      "settlement_symbol": "VRO",
+      "settlement_value": 17.74,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-04-05",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4077.91,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-04-01",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1822.54,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-04-01",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4019.87,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-04-01",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2253.9,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-04-01",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1335.24,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-04-01",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2219.15,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-04-01",
+      "settlement_symbol": "DJS",
+      "settlement_value": 330.92,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-03-31",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3972.89,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-03-31",
+      "settlement_symbol": "VRO",
+      "settlement_value": 19.24,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-03-29",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3971.09,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-03-26",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1798.1,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-03-26",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3974.54,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-03-26",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2221.48,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-03-26",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1307.48,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-03-26",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2217.82,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-03-26",
+      "settlement_symbol": "DJS",
+      "settlement_value": 327.61,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-03-24",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3889.14,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-03-24",
+      "settlement_symbol": "VRO",
+      "settlement_value": 19.85,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-03-22",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3940.59,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-03-17",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3974.12,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-03-15",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3968.94,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-03-12",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1786.83,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-03-12",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3943.34,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-03-12",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2352.79,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-03-12",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1348.2,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-03-12",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2219.3,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-03-12",
+      "settlement_symbol": "DJS",
+      "settlement_value": 324.99,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-03-10",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3898.81,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-03-10",
+      "settlement_symbol": "VRO",
+      "settlement_value": 22.56,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-03-08",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3821.35,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-03-05",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1743.71,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-03-05",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3841.94,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-03-05",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2192.21,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-03-05",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1339.31,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-03-05",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2155.51,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-03-05",
+      "settlement_symbol": "DJS",
+      "settlement_value": 312.13,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-03-03",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3819.72,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-03-02",
+      "settlement_symbol": "VRO",
+      "settlement_value": 22.89,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-03-01",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3901.82,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-02-26",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1731.42,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-02-26",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3811.15,
+      "display_order": 17
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-02-26",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1339.26,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-02-26",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2168.87,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-02-26",
+      "settlement_symbol": "DJS",
+      "settlement_value": 314.27,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-02-24",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3925.43,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-02-24",
+      "settlement_symbol": "VRO",
+      "settlement_value": 24.35,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-02-22",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3876.5,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-02-17",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3931.33,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-02-16",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3932.59,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-02-12",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1803.12,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-02-12",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3934.83,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-02-12",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2289.36,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-02-12",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1428.87,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-02-12",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2227.7,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-02-12",
+      "settlement_symbol": "DJS",
+      "settlement_value": 313.79,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-02-10",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3909.88,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-02-10",
+      "settlement_symbol": "VRO",
+      "settlement_value": 21.59,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-02-08",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3915.59,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-02-05",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1790.11,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-02-05",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3886.83,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-02-05",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2233.33,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-02-05",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1395.35,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-02-05",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2182.17,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-02-05",
+      "settlement_symbol": "DJS",
+      "settlement_value": 312.43,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-02-03",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3830.17,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-02-03",
+      "settlement_symbol": "VRO",
+      "settlement_value": 24.51,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-02-01",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3773.86,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-01-29",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1709.75,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-01-29",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3714.24,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-01-29",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2073.64,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-01-29",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1329.57,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-01-29",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2124.05,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-01-29",
+      "settlement_symbol": "DJS",
+      "settlement_value": 303.3,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-01-27",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3750.77,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-01-27",
+      "settlement_symbol": "VRO",
+      "settlement_value": 26.18,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-01-25",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3855.36,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-01-22",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1764.21,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-01-22",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3841.47,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-01-22",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2168.76,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-01-22",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1392.85,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-01-22",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2199.97,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-01-22",
+      "settlement_symbol": "DJS",
+      "settlement_value": 310.04,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-01-20",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3851.85,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-01-19",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3798.91,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-01-13",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3809.84,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-01-13",
+      "settlement_symbol": "VRO",
+      "settlement_value": 23.23,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-01-11",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3799.61,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2021-01-08",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1747.33,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-01-08",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3824.68,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2021-01-08",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2091.66,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2021-01-08",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1353.53,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2021-01-08",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2215.12,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2021-01-08",
+      "settlement_symbol": "DJS",
+      "settlement_value": 311.15,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-01-06",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3748.14,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2021-01-06",
+      "settlement_symbol": "VRO",
+      "settlement_value": 24.99,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2021-01-04",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3700.65,
+      "display_order": 17
+    }
+  ]
+}

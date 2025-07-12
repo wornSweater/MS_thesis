@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXQ",
+      "expiration_date": "2012-12-31",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1426.19",
+      "year_month": "2012-12"
+    },
+    {
+      "description": "S&P 500 MINI",
+      "trading_symbol": "XSPPM",
+      "expiration_date": "2012-12-31",
+      "settlement_symbol": "XSP",
+      "settlement_value": "142.62",
+      "year_month": "2012-12"
+    },
+    {
+      "description": "S&P 100 Euro CLOSE",
+      "trading_symbol": "XEO",
+      "expiration_date": "2012-12-31",
+      "settlement_symbol": "XEO",
+      "settlement_value": "646.61",
+      "year_month": "2012-12"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXQ",
+      "expiration_date": "2012-09-28",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1440.67",
+      "year_month": "2012-09"
+    },
+    {
+      "description": "S&P 500 MINI",
+      "trading_symbol": "XSPPM",
+      "expiration_date": "2012-09-28",
+      "settlement_symbol": "XSP",
+      "settlement_value": "144.07",
+      "year_month": "2012-09"
+    },
+    {
+      "description": "S&P 100 Euro CLOSE",
+      "trading_symbol": "XEO",
+      "expiration_date": "2012-09-28",
+      "settlement_symbol": "XEO",
+      "settlement_value": "663.80",
+      "year_month": "2012-09"
+    }
+  ]
+}

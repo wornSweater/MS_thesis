@@ -1,0 +1,268 @@
+{
+  "data": [
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-12-30",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3839.5,
+      "display_order": 8
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-12-30",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1761.2459,
+      "display_order": 31
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-12-30",
+      "settlement_symbol": "XSP",
+      "settlement_value": 383.95,
+      "display_order": 70
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-11-30",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4080.11,
+      "display_order": 8
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-11-30",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1886.5773,
+      "display_order": 31
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-11-30",
+      "settlement_symbol": "XSP",
+      "settlement_value": 408.01,
+      "display_order": 70
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-10-31",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3871.98,
+      "display_order": 8
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-10-31",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1846.8631,
+      "display_order": 31
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-10-31",
+      "settlement_symbol": "XSP",
+      "settlement_value": 387.2,
+      "display_order": 70
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-09-30",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3585.62,
+      "display_order": 8
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-09-30",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1664.7163,
+      "display_order": 31
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-09-30",
+      "settlement_symbol": "XSP",
+      "settlement_value": 358.56,
+      "display_order": 70
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-08-31",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3955,
+      "display_order": 8
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-08-31",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1844.1154,
+      "display_order": 31
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-08-31",
+      "settlement_symbol": "XSP",
+      "settlement_value": 395.5,
+      "display_order": 70
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-07-29",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4130.29,
+      "display_order": 8
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-07-29",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1885.2303,
+      "display_order": 31
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-07-29",
+      "settlement_symbol": "XSP",
+      "settlement_value": 413.03,
+      "display_order": 70
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-06-30",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3785.38,
+      "display_order": 8
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-06-30",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1707.9899,
+      "display_order": 31
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-06-30",
+      "settlement_symbol": "XSP",
+      "settlement_value": 378.54,
+      "display_order": 70
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-05-31",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4132.15,
+      "display_order": 8
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-05-31",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1864.043,
+      "display_order": 31
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-05-31",
+      "settlement_symbol": "XSP",
+      "settlement_value": 413.21,
+      "display_order": 70
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-04-29",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4131.93,
+      "display_order": 8
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-04-29",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1864.103,
+      "display_order": 31
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-04-29",
+      "settlement_symbol": "XSP",
+      "settlement_value": 413.19,
+      "display_order": 70
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-03-31",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4530.41,
+      "display_order": 8
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-03-31",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2070.125,
+      "display_order": 31
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-03-31",
+      "settlement_symbol": "XSP",
+      "settlement_value": 453.04,
+      "display_order": 70
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-01-31",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4515.55,
+      "display_order": 8
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-01-31",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2028.4527,
+      "display_order": 31
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-01-31",
+      "settlement_symbol": "XSP",
+      "settlement_value": 451.55,
+      "display_order": 70
+    }
+  ]
+}

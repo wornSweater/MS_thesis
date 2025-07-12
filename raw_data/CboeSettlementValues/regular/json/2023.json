@@ -1,0 +1,2308 @@
+{
+  "data": [
+    {
+      "description": "VIX Options (VRO)",
+      "trading_symbol": "VIX",
+      "expiration_date": "2023-12-20",
+      "settlement_symbol": "VRO",
+      "settlement_value": 12.31,
+      "display_order": 34
+    },
+    {
+      "description": "S&P 100 (OEX)",
+      "trading_symbol": "OEX",
+      "expiration_date": "2023-12-15",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2213.6,
+      "display_order": 7
+    },
+    {
+      "description": "S&P 500 Scored & Screened Index",
+      "trading_symbol": "SPES",
+      "expiration_date": "2023-12-15",
+      "settlement_symbol": "ESGST",
+      "settlement_value": 415.86,
+      "display_order": 18
+    },
+    {
+      "description": "S&P 500 (SET)",
+      "trading_symbol": "SPX",
+      "expiration_date": "2023-12-15",
+      "settlement_symbol": "SET",
+      "settlement_value": 4694.27,
+      "display_order": 21
+    },
+    {
+      "description": "S&P 500 PM-Settled",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2023-12-15",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4719.19,
+      "display_order": 23
+    },
+    {
+      "description": "MSCI EAFE (MXS)",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2023-12-15",
+      "settlement_symbol": "MXEA",
+      "settlement_value": 2192.98,
+      "display_order": 25
+    },
+    {
+      "description": "MSCI Emerging Markets (EFS)",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2023-12-15",
+      "settlement_symbol": "MXEF",
+      "settlement_value": 1000.89,
+      "display_order": 29
+    },
+    {
+      "description": "Materials Select Sector Index (SISB)",
+      "trading_symbol": "SIXB",
+      "expiration_date": "2023-12-15",
+      "settlement_symbol": "SIXB",
+      "settlement_value": 900.21,
+      "display_order": 47
+    },
+    {
+      "description": "Communication Services Select Sector Index (SISC)",
+      "trading_symbol": "SIXC",
+      "expiration_date": "2023-12-15",
+      "settlement_symbol": "SIXC",
+      "settlement_value": 370.97,
+      "display_order": 48
+    },
+    {
+      "description": "Energy Select Sector Index (SISE)",
+      "trading_symbol": "SIXE",
+      "expiration_date": "2023-12-15",
+      "settlement_symbol": "SIXE",
+      "settlement_value": 879.79,
+      "display_order": 50
+    },
+    {
+      "description": "Industrials Select Sector Index (SISIN)",
+      "trading_symbol": "SIXI",
+      "expiration_date": "2023-12-15",
+      "settlement_symbol": "SIXI",
+      "settlement_value": 1134.24,
+      "display_order": 52
+    },
+    {
+      "description": "Financial Select Sector Index (SISM)",
+      "trading_symbol": "SIXM",
+      "expiration_date": "2023-12-15",
+      "settlement_symbol": "SIXM",
+      "settlement_value": 459.69,
+      "display_order": 54
+    },
+    {
+      "description": "Consumer Staples Select Sector Index (SISR)",
+      "trading_symbol": "SIXR",
+      "expiration_date": "2023-12-15",
+      "settlement_symbol": "SIXR",
+      "settlement_value": 715.23,
+      "display_order": 56
+    },
+    {
+      "description": "Real Estate Select Sector Index (SISRE)",
+      "trading_symbol": "SIXRE",
+      "expiration_date": "2023-12-15",
+      "settlement_symbol": "SIXRE",
+      "settlement_value": 195.2,
+      "display_order": 58
+    },
+    {
+      "description": "Technology Select Sector Index (SIST)",
+      "trading_symbol": "SIXT",
+      "expiration_date": "2023-12-15",
+      "settlement_symbol": "SIXT",
+      "settlement_value": 1931.46,
+      "display_order": 61
+    },
+    {
+      "description": "Utilities Select Sector Index (SISUT)",
+      "trading_symbol": "SIXU",
+      "expiration_date": "2023-12-15",
+      "settlement_symbol": "SIXU",
+      "settlement_value": 642.72,
+      "display_order": 63
+    },
+    {
+      "description": "Dow Jones (DJS)",
+      "trading_symbol": "DJX",
+      "expiration_date": "2023-12-15",
+      "settlement_symbol": "DJS",
+      "settlement_value": 369.96,
+      "display_order": 65
+    },
+    {
+      "description": "Health Care Select Sector Index (SISV)",
+      "trading_symbol": "SIXV",
+      "expiration_date": "2023-12-15",
+      "settlement_symbol": "SIXV",
+      "settlement_value": 1351.43,
+      "display_order": 66
+    },
+    {
+      "description": "Consumer Discretionary Select Sector Index (SISY)",
+      "trading_symbol": "SIXY",
+      "expiration_date": "2023-12-15",
+      "settlement_symbol": "SIXY",
+      "settlement_value": 1808.98,
+      "display_order": 68
+    },
+    {
+      "description": "Russell 1000 Index (RIR)",
+      "trading_symbol": "RUI",
+      "expiration_date": "2023-12-15",
+      "settlement_symbol": "RIR",
+      "settlement_value": 2581.98,
+      "display_order": 86
+    },
+    {
+      "description": "Russell 1000 Growth (RLR)",
+      "trading_symbol": "RLG",
+      "expiration_date": "2023-12-15",
+      "settlement_symbol": "RLR",
+      "settlement_value": 2997.8,
+      "display_order": 91
+    },
+    {
+      "description": "Russell 1000 Value (RVS)",
+      "trading_symbol": "RLV",
+      "expiration_date": "2023-12-15",
+      "settlement_symbol": "RVS",
+      "settlement_value": 1608.94,
+      "display_order": 92
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2023-12-15",
+      "settlement_symbol": "XSP",
+      "settlement_value": 471.92,
+      "display_order": 95
+    },
+    {
+      "description": "Russell 2000 (RLS)",
+      "trading_symbol": "RUT",
+      "expiration_date": "2023-12-15",
+      "settlement_symbol": "RLS",
+      "settlement_value": 2009.33,
+      "display_order": 96
+    },
+    {
+      "description": "S&P 100 (OEX)",
+      "trading_symbol": "OEX",
+      "expiration_date": "2023-11-17",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2135.29,
+      "display_order": 7
+    },
+    {
+      "description": "S&P 500 Scored & Screened Index",
+      "trading_symbol": "SPES",
+      "expiration_date": "2023-11-17",
+      "settlement_symbol": "ESGST",
+      "settlement_value": 401.87,
+      "display_order": 18
+    },
+    {
+      "description": "S&P 500 (SET)",
+      "trading_symbol": "SPX",
+      "expiration_date": "2023-11-17",
+      "settlement_symbol": "SET",
+      "settlement_value": 4517.97,
+      "display_order": 21
+    },
+    {
+      "description": "S&P 500 PM-Settled",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2023-11-17",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4514.02,
+      "display_order": 23
+    },
+    {
+      "description": "MSCI EAFE (MXS)",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2023-11-17",
+      "settlement_symbol": "MXEA",
+      "settlement_value": 2100.88,
+      "display_order": 25
+    },
+    {
+      "description": "MSCI Emerging Markets (EFS)",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2023-11-17",
+      "settlement_symbol": "MXEF",
+      "settlement_value": 976.52,
+      "display_order": 29
+    },
+    {
+      "description": "Materials Select Sector Index (SISB)",
+      "trading_symbol": "SIXB",
+      "expiration_date": "2023-11-17",
+      "settlement_symbol": "SIXB",
+      "settlement_value": 850.13,
+      "display_order": 47
+    },
+    {
+      "description": "Communication Services Select Sector Index (SISC)",
+      "trading_symbol": "SIXC",
+      "expiration_date": "2023-11-17",
+      "settlement_symbol": "SIXC",
+      "settlement_value": 365.92,
+      "display_order": 48
+    },
+    {
+      "description": "Energy Select Sector Index (SISE)",
+      "trading_symbol": "SIXE",
+      "expiration_date": "2023-11-17",
+      "settlement_symbol": "SIXE",
+      "settlement_value": 885.46,
+      "display_order": 50
+    },
+    {
+      "description": "Industrials Select Sector Index (SISIN)",
+      "trading_symbol": "SIXI",
+      "expiration_date": "2023-11-17",
+      "settlement_symbol": "SIXI",
+      "settlement_value": 1061.93,
+      "display_order": 52
+    },
+    {
+      "description": "Financial Select Sector Index (SISM)",
+      "trading_symbol": "SIXM",
+      "expiration_date": "2023-11-17",
+      "settlement_symbol": "SIXM",
+      "settlement_value": 430.89,
+      "display_order": 54
+    },
+    {
+      "description": "Consumer Staples Select Sector Index (SISR)",
+      "trading_symbol": "SIXR",
+      "expiration_date": "2023-11-17",
+      "settlement_symbol": "SIXR",
+      "settlement_value": 698.64,
+      "display_order": 56
+    },
+    {
+      "description": "Real Estate Select Sector Index (SISRE)",
+      "trading_symbol": "SIXRE",
+      "expiration_date": "2023-11-17",
+      "settlement_symbol": "SIXRE",
+      "settlement_value": 176.08,
+      "display_order": 58
+    },
+    {
+      "description": "Technology Select Sector Index (SIST)",
+      "trading_symbol": "SIXT",
+      "expiration_date": "2023-11-17",
+      "settlement_symbol": "SIXT",
+      "settlement_value": 1839.31,
+      "display_order": 61
+    },
+    {
+      "description": "Utilities Select Sector Index (SISUT)",
+      "trading_symbol": "SIXU",
+      "expiration_date": "2023-11-17",
+      "settlement_symbol": "SIXU",
+      "settlement_value": 627.58,
+      "display_order": 63
+    },
+    {
+      "description": "Dow Jones (DJS)",
+      "trading_symbol": "DJX",
+      "expiration_date": "2023-11-17",
+      "settlement_symbol": "DJS",
+      "settlement_value": 350.41,
+      "display_order": 65
+    },
+    {
+      "description": "Health Care Select Sector Index (SISV)",
+      "trading_symbol": "SIXV",
+      "expiration_date": "2023-11-17",
+      "settlement_symbol": "SIXV",
+      "settlement_value": 1294.07,
+      "display_order": 66
+    },
+    {
+      "description": "Consumer Discretionary Select Sector Index (SISY)",
+      "trading_symbol": "SIXY",
+      "expiration_date": "2023-11-17",
+      "settlement_symbol": "SIXY",
+      "settlement_value": 1687.27,
+      "display_order": 68
+    },
+    {
+      "description": "Russell 1000 Index (RIR)",
+      "trading_symbol": "RUI",
+      "expiration_date": "2023-11-17",
+      "settlement_symbol": "RIR",
+      "settlement_value": 2469.95,
+      "display_order": 86
+    },
+    {
+      "description": "Russell 1000 Growth (RLR)",
+      "trading_symbol": "RLG",
+      "expiration_date": "2023-11-17",
+      "settlement_symbol": "RLR",
+      "settlement_value": 2896.95,
+      "display_order": 91
+    },
+    {
+      "description": "Russell 1000 Value (RVS)",
+      "trading_symbol": "RLV",
+      "expiration_date": "2023-11-17",
+      "settlement_symbol": "RVS",
+      "settlement_value": 1520.8,
+      "display_order": 92
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2023-11-17",
+      "settlement_symbol": "XSP",
+      "settlement_value": 451.4,
+      "display_order": 95
+    },
+    {
+      "description": "Russell 2000 (RLS)",
+      "trading_symbol": "RUT",
+      "expiration_date": "2023-11-17",
+      "settlement_symbol": "RLS",
+      "settlement_value": 1788.77,
+      "display_order": 96
+    },
+    {
+      "description": "VIX Options (VRO)",
+      "trading_symbol": "VIX",
+      "expiration_date": "2023-11-15",
+      "settlement_symbol": "VRO",
+      "settlement_value": 14.22,
+      "display_order": 34
+    },
+    {
+      "description": "S&P 100 (OEX)",
+      "trading_symbol": "OEX",
+      "expiration_date": "2023-10-20",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1990.77,
+      "display_order": 7
+    },
+    {
+      "description": "S&P 500 Scored & Screened Index",
+      "trading_symbol": "SPES",
+      "expiration_date": "2023-10-20",
+      "settlement_symbol": "ESGST",
+      "settlement_value": 379.99,
+      "display_order": 18
+    },
+    {
+      "description": "S&P 500 (SET)",
+      "trading_symbol": "SPX",
+      "expiration_date": "2023-10-20",
+      "settlement_symbol": "SET",
+      "settlement_value": 4275.7,
+      "display_order": 21
+    },
+    {
+      "description": "S&P 500 PM-Settled",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2023-10-20",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4224.16,
+      "display_order": 23
+    },
+    {
+      "description": "MSCI EAFE (MXS)",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2023-10-20",
+      "settlement_symbol": "MXEA",
+      "settlement_value": 1960.4,
+      "display_order": 25
+    },
+    {
+      "description": "MSCI Emerging Markets (EFS)",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2023-10-20",
+      "settlement_symbol": "MXEF",
+      "settlement_value": 925.58,
+      "display_order": 29
+    },
+    {
+      "description": "Materials Select Sector Index (SISB)",
+      "trading_symbol": "SIXB",
+      "expiration_date": "2023-10-20",
+      "settlement_symbol": "SIXB",
+      "settlement_value": 798.37,
+      "display_order": 47
+    },
+    {
+      "description": "Communication Services Select Sector Index (SISC)",
+      "trading_symbol": "SIXC",
+      "expiration_date": "2023-10-20",
+      "settlement_symbol": "SIXC",
+      "settlement_value": 347.36,
+      "display_order": 48
+    },
+    {
+      "description": "Energy Select Sector Index (SISE)",
+      "trading_symbol": "SIXE",
+      "expiration_date": "2023-10-20",
+      "settlement_symbol": "SIXE",
+      "settlement_value": 949.77,
+      "display_order": 50
+    },
+    {
+      "description": "Industrials Select Sector Index (SISIN)",
+      "trading_symbol": "SIXI",
+      "expiration_date": "2023-10-20",
+      "settlement_symbol": "SIXI",
+      "settlement_value": 995.28,
+      "display_order": 52
+    },
+    {
+      "description": "Financial Select Sector Index (SISM)",
+      "trading_symbol": "SIXM",
+      "expiration_date": "2023-10-20",
+      "settlement_symbol": "SIXM",
+      "settlement_value": 397.19,
+      "display_order": 54
+    },
+    {
+      "description": "Consumer Staples Select Sector Index (SISR)",
+      "trading_symbol": "SIXR",
+      "expiration_date": "2023-10-20",
+      "settlement_symbol": "SIXR",
+      "settlement_value": 677.84,
+      "display_order": 56
+    },
+    {
+      "description": "Real Estate Select Sector Index (SISRE)",
+      "trading_symbol": "SIXRE",
+      "expiration_date": "2023-10-20",
+      "settlement_symbol": "SIXRE",
+      "settlement_value": 160.66,
+      "display_order": 58
+    },
+    {
+      "description": "Technology Select Sector Index (SIST)",
+      "trading_symbol": "SIXT",
+      "expiration_date": "2023-10-20",
+      "settlement_symbol": "SIXT",
+      "settlement_value": 1651.17,
+      "display_order": 61
+    },
+    {
+      "description": "Utilities Select Sector Index (SISUT)",
+      "trading_symbol": "SIXU",
+      "expiration_date": "2023-10-20",
+      "settlement_symbol": "SIXU",
+      "settlement_value": 587.41,
+      "display_order": 63
+    },
+    {
+      "description": "Dow Jones (DJS)",
+      "trading_symbol": "DJX",
+      "expiration_date": "2023-10-20",
+      "settlement_symbol": "DJS",
+      "settlement_value": 333.72,
+      "display_order": 65
+    },
+    {
+      "description": "Health Care Select Sector Index (SISV)",
+      "trading_symbol": "SIXV",
+      "expiration_date": "2023-10-20",
+      "settlement_symbol": "SIXV",
+      "settlement_value": 1293.7,
+      "display_order": 66
+    },
+    {
+      "description": "Consumer Discretionary Select Sector Index (SISY)",
+      "trading_symbol": "SIXY",
+      "expiration_date": "2023-10-20",
+      "settlement_symbol": "SIXY",
+      "settlement_value": 1532.87,
+      "display_order": 68
+    },
+    {
+      "description": "Russell 1000 Index (RIR)",
+      "trading_symbol": "RUI",
+      "expiration_date": "2023-10-20",
+      "settlement_symbol": "RIR",
+      "settlement_value": 2338.97,
+      "display_order": 86
+    },
+    {
+      "description": "Russell 1000 Growth (RLR)",
+      "trading_symbol": "RLG",
+      "expiration_date": "2023-10-20",
+      "settlement_symbol": "RLR",
+      "settlement_value": 2698.79,
+      "display_order": 91
+    },
+    {
+      "description": "Russell 1000 Value (RVS)",
+      "trading_symbol": "RLV",
+      "expiration_date": "2023-10-20",
+      "settlement_symbol": "RVS",
+      "settlement_value": 1468.12,
+      "display_order": 92
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2023-10-20",
+      "settlement_symbol": "XSP",
+      "settlement_value": 422.42,
+      "display_order": 95
+    },
+    {
+      "description": "Russell 2000 (RLS)",
+      "trading_symbol": "RUT",
+      "expiration_date": "2023-10-20",
+      "settlement_symbol": "RLS",
+      "settlement_value": 1706.35,
+      "display_order": 96
+    },
+    {
+      "description": "VIX Options (VRO)",
+      "trading_symbol": "VIX",
+      "expiration_date": "2023-10-18",
+      "settlement_symbol": "VRO",
+      "settlement_value": 18.37,
+      "display_order": 34
+    },
+    {
+      "description": "VIX Options (VRO)",
+      "trading_symbol": "VIX",
+      "expiration_date": "2023-09-20",
+      "settlement_symbol": "VRO",
+      "settlement_value": 13.96,
+      "display_order": 34
+    },
+    {
+      "description": "S&P 100 (OEX)",
+      "trading_symbol": "OEX",
+      "expiration_date": "2023-09-15",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2090.26,
+      "display_order": 7
+    },
+    {
+      "description": "S&P 500 Scored & Screened Index",
+      "trading_symbol": "SPES",
+      "expiration_date": "2023-09-15",
+      "settlement_symbol": "ESGST",
+      "settlement_value": 398.96,
+      "display_order": 18
+    },
+    {
+      "description": "S&P 500 (SET)",
+      "trading_symbol": "SPX",
+      "expiration_date": "2023-09-15",
+      "settlement_symbol": "SET",
+      "settlement_value": 4491.72,
+      "display_order": 21
+    },
+    {
+      "description": "S&P 500 PM-Settled",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2023-09-15",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4450.32,
+      "display_order": 23
+    },
+    {
+      "description": "MSCI EAFE (MXS)",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2023-09-15",
+      "settlement_symbol": "MXEA",
+      "settlement_value": 2108.22,
+      "display_order": 25
+    },
+    {
+      "description": "MSCI Emerging Markets (EFS)",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2023-09-15",
+      "settlement_symbol": "MXEF",
+      "settlement_value": 984.99,
+      "display_order": 29
+    },
+    {
+      "description": "Materials Select Sector Index (SISB)",
+      "trading_symbol": "SIXB",
+      "expiration_date": "2023-09-15",
+      "settlement_symbol": "SIXB",
+      "settlement_value": 863.47,
+      "display_order": 47
+    },
+    {
+      "description": "Communication Services Select Sector Index (SISC)",
+      "trading_symbol": "SIXC",
+      "expiration_date": "2023-09-15",
+      "settlement_symbol": "SIXC",
+      "settlement_value": 352.71,
+      "display_order": 48
+    },
+    {
+      "description": "Energy Select Sector Index (SISE)",
+      "trading_symbol": "SIXE",
+      "expiration_date": "2023-09-15",
+      "settlement_symbol": "SIXE",
+      "settlement_value": 962.74,
+      "display_order": 50
+    },
+    {
+      "description": "Industrials Select Sector Index (SISIN)",
+      "trading_symbol": "SIXI",
+      "expiration_date": "2023-09-15",
+      "settlement_symbol": "SIXI",
+      "settlement_value": 1055.18,
+      "display_order": 52
+    },
+    {
+      "description": "Financial Select Sector Index (SISM)",
+      "trading_symbol": "SIXM",
+      "expiration_date": "2023-09-15",
+      "settlement_symbol": "SIXM",
+      "settlement_value": 427.83,
+      "display_order": 54
+    },
+    {
+      "description": "Consumer Staples Select Sector Index (SISR)",
+      "trading_symbol": "SIXR",
+      "expiration_date": "2023-09-15",
+      "settlement_symbol": "SIXR",
+      "settlement_value": 722.64,
+      "display_order": 56
+    },
+    {
+      "description": "Real Estate Select Sector Index (SISRE)",
+      "trading_symbol": "SIXRE",
+      "expiration_date": "2023-09-15",
+      "settlement_symbol": "SIXRE",
+      "settlement_value": 179.63,
+      "display_order": 58
+    },
+    {
+      "description": "Technology Select Sector Index (SIST)",
+      "trading_symbol": "SIXT",
+      "expiration_date": "2023-09-15",
+      "settlement_symbol": "SIXT",
+      "settlement_value": 1699.23,
+      "display_order": 61
+    },
+    {
+      "description": "Utilities Select Sector Index (SISUT)",
+      "trading_symbol": "SIXU",
+      "expiration_date": "2023-09-15",
+      "settlement_symbol": "SIXU",
+      "settlement_value": 652.63,
+      "display_order": 63
+    },
+    {
+      "description": "Dow Jones (DJS)",
+      "trading_symbol": "DJX",
+      "expiration_date": "2023-09-15",
+      "settlement_symbol": "DJS",
+      "settlement_value": 349.15,
+      "display_order": 65
+    },
+    {
+      "description": "Health Care Select Sector Index (SISV)",
+      "trading_symbol": "SIXV",
+      "expiration_date": "2023-09-15",
+      "settlement_symbol": "SIXV",
+      "settlement_value": 1332.01,
+      "display_order": 66
+    },
+    {
+      "description": "Consumer Discretionary Select Sector Index (SISY)",
+      "trading_symbol": "SIXY",
+      "expiration_date": "2023-09-15",
+      "settlement_symbol": "SIXY",
+      "settlement_value": 1732.74,
+      "display_order": 68
+    },
+    {
+      "description": "Russell 1000 Index (RIR)",
+      "trading_symbol": "RUI",
+      "expiration_date": "2023-09-15",
+      "settlement_symbol": "RIR",
+      "settlement_value": 2460.18,
+      "display_order": 86
+    },
+    {
+      "description": "Russell 1000 Growth (RLR)",
+      "trading_symbol": "RLG",
+      "expiration_date": "2023-09-15",
+      "settlement_symbol": "RLR",
+      "settlement_value": 2816.14,
+      "display_order": 91
+    },
+    {
+      "description": "Russell 1000 Value (RVS)",
+      "trading_symbol": "RLV",
+      "expiration_date": "2023-09-15",
+      "settlement_symbol": "RVS",
+      "settlement_value": 1558.31,
+      "display_order": 92
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2023-09-15",
+      "settlement_symbol": "XSP",
+      "settlement_value": 445.03,
+      "display_order": 95
+    },
+    {
+      "description": "Russell 2000 (RLS)",
+      "trading_symbol": "RUT",
+      "expiration_date": "2023-09-15",
+      "settlement_symbol": "RLS",
+      "settlement_value": 1861.06,
+      "display_order": 96
+    },
+    {
+      "description": "S&P 100 (OEX)",
+      "trading_symbol": "OEX",
+      "expiration_date": "2023-08-18",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2039.32,
+      "display_order": 7
+    },
+    {
+      "description": "S&P 500 Scored & Screened Index",
+      "trading_symbol": "SPES",
+      "expiration_date": "2023-08-18",
+      "settlement_symbol": "ESGST",
+      "settlement_value": 384.01,
+      "display_order": 18
+    },
+    {
+      "description": "S&P 500 (SET)",
+      "trading_symbol": "SPX",
+      "expiration_date": "2023-08-18",
+      "settlement_symbol": "SET",
+      "settlement_value": 4333.68,
+      "display_order": 21
+    },
+    {
+      "description": "S&P 500 PM-Settled",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2023-08-18",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4369.71,
+      "display_order": 23
+    },
+    {
+      "description": "MSCI EAFE (MXS)",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2023-08-18",
+      "settlement_symbol": "MXEA",
+      "settlement_value": 2057.64,
+      "display_order": 25
+    },
+    {
+      "description": "MSCI Emerging Markets (EFS)",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2023-08-18",
+      "settlement_symbol": "MXEF",
+      "settlement_value": 964.44,
+      "display_order": 29
+    },
+    {
+      "description": "Materials Select Sector Index (SISB)",
+      "trading_symbol": "SIXB",
+      "expiration_date": "2023-08-18",
+      "settlement_symbol": "SIXB",
+      "settlement_value": 856.04,
+      "display_order": 47
+    },
+    {
+      "description": "Communication Services Select Sector Index (SISC)",
+      "trading_symbol": "SIXC",
+      "expiration_date": "2023-08-18",
+      "settlement_symbol": "SIXC",
+      "settlement_value": 339.92,
+      "display_order": 48
+    },
+    {
+      "description": "Energy Select Sector Index (SISE)",
+      "trading_symbol": "SIXE",
+      "expiration_date": "2023-08-18",
+      "settlement_symbol": "SIXE",
+      "settlement_value": 929.02,
+      "display_order": 50
+    },
+    {
+      "description": "Industrials Select Sector Index (SISIN)",
+      "trading_symbol": "SIXI",
+      "expiration_date": "2023-08-18",
+      "settlement_symbol": "SIXI",
+      "settlement_value": 1068.88,
+      "display_order": 52
+    },
+    {
+      "description": "Financial Select Sector Index (SISM)",
+      "trading_symbol": "SIXM",
+      "expiration_date": "2023-08-18",
+      "settlement_symbol": "SIXM",
+      "settlement_value": 417.82,
+      "display_order": 54
+    },
+    {
+      "description": "Consumer Staples Select Sector Index (SISR)",
+      "trading_symbol": "SIXR",
+      "expiration_date": "2023-08-18",
+      "settlement_symbol": "SIXR",
+      "settlement_value": 734.95,
+      "display_order": 56
+    },
+    {
+      "description": "Real Estate Select Sector Index (SISRE)",
+      "trading_symbol": "SIXRE",
+      "expiration_date": "2023-08-18",
+      "settlement_symbol": "SIXRE",
+      "settlement_value": 177.53,
+      "display_order": 58
+    },
+    {
+      "description": "Technology Select Sector Index (SIST)",
+      "trading_symbol": "SIXT",
+      "expiration_date": "2023-08-18",
+      "settlement_symbol": "SIXT",
+      "settlement_value": 1659.79,
+      "display_order": 61
+    },
+    {
+      "description": "Utilities Select Sector Index (SISUT)",
+      "trading_symbol": "SIXU",
+      "expiration_date": "2023-08-18",
+      "settlement_symbol": "SIXU",
+      "settlement_value": 639.61,
+      "display_order": 63
+    },
+    {
+      "description": "Dow Jones (DJS)",
+      "trading_symbol": "DJX",
+      "expiration_date": "2023-08-18",
+      "settlement_symbol": "DJS",
+      "settlement_value": 342.69,
+      "display_order": 65
+    },
+    {
+      "description": "Health Care Select Sector Index (SISV)",
+      "trading_symbol": "SIXV",
+      "expiration_date": "2023-08-18",
+      "settlement_symbol": "SIXV",
+      "settlement_value": 1347.79,
+      "display_order": 66
+    },
+    {
+      "description": "Consumer Discretionary Select Sector Index (SISY)",
+      "trading_symbol": "SIXY",
+      "expiration_date": "2023-08-18",
+      "settlement_symbol": "SIXY",
+      "settlement_value": 1642.1,
+      "display_order": 68
+    },
+    {
+      "description": "Russell 1000 Index (RIR)",
+      "trading_symbol": "RUI",
+      "expiration_date": "2023-08-18",
+      "settlement_symbol": "RIR",
+      "settlement_value": 2371.74,
+      "display_order": 86
+    },
+    {
+      "description": "Russell 1000 Growth (RLR)",
+      "trading_symbol": "RLG",
+      "expiration_date": "2023-08-18",
+      "settlement_symbol": "RLR",
+      "settlement_value": 2669.78,
+      "display_order": 91
+    },
+    {
+      "description": "Russell 1000 Value (RVS)",
+      "trading_symbol": "RLV",
+      "expiration_date": "2023-08-18",
+      "settlement_symbol": "RVS",
+      "settlement_value": 1530.52,
+      "display_order": 92
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2023-08-18",
+      "settlement_symbol": "XSP",
+      "settlement_value": 436.97,
+      "display_order": 95
+    },
+    {
+      "description": "Russell 2000 (RLS)",
+      "trading_symbol": "RUT",
+      "expiration_date": "2023-08-18",
+      "settlement_symbol": "RLS",
+      "settlement_value": 1832.17,
+      "display_order": 96
+    },
+    {
+      "description": "VIX Options (VRO)",
+      "trading_symbol": "VIX",
+      "expiration_date": "2023-08-16",
+      "settlement_symbol": "VRO",
+      "settlement_value": 16.28,
+      "display_order": 34
+    },
+    {
+      "description": "S&P 100 (OEX)",
+      "trading_symbol": "OEX",
+      "expiration_date": "2023-07-21",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2108.83,
+      "display_order": 7
+    },
+    {
+      "description": "S&P 500 Scored & Screened Index",
+      "trading_symbol": "SPES",
+      "expiration_date": "2023-07-21",
+      "settlement_symbol": "ESGST",
+      "settlement_value": 403.8,
+      "display_order": 18
+    },
+    {
+      "description": "S&P 500 (SET)",
+      "trading_symbol": "SPX",
+      "expiration_date": "2023-07-21",
+      "settlement_symbol": "SET",
+      "settlement_value": 4554,
+      "display_order": 21
+    },
+    {
+      "description": "S&P 500 PM-Settled",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2023-07-21",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4536.34,
+      "display_order": 23
+    },
+    {
+      "description": "MSCI EAFE (MXS)",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2023-07-21",
+      "settlement_symbol": "MXEA",
+      "settlement_value": 2176.58,
+      "display_order": 25
+    },
+    {
+      "description": "MSCI Emerging Markets (EFS)",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2023-07-21",
+      "settlement_symbol": "MXEF",
+      "settlement_value": 1014.58,
+      "display_order": 29
+    },
+    {
+      "description": "Materials Select Sector Index (SISB)",
+      "trading_symbol": "SIXB",
+      "expiration_date": "2023-07-21",
+      "settlement_symbol": "SIXB",
+      "settlement_value": 888.01,
+      "display_order": 47
+    },
+    {
+      "description": "Communication Services Select Sector Index (SISC)",
+      "trading_symbol": "SIXC",
+      "expiration_date": "2023-07-21",
+      "settlement_symbol": "SIXC",
+      "settlement_value": 342.65,
+      "display_order": 48
+    },
+    {
+      "description": "Energy Select Sector Index (SISE)",
+      "trading_symbol": "SIXE",
+      "expiration_date": "2023-07-21",
+      "settlement_symbol": "SIXE",
+      "settlement_value": 887.15,
+      "display_order": 50
+    },
+    {
+      "description": "Industrials Select Sector Index (SISIN)",
+      "trading_symbol": "SIXI",
+      "expiration_date": "2023-07-21",
+      "settlement_symbol": "SIXI",
+      "settlement_value": 1104.26,
+      "display_order": 52
+    },
+    {
+      "description": "Financial Select Sector Index (SISM)",
+      "trading_symbol": "SIXM",
+      "expiration_date": "2023-07-21",
+      "settlement_symbol": "SIXM",
+      "settlement_value": 434.6,
+      "display_order": 54
+    },
+    {
+      "description": "Consumer Staples Select Sector Index (SISR)",
+      "trading_symbol": "SIXR",
+      "expiration_date": "2023-07-21",
+      "settlement_symbol": "SIXR",
+      "settlement_value": 761.92,
+      "display_order": 56
+    },
+    {
+      "description": "Real Estate Select Sector Index (SISRE)",
+      "trading_symbol": "SIXRE",
+      "expiration_date": "2023-07-21",
+      "settlement_symbol": "SIXRE",
+      "settlement_value": 189.49,
+      "display_order": 58
+    },
+    {
+      "description": "Technology Select Sector Index (SIST)",
+      "trading_symbol": "SIXT",
+      "expiration_date": "2023-07-21",
+      "settlement_symbol": "SIXT",
+      "settlement_value": 1774.04,
+      "display_order": 61
+    },
+    {
+      "description": "Utilities Select Sector Index (SISUT)",
+      "trading_symbol": "SIXU",
+      "expiration_date": "2023-07-21",
+      "settlement_symbol": "SIXU",
+      "settlement_value": 693.45,
+      "display_order": 63
+    },
+    {
+      "description": "Dow Jones (DJS)",
+      "trading_symbol": "DJX",
+      "expiration_date": "2023-07-21",
+      "settlement_symbol": "DJS",
+      "settlement_value": 352.99,
+      "display_order": 65
+    },
+    {
+      "description": "Health Care Select Sector Index (SISV)",
+      "trading_symbol": "SIXV",
+      "expiration_date": "2023-07-21",
+      "settlement_symbol": "SIXV",
+      "settlement_value": 1376.73,
+      "display_order": 66
+    },
+    {
+      "description": "Consumer Discretionary Select Sector Index (SISY)",
+      "trading_symbol": "SIXY",
+      "expiration_date": "2023-07-21",
+      "settlement_symbol": "SIXY",
+      "settlement_value": 1728.37,
+      "display_order": 68
+    },
+    {
+      "description": "Russell 1000 Index (RIR)",
+      "trading_symbol": "RUI",
+      "expiration_date": "2023-07-21",
+      "settlement_symbol": "RIR",
+      "settlement_value": 2499.29,
+      "display_order": 86
+    },
+    {
+      "description": "Russell 1000 Growth (RLR)",
+      "trading_symbol": "RLG",
+      "expiration_date": "2023-07-21",
+      "settlement_symbol": "RLR",
+      "settlement_value": 2835.27,
+      "display_order": 91
+    },
+    {
+      "description": "Russell 1000 Value (RVS)",
+      "trading_symbol": "RLV",
+      "expiration_date": "2023-07-21",
+      "settlement_symbol": "RVS",
+      "settlement_value": 1599.12,
+      "display_order": 92
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2023-07-21",
+      "settlement_symbol": "XSP",
+      "settlement_value": 453.63,
+      "display_order": 95
+    },
+    {
+      "description": "Russell 2000 (RLS)",
+      "trading_symbol": "RUT",
+      "expiration_date": "2023-07-21",
+      "settlement_symbol": "RLS",
+      "settlement_value": 1980.93,
+      "display_order": 96
+    },
+    {
+      "description": "VIX Options (VRO)",
+      "trading_symbol": "VIX",
+      "expiration_date": "2023-07-19",
+      "settlement_symbol": "VRO",
+      "settlement_value": 13.02,
+      "display_order": 34
+    },
+    {
+      "description": "VIX Options (VRO)",
+      "trading_symbol": "VIX",
+      "expiration_date": "2023-06-21",
+      "settlement_symbol": "VRO",
+      "settlement_value": 13.44,
+      "display_order": 34
+    },
+    {
+      "description": "S&P 100 (OEX)",
+      "trading_symbol": "OEX",
+      "expiration_date": "2023-06-16",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2060.01,
+      "display_order": 7
+    },
+    {
+      "description": "S&P 500 Scored & Screened Index",
+      "trading_symbol": "SPES",
+      "expiration_date": "2023-06-16",
+      "settlement_symbol": "ESGST",
+      "settlement_value": 395.18,
+      "display_order": 18
+    },
+    {
+      "description": "S&P 500 (SET)",
+      "trading_symbol": "SPX",
+      "expiration_date": "2023-06-16",
+      "settlement_symbol": "SET",
+      "settlement_value": 4453.35,
+      "display_order": 21
+    },
+    {
+      "description": "S&P 500 PM-Settled",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2023-06-16",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4409.59,
+      "display_order": 23
+    },
+    {
+      "description": "MSCI EAFE (MXS)",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2023-06-16",
+      "settlement_symbol": "MXEA",
+      "settlement_value": 2170.84,
+      "display_order": 25
+    },
+    {
+      "description": "MSCI Emerging Markets (EFS)",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2023-06-16",
+      "settlement_symbol": "MXEF",
+      "settlement_value": 1030.03,
+      "display_order": 29
+    },
+    {
+      "description": "Materials Select Sector Index (SISB)",
+      "trading_symbol": "SIXB",
+      "expiration_date": "2023-06-16",
+      "settlement_symbol": "SIXB",
+      "settlement_value": 862.61,
+      "display_order": 47
+    },
+    {
+      "description": "Communication Services Select Sector Index (SISC)",
+      "trading_symbol": "SIXC",
+      "expiration_date": "2023-06-16",
+      "settlement_symbol": "SIXC",
+      "settlement_value": 338.45,
+      "display_order": 48
+    },
+    {
+      "description": "Energy Select Sector Index (SISE)",
+      "trading_symbol": "SIXE",
+      "expiration_date": "2023-06-16",
+      "settlement_symbol": "SIXE",
+      "settlement_value": 844.12,
+      "display_order": 50
+    },
+    {
+      "description": "Industrials Select Sector Index (SISIN)",
+      "trading_symbol": "SIXI",
+      "expiration_date": "2023-06-16",
+      "settlement_symbol": "SIXI",
+      "settlement_value": 1059.29,
+      "display_order": 52
+    },
+    {
+      "description": "Financial Select Sector Index (SISM)",
+      "trading_symbol": "SIXM",
+      "expiration_date": "2023-06-16",
+      "settlement_symbol": "SIXM",
+      "settlement_value": 412.43,
+      "display_order": 54
+    },
+    {
+      "description": "Consumer Staples Select Sector Index (SISR)",
+      "trading_symbol": "SIXR",
+      "expiration_date": "2023-06-16",
+      "settlement_symbol": "SIXR",
+      "settlement_value": 748.79,
+      "display_order": 56
+    },
+    {
+      "description": "Real Estate Select Sector Index (SISRE)",
+      "trading_symbol": "SIXRE",
+      "expiration_date": "2023-06-16",
+      "settlement_symbol": "SIXRE",
+      "settlement_value": 183.79,
+      "display_order": 58
+    },
+    {
+      "description": "Technology Select Sector Index (SIST)",
+      "trading_symbol": "SIXT",
+      "expiration_date": "2023-06-16",
+      "settlement_symbol": "SIXT",
+      "settlement_value": 1741.59,
+      "display_order": 61
+    },
+    {
+      "description": "Utilities Select Sector Index (SISUT)",
+      "trading_symbol": "SIXU",
+      "expiration_date": "2023-06-16",
+      "settlement_symbol": "SIXU",
+      "settlement_value": 676.48,
+      "display_order": 63
+    },
+    {
+      "description": "Dow Jones (DJS)",
+      "trading_symbol": "DJX",
+      "expiration_date": "2023-06-16",
+      "settlement_symbol": "DJS",
+      "settlement_value": 345.82,
+      "display_order": 65
+    },
+    {
+      "description": "Health Care Select Sector Index (SISV)",
+      "trading_symbol": "SIXV",
+      "expiration_date": "2023-06-16",
+      "settlement_symbol": "SIXV",
+      "settlement_value": 1332.06,
+      "display_order": 66
+    },
+    {
+      "description": "Consumer Discretionary Select Sector Index (SISY)",
+      "trading_symbol": "SIXY",
+      "expiration_date": "2023-06-16",
+      "settlement_symbol": "SIXY",
+      "settlement_value": 1678.3,
+      "display_order": 68
+    },
+    {
+      "description": "Russell 1000 Index (RIR)",
+      "trading_symbol": "RUI",
+      "expiration_date": "2023-06-16",
+      "settlement_symbol": "RIR",
+      "settlement_value": 2438.57,
+      "display_order": 86
+    },
+    {
+      "description": "Russell 1000 Growth (RLR)",
+      "trading_symbol": "RLG",
+      "expiration_date": "2023-06-16",
+      "settlement_symbol": "RLR",
+      "settlement_value": 2777.62,
+      "display_order": 91
+    },
+    {
+      "description": "Russell 1000 Value (RVS)",
+      "trading_symbol": "RLV",
+      "expiration_date": "2023-06-16",
+      "settlement_symbol": "RVS",
+      "settlement_value": 1553.32,
+      "display_order": 92
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2023-06-16",
+      "settlement_symbol": "XSP",
+      "settlement_value": 440.96,
+      "display_order": 95
+    },
+    {
+      "description": "Russell 2000 (RLS)",
+      "trading_symbol": "RUT",
+      "expiration_date": "2023-06-16",
+      "settlement_symbol": "RLS",
+      "settlement_value": 1909.1,
+      "display_order": 96
+    },
+    {
+      "description": "S&P 100 (OEX)",
+      "trading_symbol": "OEX",
+      "expiration_date": "2023-05-19",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1939.83,
+      "display_order": 7
+    },
+    {
+      "description": "S&P 500 Scored & Screened Index",
+      "trading_symbol": "SPES",
+      "expiration_date": "2023-05-19",
+      "settlement_symbol": "ESGST",
+      "settlement_value": 372.99,
+      "display_order": 18
+    },
+    {
+      "description": "S&P 500 (SET)",
+      "trading_symbol": "SPX",
+      "expiration_date": "2023-05-19",
+      "settlement_symbol": "SET",
+      "settlement_value": 4208.44,
+      "display_order": 21
+    },
+    {
+      "description": "S&P 500 PM-Settled",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2023-05-19",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4191.98,
+      "display_order": 23
+    },
+    {
+      "description": "MSCI EAFE (MXS)",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2023-05-19",
+      "settlement_symbol": "MXEA",
+      "settlement_value": 2131.59,
+      "display_order": 25
+    },
+    {
+      "description": "MSCI Emerging Markets (EFS)",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2023-05-19",
+      "settlement_symbol": "MXEF",
+      "settlement_value": 977.24,
+      "display_order": 29
+    },
+    {
+      "description": "Materials Select Sector Index (SISB)",
+      "trading_symbol": "SIXB",
+      "expiration_date": "2023-05-19",
+      "settlement_symbol": "SIXB",
+      "settlement_value": 833.41,
+      "display_order": 47
+    },
+    {
+      "description": "Communication Services Select Sector Index (SISC)",
+      "trading_symbol": "SIXC",
+      "expiration_date": "2023-05-19",
+      "settlement_symbol": "SIXC",
+      "settlement_value": 321.03,
+      "display_order": 48
+    },
+    {
+      "description": "Energy Select Sector Index (SISE)",
+      "trading_symbol": "SIXE",
+      "expiration_date": "2023-05-19",
+      "settlement_symbol": "SIXE",
+      "settlement_value": 833.04,
+      "display_order": 50
+    },
+    {
+      "description": "Industrials Select Sector Index (SISIN)",
+      "trading_symbol": "SIXI",
+      "expiration_date": "2023-05-19",
+      "settlement_symbol": "SIXI",
+      "settlement_value": 1003.88,
+      "display_order": 52
+    },
+    {
+      "description": "Financial Select Sector Index (SISM)",
+      "trading_symbol": "SIXM",
+      "expiration_date": "2023-05-19",
+      "settlement_symbol": "SIXM",
+      "settlement_value": 401.13,
+      "display_order": 54
+    },
+    {
+      "description": "Consumer Staples Select Sector Index (SISR)",
+      "trading_symbol": "SIXR",
+      "expiration_date": "2023-05-19",
+      "settlement_symbol": "SIXR",
+      "settlement_value": 763.48,
+      "display_order": 56
+    },
+    {
+      "description": "Real Estate Select Sector Index (SISRE)",
+      "trading_symbol": "SIXRE",
+      "expiration_date": "2023-05-19",
+      "settlement_symbol": "SIXRE",
+      "settlement_value": 177.52,
+      "display_order": 58
+    },
+    {
+      "description": "Technology Select Sector Index (SIST)",
+      "trading_symbol": "SIXT",
+      "expiration_date": "2023-05-19",
+      "settlement_symbol": "SIXT",
+      "settlement_value": 1584.4,
+      "display_order": 61
+    },
+    {
+      "description": "Utilities Select Sector Index (SISUT)",
+      "trading_symbol": "SIXU",
+      "expiration_date": "2023-05-19",
+      "settlement_symbol": "SIXU",
+      "settlement_value": 666.22,
+      "display_order": 63
+    },
+    {
+      "description": "Dow Jones (DJS)",
+      "trading_symbol": "DJX",
+      "expiration_date": "2023-05-19",
+      "settlement_symbol": "DJS",
+      "settlement_value": 335.86,
+      "display_order": 65
+    },
+    {
+      "description": "Health Care Select Sector Index (SISV)",
+      "trading_symbol": "SIXV",
+      "expiration_date": "2023-05-19",
+      "settlement_symbol": "SIXV",
+      "settlement_value": 1325.31,
+      "display_order": 66
+    },
+    {
+      "description": "Consumer Discretionary Select Sector Index (SISY)",
+      "trading_symbol": "SIXY",
+      "expiration_date": "2023-05-19",
+      "settlement_symbol": "SIXY",
+      "settlement_value": 1530.3,
+      "display_order": 68
+    },
+    {
+      "description": "Russell 1000 Index (RIR)",
+      "trading_symbol": "RUI",
+      "expiration_date": "2023-05-19",
+      "settlement_symbol": "RIR",
+      "settlement_value": 2302.41,
+      "display_order": 86
+    },
+    {
+      "description": "Russell 1000 Growth (RLR)",
+      "trading_symbol": "RLG",
+      "expiration_date": "2023-05-19",
+      "settlement_symbol": "RLR",
+      "settlement_value": 2572.02,
+      "display_order": 91
+    },
+    {
+      "description": "Russell 1000 Value (RVS)",
+      "trading_symbol": "RLV",
+      "expiration_date": "2023-05-19",
+      "settlement_symbol": "RVS",
+      "settlement_value": 1499.29,
+      "display_order": 92
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2023-05-19",
+      "settlement_symbol": "XSP",
+      "settlement_value": 419.2,
+      "display_order": 95
+    },
+    {
+      "description": "Russell 2000 (RLS)",
+      "trading_symbol": "RUT",
+      "expiration_date": "2023-05-19",
+      "settlement_symbol": "RLS",
+      "settlement_value": 1801.3,
+      "display_order": 96
+    },
+    {
+      "description": "VIX Options (VRO)",
+      "trading_symbol": "VIX",
+      "expiration_date": "2023-05-17",
+      "settlement_symbol": "VRO",
+      "settlement_value": 17.12,
+      "display_order": 34
+    },
+    {
+      "description": "S&P 100 (OEX)",
+      "trading_symbol": "OEX",
+      "expiration_date": "2023-04-21",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1888.3,
+      "display_order": 7
+    },
+    {
+      "description": "S&P 500 Scored & Screened Index",
+      "trading_symbol": "SPES",
+      "expiration_date": "2023-04-21",
+      "settlement_symbol": "ESGST",
+      "settlement_value": 364.1,
+      "display_order": 18
+    },
+    {
+      "description": "S&P 500 (SET)",
+      "trading_symbol": "SPX",
+      "expiration_date": "2023-04-21",
+      "settlement_symbol": "SET",
+      "settlement_value": 4135.47,
+      "display_order": 21
+    },
+    {
+      "description": "S&P 500 PM-Settled",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2023-04-21",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4133.52,
+      "display_order": 23
+    },
+    {
+      "description": "MSCI EAFE (MXS)",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2023-04-21",
+      "settlement_symbol": "MXEA",
+      "settlement_value": 2146.26,
+      "display_order": 25
+    },
+    {
+      "description": "MSCI Emerging Markets (EFS)",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2023-04-21",
+      "settlement_symbol": "MXEF",
+      "settlement_value": 980.74,
+      "display_order": 29
+    },
+    {
+      "description": "Materials Select Sector Index (SISB)",
+      "trading_symbol": "SIXB",
+      "expiration_date": "2023-04-21",
+      "settlement_symbol": "SIXB",
+      "settlement_value": 855.8,
+      "display_order": 47
+    },
+    {
+      "description": "Communication Services Select Sector Index (SISC)",
+      "trading_symbol": "SIXC",
+      "expiration_date": "2023-04-21",
+      "settlement_symbol": "SIXC",
+      "settlement_value": 301.56,
+      "display_order": 48
+    },
+    {
+      "description": "Energy Select Sector Index (SISE)",
+      "trading_symbol": "SIXE",
+      "expiration_date": "2023-04-21",
+      "settlement_symbol": "SIXE",
+      "settlement_value": 894.42,
+      "display_order": 50
+    },
+    {
+      "description": "Industrials Select Sector Index (SISIN)",
+      "trading_symbol": "SIXI",
+      "expiration_date": "2023-04-21",
+      "settlement_symbol": "SIXI",
+      "settlement_value": 1014.64,
+      "display_order": 52
+    },
+    {
+      "description": "Financial Select Sector Index (SISM)",
+      "trading_symbol": "SIXM",
+      "expiration_date": "2023-04-21",
+      "settlement_symbol": "SIXM",
+      "settlement_value": 409.44,
+      "display_order": 54
+    },
+    {
+      "description": "Consumer Staples Select Sector Index (SISR)",
+      "trading_symbol": "SIXR",
+      "expiration_date": "2023-04-21",
+      "settlement_symbol": "SIXR",
+      "settlement_value": 771.08,
+      "display_order": 56
+    },
+    {
+      "description": "Real Estate Select Sector Index (SISRE)",
+      "trading_symbol": "SIXRE",
+      "expiration_date": "2023-04-21",
+      "settlement_symbol": "SIXRE",
+      "settlement_value": 182.5,
+      "display_order": 58
+    },
+    {
+      "description": "Technology Select Sector Index (SIST)",
+      "trading_symbol": "SIXT",
+      "expiration_date": "2023-04-21",
+      "settlement_symbol": "SIXT",
+      "settlement_value": 1488.47,
+      "display_order": 61
+    },
+    {
+      "description": "Utilities Select Sector Index (SISUT)",
+      "trading_symbol": "SIXU",
+      "expiration_date": "2023-04-21",
+      "settlement_symbol": "SIXU",
+      "settlement_value": 705.37,
+      "display_order": 63
+    },
+    {
+      "description": "Dow Jones (DJS)",
+      "trading_symbol": "DJX",
+      "expiration_date": "2023-04-21",
+      "settlement_symbol": "DJS",
+      "settlement_value": 338.4,
+      "display_order": 65
+    },
+    {
+      "description": "Health Care Select Sector Index (SISV)",
+      "trading_symbol": "SIXV",
+      "expiration_date": "2023-04-21",
+      "settlement_symbol": "SIXV",
+      "settlement_value": 1356.71,
+      "display_order": 66
+    },
+    {
+      "description": "Consumer Discretionary Select Sector Index (SISY)",
+      "trading_symbol": "SIXY",
+      "expiration_date": "2023-04-21",
+      "settlement_symbol": "SIXY",
+      "settlement_value": 1489.46,
+      "display_order": 68
+    },
+    {
+      "description": "Russell 1000 Index (RIR)",
+      "trading_symbol": "RUI",
+      "expiration_date": "2023-04-21",
+      "settlement_symbol": "RIR",
+      "settlement_value": 2264.26,
+      "display_order": 86
+    },
+    {
+      "description": "Russell 1000 Growth (RLR)",
+      "trading_symbol": "RLG",
+      "expiration_date": "2023-04-21",
+      "settlement_symbol": "RLR",
+      "settlement_value": 2456.57,
+      "display_order": 91
+    },
+    {
+      "description": "Russell 1000 Value (RVS)",
+      "trading_symbol": "RLV",
+      "expiration_date": "2023-04-21",
+      "settlement_symbol": "RVS",
+      "settlement_value": 1521.6,
+      "display_order": 92
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2023-04-21",
+      "settlement_symbol": "XSP",
+      "settlement_value": 413.35,
+      "display_order": 95
+    },
+    {
+      "description": "Russell 2000 (RLS)",
+      "trading_symbol": "RUT",
+      "expiration_date": "2023-04-21",
+      "settlement_symbol": "RLS",
+      "settlement_value": 1790.38,
+      "display_order": 96
+    },
+    {
+      "description": "VIX Options (VRO)",
+      "trading_symbol": "VIX",
+      "expiration_date": "2023-04-19",
+      "settlement_symbol": "VRO",
+      "settlement_value": 16.75,
+      "display_order": 34
+    },
+    {
+      "description": "VIX Options (VRO)",
+      "trading_symbol": "VIX",
+      "expiration_date": "2023-03-22",
+      "settlement_symbol": "VRO",
+      "settlement_value": 20.68,
+      "display_order": 34
+    },
+    {
+      "description": "S&P 100 (OEX)",
+      "trading_symbol": "OEX",
+      "expiration_date": "2023-03-17",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1788.6,
+      "display_order": 7
+    },
+    {
+      "description": "S&P 500 Scored & Screened Index",
+      "trading_symbol": "SPES",
+      "expiration_date": "2023-03-17",
+      "settlement_symbol": "ESGST",
+      "settlement_value": 347.56,
+      "display_order": 18
+    },
+    {
+      "description": "S&P 500 (SET)",
+      "trading_symbol": "SPX",
+      "expiration_date": "2023-03-17",
+      "settlement_symbol": "SET",
+      "settlement_value": 3957.05,
+      "display_order": 21
+    },
+    {
+      "description": "S&P 500 PM-Settled",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2023-03-17",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3916.64,
+      "display_order": 23
+    },
+    {
+      "description": "MSCI EAFE (MXS)",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2023-03-17",
+      "settlement_symbol": "MXEA",
+      "settlement_value": 1986.73,
+      "display_order": 25
+    },
+    {
+      "description": "MSCI Emerging Markets (EFS)",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2023-03-17",
+      "settlement_symbol": "MXEF",
+      "settlement_value": 951.56,
+      "display_order": 29
+    },
+    {
+      "description": "Materials Select Sector Index (SISB)",
+      "trading_symbol": "SIXB",
+      "expiration_date": "2023-03-17",
+      "settlement_symbol": "SIXB",
+      "settlement_value": 798.43,
+      "display_order": 47
+    },
+    {
+      "description": "Communication Services Select Sector Index (SISC)",
+      "trading_symbol": "SIXC",
+      "expiration_date": "2023-03-17",
+      "settlement_symbol": "SIXC",
+      "settlement_value": 287.25,
+      "display_order": 48
+    },
+    {
+      "description": "Energy Select Sector Index (SISE)",
+      "trading_symbol": "SIXE",
+      "expiration_date": "2023-03-17",
+      "settlement_symbol": "SIXE",
+      "settlement_value": 802.64,
+      "display_order": 50
+    },
+    {
+      "description": "Industrials Select Sector Index (SISIN)",
+      "trading_symbol": "SIXI",
+      "expiration_date": "2023-03-17",
+      "settlement_symbol": "SIXI",
+      "settlement_value": 971.21,
+      "display_order": 52
+    },
+    {
+      "description": "Financial Select Sector Index (SISM)",
+      "trading_symbol": "SIXM",
+      "expiration_date": "2023-03-17",
+      "settlement_symbol": "SIXM",
+      "settlement_value": 380.27,
+      "display_order": 54
+    },
+    {
+      "description": "Consumer Staples Select Sector Index (SISR)",
+      "trading_symbol": "SIXR",
+      "expiration_date": "2023-03-17",
+      "settlement_symbol": "SIXR",
+      "settlement_value": 725.01,
+      "display_order": 56
+    },
+    {
+      "description": "Real Estate Select Sector Index (SISRE)",
+      "trading_symbol": "SIXRE",
+      "expiration_date": "2023-03-17",
+      "settlement_symbol": "SIXRE",
+      "settlement_value": 177.14,
+      "display_order": 58
+    },
+    {
+      "description": "Technology Select Sector Index (SIST)",
+      "trading_symbol": "SIXT",
+      "expiration_date": "2023-03-17",
+      "settlement_symbol": "SIXT",
+      "settlement_value": 1443.62,
+      "display_order": 61
+    },
+    {
+      "description": "Utilities Select Sector Index (SISUT)",
+      "trading_symbol": "SIXU",
+      "expiration_date": "2023-03-17",
+      "settlement_symbol": "SIXU",
+      "settlement_value": 673.65,
+      "display_order": 63
+    },
+    {
+      "description": "Dow Jones (DJS)",
+      "trading_symbol": "DJX",
+      "expiration_date": "2023-03-17",
+      "settlement_symbol": "DJS",
+      "settlement_value": 321.06,
+      "display_order": 65
+    },
+    {
+      "description": "Health Care Select Sector Index (SISV)",
+      "trading_symbol": "SIXV",
+      "expiration_date": "2023-03-17",
+      "settlement_symbol": "SIXV",
+      "settlement_value": 1268.38,
+      "display_order": 66
+    },
+    {
+      "description": "Consumer Discretionary Select Sector Index (SISY)",
+      "trading_symbol": "SIXY",
+      "expiration_date": "2023-03-17",
+      "settlement_symbol": "SIXY",
+      "settlement_value": 1424.41,
+      "display_order": 68
+    },
+    {
+      "description": "Russell 1000 Index (RIR)",
+      "trading_symbol": "RUI",
+      "expiration_date": "2023-03-17",
+      "settlement_symbol": "RIR",
+      "settlement_value": 2168.96,
+      "display_order": 86
+    },
+    {
+      "description": "Russell 1000 Growth (RLR)",
+      "trading_symbol": "RLG",
+      "expiration_date": "2023-03-17",
+      "settlement_symbol": "RLR",
+      "settlement_value": 2362.93,
+      "display_order": 91
+    },
+    {
+      "description": "Russell 1000 Value (RVS)",
+      "trading_symbol": "RLV",
+      "expiration_date": "2023-03-17",
+      "settlement_symbol": "RVS",
+      "settlement_value": 1451.24,
+      "display_order": 92
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2023-03-17",
+      "settlement_symbol": "XSP",
+      "settlement_value": 391.66,
+      "display_order": 95
+    },
+    {
+      "description": "Russell 2000 (RLS)",
+      "trading_symbol": "RUT",
+      "expiration_date": "2023-03-17",
+      "settlement_symbol": "RLS",
+      "settlement_value": 1759.01,
+      "display_order": 96
+    },
+    {
+      "description": "S&P 100 (OEX)",
+      "trading_symbol": "OEX",
+      "expiration_date": "2023-02-17",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1826.06,
+      "display_order": 7
+    },
+    {
+      "description": "S&P 500 Scored & Screened Index",
+      "trading_symbol": "SPES",
+      "expiration_date": "2023-02-17",
+      "settlement_symbol": "ESGST",
+      "settlement_value": 355.22,
+      "display_order": 18
+    },
+    {
+      "description": "S&P 500 (SET)",
+      "trading_symbol": "SPX",
+      "expiration_date": "2023-02-17",
+      "settlement_symbol": "SET",
+      "settlement_value": 4068.3,
+      "display_order": 21
+    },
+    {
+      "description": "S&P 500 PM-Settled",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2023-02-17",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4079.09,
+      "display_order": 23
+    },
+    {
+      "description": "MSCI EAFE (MXS)",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2023-02-17",
+      "settlement_symbol": "MXEA",
+      "settlement_value": 2087.04,
+      "display_order": 25
+    },
+    {
+      "description": "MSCI Emerging Markets (EFS)",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2023-02-17",
+      "settlement_symbol": "MXEF",
+      "settlement_value": 999.42,
+      "display_order": 29
+    },
+    {
+      "description": "Materials Select Sector Index (SISB)",
+      "trading_symbol": "SIXB",
+      "expiration_date": "2023-02-17",
+      "settlement_symbol": "SIXB",
+      "settlement_value": 862.44,
+      "display_order": 47
+    },
+    {
+      "description": "Communication Services Select Sector Index (SISC)",
+      "trading_symbol": "SIXC",
+      "expiration_date": "2023-02-17",
+      "settlement_symbol": "SIXC",
+      "settlement_value": 289.07,
+      "display_order": 48
+    },
+    {
+      "description": "Energy Select Sector Index (SISE)",
+      "trading_symbol": "SIXE",
+      "expiration_date": "2023-02-17",
+      "settlement_symbol": "SIXE",
+      "settlement_value": 883.27,
+      "display_order": 50
+    },
+    {
+      "description": "Industrials Select Sector Index (SISIN)",
+      "trading_symbol": "SIXI",
+      "expiration_date": "2023-02-17",
+      "settlement_symbol": "SIXI",
+      "settlement_value": 1037.63,
+      "display_order": 52
+    },
+    {
+      "description": "Financial Select Sector Index (SISM)",
+      "trading_symbol": "SIXM",
+      "expiration_date": "2023-02-17",
+      "settlement_symbol": "SIXM",
+      "settlement_value": 447.92,
+      "display_order": 54
+    },
+    {
+      "description": "Consumer Staples Select Sector Index (SISR)",
+      "trading_symbol": "SIXR",
+      "expiration_date": "2023-02-17",
+      "settlement_symbol": "SIXR",
+      "settlement_value": 742.19,
+      "display_order": 56
+    },
+    {
+      "description": "Real Estate Select Sector Index (SISRE)",
+      "trading_symbol": "SIXRE",
+      "expiration_date": "2023-02-17",
+      "settlement_symbol": "SIXRE",
+      "settlement_value": 194.78,
+      "display_order": 58
+    },
+    {
+      "description": "Technology Select Sector Index (SIST)",
+      "trading_symbol": "SIXT",
+      "expiration_date": "2023-02-17",
+      "settlement_symbol": "SIXT",
+      "settlement_value": 1407.27,
+      "display_order": 61
+    },
+    {
+      "description": "Utilities Select Sector Index (SISUT)",
+      "trading_symbol": "SIXU",
+      "expiration_date": "2023-02-17",
+      "settlement_symbol": "SIXU",
+      "settlement_value": 691.56,
+      "display_order": 63
+    },
+    {
+      "description": "Dow Jones (DJS)",
+      "trading_symbol": "DJX",
+      "expiration_date": "2023-02-17",
+      "settlement_symbol": "DJS",
+      "settlement_value": 335.7,
+      "display_order": 65
+    },
+    {
+      "description": "Health Care Select Sector Index (SISV)",
+      "trading_symbol": "SIXV",
+      "expiration_date": "2023-02-17",
+      "settlement_symbol": "SIXV",
+      "settlement_value": 1332.48,
+      "display_order": 66
+    },
+    {
+      "description": "Consumer Discretionary Select Sector Index (SISY)",
+      "trading_symbol": "SIXY",
+      "expiration_date": "2023-02-17",
+      "settlement_symbol": "SIXY",
+      "settlement_value": 1519.65,
+      "display_order": 68
+    },
+    {
+      "description": "Russell 1000 Index (RIR)",
+      "trading_symbol": "RUI",
+      "expiration_date": "2023-02-17",
+      "settlement_symbol": "RIR",
+      "settlement_value": 2243.67,
+      "display_order": 86
+    },
+    {
+      "description": "Russell 1000 Growth (RLR)",
+      "trading_symbol": "RLG",
+      "expiration_date": "2023-02-17",
+      "settlement_symbol": "RLR",
+      "settlement_value": 2365.64,
+      "display_order": 91
+    },
+    {
+      "description": "Russell 1000 Value (RVS)",
+      "trading_symbol": "RLV",
+      "expiration_date": "2023-02-17",
+      "settlement_symbol": "RVS",
+      "settlement_value": 1552.17,
+      "display_order": 92
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2023-02-17",
+      "settlement_symbol": "XSP",
+      "settlement_value": 407.91,
+      "display_order": 95
+    },
+    {
+      "description": "Russell 2000 (RLS)",
+      "trading_symbol": "RUT",
+      "expiration_date": "2023-02-17",
+      "settlement_symbol": "RLS",
+      "settlement_value": 1946.97,
+      "display_order": 96
+    },
+    {
+      "description": "VIX Options (VRO)",
+      "trading_symbol": "VIX",
+      "expiration_date": "2023-02-15",
+      "settlement_symbol": "VRO",
+      "settlement_value": 18.69,
+      "display_order": 34
+    },
+    {
+      "description": "S&P 100 (OEX)",
+      "trading_symbol": "OEX",
+      "expiration_date": "2023-01-20",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1767.27,
+      "display_order": 7
+    },
+    {
+      "description": "S&P 500 Scored & Screened Index",
+      "trading_symbol": "SPES",
+      "expiration_date": "2023-01-20",
+      "settlement_symbol": "ESGST",
+      "settlement_value": 342.86,
+      "display_order": 18
+    },
+    {
+      "description": "S&P 500 (SET)",
+      "trading_symbol": "SPX",
+      "expiration_date": "2023-01-20",
+      "settlement_symbol": "SET",
+      "settlement_value": 3912.94,
+      "display_order": 21
+    },
+    {
+      "description": "S&P 500 PM-Settled",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2023-01-20",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3972.61,
+      "display_order": 23
+    },
+    {
+      "description": "MSCI EAFE (MXS)",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2023-01-20",
+      "settlement_symbol": "MXEA",
+      "settlement_value": 2080.41,
+      "display_order": 25
+    },
+    {
+      "description": "MSCI Emerging Markets (EFS)",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2023-01-20",
+      "settlement_symbol": "MXEF",
+      "settlement_value": 1036.24,
+      "display_order": 29
+    },
+    {
+      "description": "Materials Select Sector Index (SISB)",
+      "trading_symbol": "SIXB",
+      "expiration_date": "2023-01-20",
+      "settlement_symbol": "SIXB",
+      "settlement_value": 878.89,
+      "display_order": 47
+    },
+    {
+      "description": "Communication Services Select Sector Index (SISC)",
+      "trading_symbol": "SIXC",
+      "expiration_date": "2023-01-20",
+      "settlement_symbol": "SIXC",
+      "settlement_value": 277.48,
+      "display_order": 48
+    },
+    {
+      "description": "Energy Select Sector Index (SISE)",
+      "trading_symbol": "SIXE",
+      "expiration_date": "2023-01-20",
+      "settlement_symbol": "SIXE",
+      "settlement_value": 953.3,
+      "display_order": 50
+    },
+    {
+      "description": "Industrials Select Sector Index (SISIN)",
+      "trading_symbol": "SIXI",
+      "expiration_date": "2023-01-20",
+      "settlement_symbol": "SIXI",
+      "settlement_value": 998.49,
+      "display_order": 52
+    },
+    {
+      "description": "Financial Select Sector Index (SISM)",
+      "trading_symbol": "SIXM",
+      "expiration_date": "2023-01-20",
+      "settlement_symbol": "SIXM",
+      "settlement_value": 435.96,
+      "display_order": 54
+    },
+    {
+      "description": "Consumer Staples Select Sector Index (SISR)",
+      "trading_symbol": "SIXR",
+      "expiration_date": "2023-01-20",
+      "settlement_symbol": "SIXR",
+      "settlement_value": 732.61,
+      "display_order": 56
+    },
+    {
+      "description": "Real Estate Select Sector Index (SISRE)",
+      "trading_symbol": "SIXRE",
+      "expiration_date": "2023-01-20",
+      "settlement_symbol": "SIXRE",
+      "settlement_value": 193.06,
+      "display_order": 58
+    },
+    {
+      "description": "Technology Select Sector Index (SIST)",
+      "trading_symbol": "SIXT",
+      "expiration_date": "2023-01-20",
+      "settlement_symbol": "SIXT",
+      "settlement_value": 1324.1,
+      "display_order": 61
+    },
+    {
+      "description": "Utilities Select Sector Index (SISUT)",
+      "trading_symbol": "SIXU",
+      "expiration_date": "2023-01-20",
+      "settlement_symbol": "SIXU",
+      "settlement_value": 701.8,
+      "display_order": 63
+    },
+    {
+      "description": "Dow Jones (DJS)",
+      "trading_symbol": "DJX",
+      "expiration_date": "2023-01-20",
+      "settlement_symbol": "DJS",
+      "settlement_value": 330.83,
+      "display_order": 65
+    },
+    {
+      "description": "Health Care Select Sector Index (SISV)",
+      "trading_symbol": "SIXV",
+      "expiration_date": "2023-01-20",
+      "settlement_symbol": "SIXV",
+      "settlement_value": 1354.21,
+      "display_order": 66
+    },
+    {
+      "description": "Consumer Discretionary Select Sector Index (SISY)",
+      "trading_symbol": "SIXY",
+      "expiration_date": "2023-01-20",
+      "settlement_symbol": "SIXY",
+      "settlement_value": 1404.55,
+      "display_order": 68
+    },
+    {
+      "description": "Russell 1000 Index (RIR)",
+      "trading_symbol": "RUI",
+      "expiration_date": "2023-01-20",
+      "settlement_symbol": "RIR",
+      "settlement_value": 2151.23,
+      "display_order": 86
+    },
+    {
+      "description": "Russell 1000 Growth (RLR)",
+      "trading_symbol": "RLG",
+      "expiration_date": "2023-01-20",
+      "settlement_symbol": "RLR",
+      "settlement_value": 2216.42,
+      "display_order": 91
+    },
+    {
+      "description": "Russell 1000 Value (RVS)",
+      "trading_symbol": "RLV",
+      "expiration_date": "2023-01-20",
+      "settlement_symbol": "RVS",
+      "settlement_value": 1521.71,
+      "display_order": 92
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2023-01-20",
+      "settlement_symbol": "XSP",
+      "settlement_value": 397.26,
+      "display_order": 95
+    },
+    {
+      "description": "Russell 2000 (RLS)",
+      "trading_symbol": "RUT",
+      "expiration_date": "2023-01-20",
+      "settlement_symbol": "RLS",
+      "settlement_value": 1853.37,
+      "display_order": 96
+    },
+    {
+      "description": "VIX Options (VRO)",
+      "trading_symbol": "VIX",
+      "expiration_date": "2023-01-18",
+      "settlement_symbol": "VRO",
+      "settlement_value": 19.09,
+      "display_order": 34
+    }
+  ]
+}

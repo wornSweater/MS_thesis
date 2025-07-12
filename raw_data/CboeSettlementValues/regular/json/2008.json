@@ -1,0 +1,436 @@
+{
+  "data": [
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "424.18",
+      "year_month": "2008-12"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "889.74",
+      "year_month": "2008-12"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "51.29",
+      "year_month": "2008-12"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "86.49",
+      "year_month": "2008-12"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "492.20",
+      "year_month": "2008-12"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "1216.54",
+      "year_month": "2008-12"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "389.88",
+      "year_month": "2008-11"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "763.45",
+      "year_month": "2008-11"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "67.22",
+      "year_month": "2008-11"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "76.33",
+      "year_month": "2008-11"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "392.51",
+      "year_month": "2008-11"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "1052.62",
+      "year_month": "2008-11"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "448.99",
+      "year_month": "2008-10"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "922.71",
+      "year_month": "2008-10"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "63.04",
+      "year_month": "2008-10"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "87.51",
+      "year_month": "2008-10"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "517.95",
+      "year_month": "2008-10"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "1285.36",
+      "year_month": "2008-10"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "577.91",
+      "year_month": "2008-09"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1279.31",
+      "year_month": "2008-09"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "31.54",
+      "year_month": "2008-09"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "116.29",
+      "year_month": "2008-09"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "771.41",
+      "year_month": "2008-09"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "1768.09",
+      "year_month": "2008-09"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "598.88",
+      "year_month": "2008-08"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1294.49",
+      "year_month": "2008-08"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "20.83",
+      "year_month": "2008-08"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "116.45",
+      "year_month": "2008-08"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "765.07",
+      "year_month": "2008-08"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "1970.66",
+      "year_month": "2008-08"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "580.57",
+      "year_month": "2008-07"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1264.17",
+      "year_month": "2008-07"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "28.40",
+      "year_month": "2008-07"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "114.91",
+      "year_month": "2008-07"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "697.55",
+      "year_month": "2008-07"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "1825.06",
+      "year_month": "2008-07"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "597.13",
+      "year_month": "2008-06"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1339.28",
+      "year_month": "2008-06"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "21.54",
+      "year_month": "2008-06"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "120.30",
+      "year_month": "2008-06"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "734.39",
+      "year_month": "2008-06"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "1965.70",
+      "year_month": "2008-06"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "652.15",
+      "year_month": "2008-05"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1425.70",
+      "year_month": "2008-05"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "17.16",
+      "year_month": "2008-05"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "130.06",
+      "year_month": "2008-05"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "748.67",
+      "year_month": "2008-05"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "2040.22",
+      "year_month": "2008-05"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "640.60",
+      "year_month": "2008-04"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1391.12",
+      "year_month": "2008-04"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "21.78",
+      "year_month": "2008-04"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "128.37",
+      "year_month": "2008-04"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "719.10",
+      "year_month": "2008-04"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "1891.75",
+      "year_month": "2008-04"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "620.38",
+      "year_month": "2008-03"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1302.64",
+      "year_month": "2008-03"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "25.67",
+      "year_month": "2008-03"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "121.50",
+      "year_month": "2008-03"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "677.84",
+      "year_month": "2008-03"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "1722.98",
+      "year_month": "2008-03"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "623.85",
+      "year_month": "2008-02"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1347.20",
+      "year_month": "2008-02"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "25.51",
+      "year_month": "2008-02"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "123.67",
+      "year_month": "2008-02"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "701.27",
+      "year_month": "2008-02"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "1777.27",
+      "year_month": "2008-02"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "620.43",
+      "year_month": "2008-01"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1333.94",
+      "year_month": "2008-01"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "24.18",
+      "year_month": "2008-01"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "121.98",
+      "year_month": "2008-01"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "678.49",
+      "year_month": "2008-01"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "1838.72",
+      "year_month": "2008-01"
+    }
+  ]
+}

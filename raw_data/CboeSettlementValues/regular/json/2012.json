@@ -1,0 +1,676 @@
+{
+  "data": [
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "648.96",
+      "year_month": "2012-12"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1433.59",
+      "year_month": "2012-12"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "16.69",
+      "year_month": "2012-12"
+    },
+    {
+      "description": "VXEEM Options",
+      "settlement_symbol": "VXEST",
+      "settlement_value": "20.46",
+      "year_month": "2012-12"
+    },
+    {
+      "description": "VXEWZ Options",
+      "settlement_symbol": "VSEWZ",
+      "settlement_value": "22.81",
+      "year_month": "2012-12"
+    },
+    {
+      "description": "OVX Options",
+      "settlement_symbol": "OVXST",
+      "settlement_value": "28.34",
+      "year_month": "2012-12"
+    },
+    {
+      "description": "GVZ Options",
+      "settlement_symbol": "GVN",
+      "settlement_value": "14.63",
+      "year_month": "2012-12"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "132.50",
+      "year_month": "2012-12"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "846.02",
+      "year_month": "2012-12"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "2658.05",
+      "year_month": "2012-12"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "619.03",
+      "year_month": "2012-11"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1353.46",
+      "year_month": "2012-11"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "15.05",
+      "year_month": "2012-11"
+    },
+    {
+      "description": "VXEEM Options",
+      "settlement_symbol": "VXEST",
+      "settlement_value": "17.19",
+      "year_month": "2012-11"
+    },
+    {
+      "description": "VXEWZ Options",
+      "settlement_symbol": "VSEWZ",
+      "settlement_value": "23.50",
+      "year_month": "2012-11"
+    },
+    {
+      "description": "OVX Options",
+      "settlement_symbol": "OVXST",
+      "settlement_value": "30.02",
+      "year_month": "2012-11"
+    },
+    {
+      "description": "GVZ Options",
+      "settlement_symbol": "GVN",
+      "settlement_value": "12.96",
+      "year_month": "2012-11"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "125.35",
+      "year_month": "2012-11"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "768.02",
+      "year_month": "2012-11"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "2522.50",
+      "year_month": "2012-11"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "657.11",
+      "year_month": "2012-10"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1454.20",
+      "year_month": "2012-10"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "15.96",
+      "year_month": "2012-10"
+    },
+    {
+      "description": "VXEEM Options",
+      "settlement_symbol": "VXEST",
+      "settlement_value": "20.94",
+      "year_month": "2012-10"
+    },
+    {
+      "description": "VXEWZ Options",
+      "settlement_symbol": "VSEWZ",
+      "settlement_value": "24.33",
+      "year_month": "2012-10"
+    },
+    {
+      "description": "OVX Options",
+      "settlement_symbol": "OVXST",
+      "settlement_value": "35.78",
+      "year_month": "2012-10"
+    },
+    {
+      "description": "GVZ Options",
+      "settlement_symbol": "GVN",
+      "settlement_value": "15.54",
+      "year_month": "2012-10"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "134.99",
+      "year_month": "2012-10"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "831.61",
+      "year_month": "2012-10"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "2742.42",
+      "year_month": "2012-10"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "672.27",
+      "year_month": "2012-09"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1467.17",
+      "year_month": "2012-09"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "14.03",
+      "year_month": "2012-09"
+    },
+    {
+      "description": "VXEEM Options",
+      "settlement_symbol": "VXEST",
+      "settlement_value": "21.80",
+      "year_month": "2012-09"
+    },
+    {
+      "description": "VXEWZ Options",
+      "settlement_symbol": "VSEWZ",
+      "settlement_value": "26.62",
+      "year_month": "2012-09"
+    },
+    {
+      "description": "OVX Options",
+      "settlement_symbol": "OVXST",
+      "settlement_value": "32.82",
+      "year_month": "2012-09"
+    },
+    {
+      "description": "GVZ Options",
+      "settlement_symbol": "GVN",
+      "settlement_value": "18.52",
+      "year_month": "2012-09"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "136.52",
+      "year_month": "2012-09"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "862.06",
+      "year_month": "2012-09"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "2875.44",
+      "year_month": "2012-09"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "651.58",
+      "year_month": "2012-08"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1419.02",
+      "year_month": "2012-08"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "15.13",
+      "year_month": "2012-08"
+    },
+    {
+      "description": "VXEEM Options",
+      "settlement_symbol": "VXEST",
+      "settlement_value": "20.87",
+      "year_month": "2012-08"
+    },
+    {
+      "description": "VXEWZ Options",
+      "settlement_symbol": "VSEWZ",
+      "settlement_value": "27.51",
+      "year_month": "2012-08"
+    },
+    {
+      "description": "OVX Options",
+      "settlement_symbol": "OVXST",
+      "settlement_value": "30.99",
+      "year_month": "2012-08"
+    },
+    {
+      "description": "GVZ Options",
+      "settlement_symbol": "GVN",
+      "settlement_value": "16.88",
+      "year_month": "2012-08"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "132.78",
+      "year_month": "2012-08"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "811.65",
+      "year_month": "2012-08"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "2777.99",
+      "year_month": "2012-08"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "626.57",
+      "year_month": "2012-07"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1370.28",
+      "year_month": "2012-07"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "16.76",
+      "year_month": "2012-07"
+    },
+    {
+      "description": "VXEEM Options",
+      "settlement_symbol": "VXEST",
+      "settlement_value": "26.34",
+      "year_month": "2012-07"
+    },
+    {
+      "description": "VXEWZ Options",
+      "settlement_symbol": "VSEWZ",
+      "settlement_value": "28.53",
+      "year_month": "2012-07"
+    },
+    {
+      "description": "OVX Options",
+      "settlement_symbol": "OVXST",
+      "settlement_value": "35.51",
+      "year_month": "2012-07"
+    },
+    {
+      "description": "GVZ Options",
+      "settlement_symbol": "GVN",
+      "settlement_value": "17.98",
+      "year_month": "2012-07"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "128.67",
+      "year_month": "2012-07"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "795.27",
+      "year_month": "2012-07"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "2657.88",
+      "year_month": "2012-07"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "614.84",
+      "year_month": "2012-06"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1336.47",
+      "year_month": "2012-06"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "17.78",
+      "year_month": "2012-06"
+    },
+    {
+      "description": "VXEEM Options",
+      "settlement_symbol": "VXEST",
+      "settlement_value": "27.41",
+      "year_month": "2012-06"
+    },
+    {
+      "description": "VXEWZ Options",
+      "settlement_symbol": "VSEWZ",
+      "settlement_value": "32.07",
+      "year_month": "2012-06"
+    },
+    {
+      "description": "OVX Options",
+      "settlement_symbol": "OVXST",
+      "settlement_value": "34.58",
+      "year_month": "2012-06"
+    },
+    {
+      "description": "GVZ Options",
+      "settlement_symbol": "GVN",
+      "settlement_value": "21.00",
+      "year_month": "2012-06"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "127.30",
+      "year_month": "2012-06"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "762.27",
+      "year_month": "2012-06"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "2547.50",
+      "year_month": "2012-06"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "591.61",
+      "year_month": "2012-05"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1310.33",
+      "year_month": "2012-05"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "21.46",
+      "year_month": "2012-05"
+    },
+    {
+      "description": "VXEEM Options",
+      "settlement_symbol": "VXEST",
+      "settlement_value": "33.75",
+      "year_month": "2012-05"
+    },
+    {
+      "description": "VXEWZ Options",
+      "settlement_symbol": "VSEWZ",
+      "settlement_value": "37.99",
+      "year_month": "2012-05"
+    },
+    {
+      "description": "OVX Options",
+      "settlement_symbol": "OVXST",
+      "settlement_value": "32.13",
+      "year_month": "2012-05"
+    },
+    {
+      "description": "GVZ Options",
+      "settlement_symbol": "GVN",
+      "settlement_value": "20.32",
+      "year_month": "2012-05"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "124.89",
+      "year_month": "2012-05"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "753.60",
+      "year_month": "2012-05"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "2520.28",
+      "year_month": "2012-05"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "626.10",
+      "year_month": "2012-04"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1383.40",
+      "year_month": "2012-04"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "19.06",
+      "year_month": "2012-04"
+    },
+    {
+      "description": "VXEEM Options",
+      "settlement_symbol": "VXEST",
+      "settlement_value": "26.91",
+      "year_month": "2012-04"
+    },
+    {
+      "description": "VXEWZ Options",
+      "settlement_symbol": "VSEWZ",
+      "settlement_value": "31.30",
+      "year_month": "2012-04"
+    },
+    {
+      "description": "GVZ Options",
+      "settlement_symbol": "GVN",
+      "settlement_value": "17.92",
+      "year_month": "2012-04"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "130.23",
+      "year_month": "2012-04"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "812.66",
+      "year_month": "2012-04"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "2705.19",
+      "year_month": "2012-04"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "637.85",
+      "year_month": "2012-03"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1405.11",
+      "year_month": "2012-03"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "14.55",
+      "year_month": "2012-03"
+    },
+    {
+      "description": "VXEEM Options",
+      "settlement_symbol": "VXEST",
+      "settlement_value": "25.63",
+      "year_month": "2012-03"
+    },
+    {
+      "description": "GVZ Options",
+      "settlement_symbol": "GVN",
+      "settlement_value": "18.26",
+      "year_month": "2012-03"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "133.03",
+      "year_month": "2012-03"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "833.17",
+      "year_month": "2012-03"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "2713.06",
+      "year_month": "2012-03"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "615.06",
+      "year_month": "2012-02"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1363.80",
+      "year_month": "2012-02"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "20.44",
+      "year_month": "2012-02"
+    },
+    {
+      "description": "VXEEM Options",
+      "settlement_symbol": "VXEST",
+      "settlement_value": "29.73",
+      "year_month": "2012-02"
+    },
+    {
+      "description": "GVZ Options",
+      "settlement_symbol": "GVN",
+      "settlement_value": "18.69",
+      "year_month": "2012-02"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "129.68",
+      "year_month": "2012-02"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "833.16",
+      "year_month": "2012-02"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "2586.93",
+      "year_month": "2012-02"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "595.95",
+      "year_month": "2012-01"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1313.93",
+      "year_month": "2012-01"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "23.64",
+      "year_month": "2012-01"
+    },
+    {
+      "description": "GVZ Options",
+      "settlement_symbol": "GVN",
+      "settlement_value": "22.27",
+      "year_month": "2012-01"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "126.46",
+      "year_month": "2012-01"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "780.62",
+      "year_month": "2012-01"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "2434.36",
+      "year_month": "2012-01"
+    }
+  ]
+}

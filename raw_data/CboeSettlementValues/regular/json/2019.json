@@ -1,0 +1,1594 @@
+{
+  "data": [
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1435.65",
+      "year_month": "2019-12"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "3231.02",
+      "year_month": "2019-12"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "11.99",
+      "year_month": "2019-12"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "286.06",
+      "year_month": "2019-12"
+    },
+    {
+      "description": "MSCI EAFE",
+      "settlement_symbol": "MXS",
+      "settlement_value": "2028.25",
+      "year_month": "2019-12"
+    },
+    {
+      "description": "MSCI Emerging Markets",
+      "settlement_symbol": "EFS",
+      "settlement_value": "1107.64",
+      "year_month": "2019-12"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1672.12",
+      "year_month": "2019-12"
+    },
+    {
+      "description": "Russell 1000 Index",
+      "settlement_symbol": "RIR",
+      "settlement_value": "1784.14",
+      "year_month": "2019-12"
+    },
+    {
+      "description": "Russell 1000 Growth",
+      "settlement_symbol": "RLR",
+      "settlement_value": "1769.71",
+      "year_month": "2019-12"
+    },
+    {
+      "description": "Russell 1000 Value",
+      "settlement_symbol": "RVS",
+      "settlement_value": "1348.21",
+      "year_month": "2019-12"
+    },
+    {
+      "description": "FTSE-100 Mini Index",
+      "settlement_symbol": "UKS",
+      "settlement_value": "758.13",
+      "year_month": "2019-12"
+    },
+    {
+      "description": "S&P 500 PM Settled Options",
+      "settlement_symbol": "SPX",
+      "settlement_value": "3221.22",
+      "year_month": "2019-12"
+    },
+    {
+      "description": "Materials Select Sector Index",
+      "settlement_symbol": "SISB",
+      "settlement_value": "646.00",
+      "year_month": "2019-12"
+    },
+    {
+      "description": "Communication Services Select Sector Index",
+      "settlement_symbol": "SISC",
+      "settlement_value": "283.39",
+      "year_month": "2019-12"
+    },
+    {
+      "description": "Energy Select Sector Index",
+      "settlement_symbol": "SISE",
+      "settlement_value": "619.30",
+      "year_month": "2019-12"
+    },
+    {
+      "description": "Industrials Select Sector Index",
+      "settlement_symbol": "SISIN",
+      "settlement_value": "821.43",
+      "year_month": "2019-12"
+    },
+    {
+      "description": "Financial Select Sector Index",
+      "settlement_symbol": "SISM",
+      "settlement_value": "380.32",
+      "year_month": "2019-12"
+    },
+    {
+      "description": "Consumer Staples Select Sector Index",
+      "settlement_symbol": "SISR",
+      "settlement_value": "637.29",
+      "year_month": "2019-12"
+    },
+    {
+      "description": "Real Estate Select Sector Index",
+      "settlement_symbol": "SISRE",
+      "settlement_value": "185.91",
+      "year_month": "2019-12"
+    },
+    {
+      "description": "Technology Select Sector Index",
+      "settlement_symbol": "SIST",
+      "settlement_value": "917.52",
+      "year_month": "2019-12"
+    },
+    {
+      "description": "Utilities Select Sector Index",
+      "settlement_symbol": "SISUT",
+      "settlement_value": "652.85",
+      "year_month": "2019-12"
+    },
+    {
+      "description": "Health Care Select Sector Index",
+      "settlement_symbol": "SISV",
+      "settlement_value": "1036.91",
+      "year_month": "2019-12"
+    },
+    {
+      "description": "Consumer Discretionary Select Sector Index",
+      "settlement_symbol": "SISY",
+      "settlement_value": "1261.97",
+      "year_month": "2019-12"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1388.81",
+      "year_month": "2019-11"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "3110.52",
+      "year_month": "2019-11"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "13.01",
+      "year_month": "2019-11"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "278.71",
+      "year_month": "2019-11"
+    },
+    {
+      "description": "MSCI EAFE",
+      "settlement_symbol": "MXS",
+      "settlement_value": "1976.69",
+      "year_month": "2019-11"
+    },
+    {
+      "description": "MSCI Emerging Markets",
+      "settlement_symbol": "EFS",
+      "settlement_value": "1048.79",
+      "year_month": "2019-11"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1598.04",
+      "year_month": "2019-11"
+    },
+    {
+      "description": "Russell 1000 Index",
+      "settlement_symbol": "RIR",
+      "settlement_value": "1718.28",
+      "year_month": "2019-11"
+    },
+    {
+      "description": "Russell 1000 Growth",
+      "settlement_symbol": "RLR",
+      "settlement_value": "1692.41",
+      "year_month": "2019-11"
+    },
+    {
+      "description": "Russell 1000 Value",
+      "settlement_symbol": "RVS",
+      "settlement_value": "1308.13",
+      "year_month": "2019-11"
+    },
+    {
+      "description": "FTSE-100 Mini Index",
+      "settlement_symbol": "UKS",
+      "settlement_value": "729.88",
+      "year_month": "2019-11"
+    },
+    {
+      "description": "S&P 500 PM Settled Options",
+      "settlement_symbol": "SPX",
+      "settlement_value": "3120.46",
+      "year_month": "2019-11"
+    },
+    {
+      "description": "Materials Select Sector Index",
+      "settlement_symbol": "SISB",
+      "settlement_value": "642.33",
+      "year_month": "2019-11"
+    },
+    {
+      "description": "Communication Services Select Sector Index",
+      "settlement_symbol": "SISC",
+      "settlement_value": "270.95",
+      "year_month": "2019-11"
+    },
+    {
+      "description": "Energy Select Sector Index",
+      "settlement_symbol": "SISE",
+      "settlement_value": "601.69",
+      "year_month": "2019-11"
+    },
+    {
+      "description": "Industrials Select Sector Index",
+      "settlement_symbol": "SISIN",
+      "settlement_value": "823.91",
+      "year_month": "2019-11"
+    },
+    {
+      "description": "Financial Select Sector Index",
+      "settlement_symbol": "SISM",
+      "settlement_value": "365.51",
+      "year_month": "2019-11"
+    },
+    {
+      "description": "Consumer Staples Select Sector Index",
+      "settlement_symbol": "SISR",
+      "settlement_value": "616.36",
+      "year_month": "2019-11"
+    },
+    {
+      "description": "Real Estate Select Sector Index",
+      "settlement_symbol": "SISRE",
+      "settlement_value": "185.43",
+      "year_month": "2019-11"
+    },
+    {
+      "description": "Technology Select Sector Index",
+      "settlement_symbol": "SIST",
+      "settlement_value": "874.18",
+      "year_month": "2019-11"
+    },
+    {
+      "description": "Utilities Select Sector Index",
+      "settlement_symbol": "SISUT",
+      "settlement_value": "631.67",
+      "year_month": "2019-11"
+    },
+    {
+      "description": "Health Care Select Sector Index",
+      "settlement_symbol": "SISV",
+      "settlement_value": "959.60",
+      "year_month": "2019-11"
+    },
+    {
+      "description": "Consumer Discretionary Select Sector Index",
+      "settlement_symbol": "SISY",
+      "settlement_value": "1227.82",
+      "year_month": "2019-11"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1321.61",
+      "year_month": "2019-10"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "2996.65",
+      "year_month": "2019-10"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "13.78",
+      "year_month": "2019-10"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "269.99",
+      "year_month": "2019-10"
+    },
+    {
+      "description": "MSCI EAFE",
+      "settlement_symbol": "MXS",
+      "settlement_value": "1920.09",
+      "year_month": "2019-10"
+    },
+    {
+      "description": "MSCI Emerging Markets",
+      "settlement_symbol": "EFS",
+      "settlement_value": "1024.02",
+      "year_month": "2019-10"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1534.25",
+      "year_month": "2019-10"
+    },
+    {
+      "description": "Russell 1000 Index",
+      "settlement_symbol": "RIR",
+      "settlement_value": "1654.42",
+      "year_month": "2019-10"
+    },
+    {
+      "description": "Russell 1000 Growth",
+      "settlement_symbol": "RLR",
+      "settlement_value": "1631.07",
+      "year_month": "2019-10"
+    },
+    {
+      "description": "Russell 1000 Value",
+      "settlement_symbol": "RVS",
+      "settlement_value": "1258.25",
+      "year_month": "2019-10"
+    },
+    {
+      "description": "FTSE-100 Mini Index",
+      "settlement_symbol": "UKS",
+      "settlement_value": "715.99",
+      "year_month": "2019-10"
+    },
+    {
+      "description": "S&P 500 PM Settled Options",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2986.20",
+      "year_month": "2019-10"
+    },
+    {
+      "description": "Materials Select Sector Index",
+      "settlement_symbol": "SISB",
+      "settlement_value": "609.72",
+      "year_month": "2019-10"
+    },
+    {
+      "description": "Communication Services Select Sector Index",
+      "settlement_symbol": "SISC",
+      "settlement_value": "265.81",
+      "year_month": "2019-10"
+    },
+    {
+      "description": "Energy Select Sector Index",
+      "settlement_symbol": "SISE",
+      "settlement_value": "578.64",
+      "year_month": "2019-10"
+    },
+    {
+      "description": "Industrials Select Sector Index",
+      "settlement_symbol": "SISIN",
+      "settlement_value": "778.57",
+      "year_month": "2019-10"
+    },
+    {
+      "description": "Financial Select Sector Index",
+      "settlement_symbol": "SISM",
+      "settlement_value": "344.55",
+      "year_month": "2019-10"
+    },
+    {
+      "description": "Consumer Staples Select Sector Index",
+      "settlement_symbol": "SISR",
+      "settlement_value": "611.46",
+      "year_month": "2019-10"
+    },
+    {
+      "description": "Real Estate Select Sector Index",
+      "settlement_symbol": "SISRE",
+      "settlement_value": "191.47",
+      "year_month": "2019-10"
+    },
+    {
+      "description": "Technology Select Sector Index",
+      "settlement_symbol": "SIST",
+      "settlement_value": "819.93",
+      "year_month": "2019-10"
+    },
+    {
+      "description": "Utilities Select Sector Index",
+      "settlement_symbol": "SISUT",
+      "settlement_value": "642.28",
+      "year_month": "2019-10"
+    },
+    {
+      "description": "Health Care Select Sector Index",
+      "settlement_symbol": "SISV",
+      "settlement_value": "923.24",
+      "year_month": "2019-10"
+    },
+    {
+      "description": "Consumer Discretionary Select Sector Index",
+      "settlement_symbol": "SISY",
+      "settlement_value": "1233.91",
+      "year_month": "2019-10"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1321.70",
+      "year_month": "2019-09"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "3013.61",
+      "year_month": "2019-09"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "14.54",
+      "year_month": "2019-09"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "271.41",
+      "year_month": "2019-09"
+    },
+    {
+      "description": "MSCI EAFE",
+      "settlement_symbol": "MXS",
+      "settlement_value": "1912.66",
+      "year_month": "2019-09"
+    },
+    {
+      "description": "MSCI Emerging Markets",
+      "settlement_symbol": "EFS",
+      "settlement_value": "1021.27",
+      "year_month": "2019-09"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1562.38",
+      "year_month": "2019-09"
+    },
+    {
+      "description": "Russell 1000 Index",
+      "settlement_symbol": "RIR",
+      "settlement_value": "1665.83",
+      "year_month": "2019-09"
+    },
+    {
+      "description": "Russell 1000 Growth",
+      "settlement_symbol": "RLR",
+      "settlement_value": "1632.83",
+      "year_month": "2019-09"
+    },
+    {
+      "description": "Russell 1000 Value",
+      "settlement_symbol": "RVS",
+      "settlement_value": "1274.63",
+      "year_month": "2019-09"
+    },
+    {
+      "description": "FTSE-100 Mini Index",
+      "settlement_symbol": "UKS",
+      "settlement_value": "733.89",
+      "year_month": "2019-09"
+    },
+    {
+      "description": "S&P 500 PM Settled Options",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2992.07",
+      "year_month": "2019-09"
+    },
+    {
+      "description": "Materials Select Sector Index",
+      "settlement_symbol": "SISB",
+      "settlement_value": "621.18",
+      "year_month": "2019-09"
+    },
+    {
+      "description": "Communication Services Select Sector Index",
+      "settlement_symbol": "SISC",
+      "settlement_value": "267.01",
+      "year_month": "2019-09"
+    },
+    {
+      "description": "Energy Select Sector Index",
+      "settlement_symbol": "SISE",
+      "settlement_value": "620.12",
+      "year_month": "2019-09"
+    },
+    {
+      "description": "Industrials Select Sector Index",
+      "settlement_symbol": "SISIN",
+      "settlement_value": "789.58",
+      "year_month": "2019-09"
+    },
+    {
+      "description": "Financial Select Sector Index",
+      "settlement_symbol": "SISM",
+      "settlement_value": "349.37",
+      "year_month": "2019-09"
+    },
+    {
+      "description": "Consumer Staples Select Sector Index",
+      "settlement_symbol": "SISR",
+      "settlement_value": "610.54",
+      "year_month": "2019-09"
+    },
+    {
+      "description": "Real Estate Select Sector Index",
+      "settlement_symbol": "SISRE",
+      "settlement_value": "191.08",
+      "year_month": "2019-09"
+    },
+    {
+      "description": "Technology Select Sector Index",
+      "settlement_symbol": "SIST",
+      "settlement_value": "818.03",
+      "year_month": "2019-09"
+    },
+    {
+      "description": "Utilities Select Sector Index",
+      "settlement_symbol": "SISUT",
+      "settlement_value": "645.22",
+      "year_month": "2019-09"
+    },
+    {
+      "description": "Health Care Select Sector Index",
+      "settlement_symbol": "SISV",
+      "settlement_value": "923.15",
+      "year_month": "2019-09"
+    },
+    {
+      "description": "Consumer Discretionary Select Sector Index",
+      "settlement_symbol": "SISY",
+      "settlement_value": "1232.33",
+      "year_month": "2019-09"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1275.19",
+      "year_month": "2019-08"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "2870.98",
+      "year_month": "2019-08"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "15.63",
+      "year_month": "2019-08"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "257.76",
+      "year_month": "2019-08"
+    },
+    {
+      "description": "MSCI EAFE",
+      "settlement_symbol": "MXS",
+      "settlement_value": "1811.86",
+      "year_month": "2019-08"
+    },
+    {
+      "description": "MSCI Emerging Markets",
+      "settlement_symbol": "EFS",
+      "settlement_value": "970.27",
+      "year_month": "2019-08"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1470.56",
+      "year_month": "2019-08"
+    },
+    {
+      "description": "Russell 1000 Index",
+      "settlement_symbol": "RIR",
+      "settlement_value": "1588.55",
+      "year_month": "2019-08"
+    },
+    {
+      "description": "Russell 1000 Growth",
+      "settlement_symbol": "RLR",
+      "settlement_value": "1576.00",
+      "year_month": "2019-08"
+    },
+    {
+      "description": "Russell 1000 Value",
+      "settlement_symbol": "RVS",
+      "settlement_value": "1200.16",
+      "year_month": "2019-08"
+    },
+    {
+      "description": "FTSE-100 Mini Index",
+      "settlement_symbol": "UKS",
+      "settlement_value": "710.47",
+      "year_month": "2019-08"
+    },
+    {
+      "description": "S&P 500 PM Settled Options",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2888.68",
+      "year_month": "2019-08"
+    },
+    {
+      "description": "Materials Select Sector Index",
+      "settlement_symbol": "SISB",
+      "settlement_value": "590.86",
+      "year_month": "2019-08"
+    },
+    {
+      "description": "Communication Services Select Sector Index",
+      "settlement_symbol": "SISC",
+      "settlement_value": "253.59",
+      "year_month": "2019-08"
+    },
+    {
+      "description": "Energy Select Sector Index",
+      "settlement_symbol": "SISE",
+      "settlement_value": "567.76",
+      "year_month": "2019-08"
+    },
+    {
+      "description": "Industrials Select Sector Index",
+      "settlement_symbol": "SISIN",
+      "settlement_value": "736.94",
+      "year_month": "2019-08"
+    },
+    {
+      "description": "Financial Select Sector Index",
+      "settlement_symbol": "SISM",
+      "settlement_value": "323.00",
+      "year_month": "2019-08"
+    },
+    {
+      "description": "Consumer Staples Select Sector Index",
+      "settlement_symbol": "SISR",
+      "settlement_value": "602.08",
+      "year_month": "2019-08"
+    },
+    {
+      "description": "Real Estate Select Sector Index",
+      "settlement_symbol": "SISRE",
+      "settlement_value": "186.17",
+      "year_month": "2019-08"
+    },
+    {
+      "description": "Technology Select Sector Index",
+      "settlement_symbol": "SIST",
+      "settlement_value": "779.09",
+      "year_month": "2019-08"
+    },
+    {
+      "description": "Utilities Select Sector Index",
+      "settlement_symbol": "SISUT",
+      "settlement_value": "616.64",
+      "year_month": "2019-08"
+    },
+    {
+      "description": "Health Care Select Sector Index",
+      "settlement_symbol": "SISV",
+      "settlement_value": "903.72",
+      "year_month": "2019-08"
+    },
+    {
+      "description": "Consumer Discretionary Select Sector Index",
+      "settlement_symbol": "SISY",
+      "settlement_value": "1166.57",
+      "year_month": "2019-08"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1315.42",
+      "year_month": "2019-07"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "3008.06",
+      "year_month": "2019-07"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "12.69",
+      "year_month": "2019-07"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "273.22",
+      "year_month": "2019-07"
+    },
+    {
+      "description": "MSCI EAFE",
+      "settlement_symbol": "MXS",
+      "settlement_value": "1918.88",
+      "year_month": "2019-07"
+    },
+    {
+      "description": "MSCI Emerging Markets",
+      "settlement_symbol": "EFS",
+      "settlement_value": "1057.49",
+      "year_month": "2019-07"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1553.56",
+      "year_month": "2019-07"
+    },
+    {
+      "description": "Russell 1000 Index",
+      "settlement_symbol": "RIR",
+      "settlement_value": "1666.40",
+      "year_month": "2019-07"
+    },
+    {
+      "description": "Russell 1000 Growth",
+      "settlement_symbol": "RLR",
+      "settlement_value": "1639.95",
+      "year_month": "2019-07"
+    },
+    {
+      "description": "Russell 1000 Value",
+      "settlement_symbol": "RVS",
+      "settlement_value": "1269.75",
+      "year_month": "2019-07"
+    },
+    {
+      "description": "FTSE-100 Mini Index",
+      "settlement_symbol": "UKS",
+      "settlement_value": "754.09",
+      "year_month": "2019-07"
+    },
+    {
+      "description": "S&P 500 PM Settled Options",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2976.61",
+      "year_month": "2019-07"
+    },
+    {
+      "description": "Materials Select Sector Index",
+      "settlement_symbol": "SISB",
+      "settlement_value": "618.44",
+      "year_month": "2019-07"
+    },
+    {
+      "description": "Communication Services Select Sector Index",
+      "settlement_symbol": "SISC",
+      "settlement_value": "263.37",
+      "year_month": "2019-07"
+    },
+    {
+      "description": "Energy Select Sector Index",
+      "settlement_symbol": "SISE",
+      "settlement_value": "631.99",
+      "year_month": "2019-07"
+    },
+    {
+      "description": "Industrials Select Sector Index",
+      "settlement_symbol": "SISIN",
+      "settlement_value": "778.35",
+      "year_month": "2019-07"
+    },
+    {
+      "description": "Financial Select Sector Index",
+      "settlement_symbol": "SISM",
+      "settlement_value": "346.14",
+      "year_month": "2019-07"
+    },
+    {
+      "description": "Consumer Staples Select Sector Index",
+      "settlement_symbol": "SISR",
+      "settlement_value": "608.52",
+      "year_month": "2019-07"
+    },
+    {
+      "description": "Real Estate Select Sector Index",
+      "settlement_symbol": "SISRE",
+      "settlement_value": "181.45",
+      "year_month": "2019-07"
+    },
+    {
+      "description": "Technology Select Sector Index",
+      "settlement_symbol": "SIST",
+      "settlement_value": "822.14",
+      "year_month": "2019-07"
+    },
+    {
+      "description": "Utilities Select Sector Index",
+      "settlement_symbol": "SISUT",
+      "settlement_value": "617.83",
+      "year_month": "2019-07"
+    },
+    {
+      "description": "Health Care Select Sector Index",
+      "settlement_symbol": "SISV",
+      "settlement_value": "932.60",
+      "year_month": "2019-07"
+    },
+    {
+      "description": "Consumer Discretionary Select Sector Index",
+      "settlement_symbol": "SISY",
+      "settlement_value": "1247.19",
+      "year_month": "2019-07"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1304.36",
+      "year_month": "2019-06"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "2953.90",
+      "year_month": "2019-06"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "14.80",
+      "year_month": "2019-06"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "267.46",
+      "year_month": "2019-06"
+    },
+    {
+      "description": "MSCI EAFE",
+      "settlement_symbol": "MXS",
+      "settlement_value": "1911.18",
+      "year_month": "2019-06"
+    },
+    {
+      "description": "MSCI Emerging Markets",
+      "settlement_symbol": "EFS",
+      "settlement_value": "1053.23",
+      "year_month": "2019-06"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1554.55",
+      "year_month": "2019-06"
+    },
+    {
+      "description": "Russell 1000 Index",
+      "settlement_symbol": "RIR",
+      "settlement_value": "1635.09",
+      "year_month": "2019-06"
+    },
+    {
+      "description": "Russell 1000 Growth",
+      "settlement_symbol": "RLR",
+      "settlement_value": "1599.80",
+      "year_month": "2019-06"
+    },
+    {
+      "description": "Russell 1000 Value",
+      "settlement_symbol": "RVS",
+      "settlement_value": "1253.40",
+      "year_month": "2019-06"
+    },
+    {
+      "description": "FTSE-100 Mini Index",
+      "settlement_symbol": "UKS",
+      "settlement_value": "743.22",
+      "year_month": "2019-06"
+    },
+    {
+      "description": "S&P 500 PM Settled Options",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2950.46",
+      "year_month": "2019-06"
+    },
+    {
+      "description": "Materials Select Sector Index",
+      "settlement_symbol": "SISB",
+      "settlement_value": "613.47",
+      "year_month": "2019-06"
+    },
+    {
+      "description": "Communication Services Select Sector Index",
+      "settlement_symbol": "SISC",
+      "settlement_value": "257.24",
+      "year_month": "2019-06"
+    },
+    {
+      "description": "Energy Select Sector Index",
+      "settlement_symbol": "SISE",
+      "settlement_value": "641.47",
+      "year_month": "2019-06"
+    },
+    {
+      "description": "Industrials Select Sector Index",
+      "settlement_symbol": "SISIN",
+      "settlement_value": "778.05",
+      "year_month": "2019-06"
+    },
+    {
+      "description": "Financial Select Sector Index",
+      "settlement_symbol": "SISM",
+      "settlement_value": "336.53",
+      "year_month": "2019-06"
+    },
+    {
+      "description": "Consumer Staples Select Sector Index",
+      "settlement_symbol": "SISR",
+      "settlement_value": "594.03",
+      "year_month": "2019-06"
+    },
+    {
+      "description": "Real Estate Select Sector Index",
+      "settlement_symbol": "SISRE",
+      "settlement_value": "184.80",
+      "year_month": "2019-06"
+    },
+    {
+      "description": "Technology Select Sector Index",
+      "settlement_symbol": "SIST",
+      "settlement_value": "789.16",
+      "year_month": "2019-06"
+    },
+    {
+      "description": "Utilities Select Sector Index",
+      "settlement_symbol": "SISUT",
+      "settlement_value": "614.55",
+      "year_month": "2019-06"
+    },
+    {
+      "description": "Health Care Select Sector Index",
+      "settlement_symbol": "SISV",
+      "settlement_value": "936.71",
+      "year_month": "2019-06"
+    },
+    {
+      "description": "Consumer Discretionary Select Sector Index",
+      "settlement_symbol": "SISY",
+      "settlement_value": "1212.85",
+      "year_month": "2019-06"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1267.41",
+      "year_month": "2019-05"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "2851.23",
+      "year_month": "2019-05"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "15.01",
+      "year_month": "2019-05"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "256.37",
+      "year_month": "2019-05"
+    },
+    {
+      "description": "MSCI EAFE",
+      "settlement_symbol": "MXS",
+      "settlement_value": "1865.83",
+      "year_month": "2019-05"
+    },
+    {
+      "description": "MSCI Emerging Markets",
+      "settlement_symbol": "EFS",
+      "settlement_value": "996.39",
+      "year_month": "2019-05"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1544.00",
+      "year_month": "2019-05"
+    },
+    {
+      "description": "Russell 1000 Index",
+      "settlement_symbol": "RIR",
+      "settlement_value": "1580.19",
+      "year_month": "2019-05"
+    },
+    {
+      "description": "Russell 1000 Growth",
+      "settlement_symbol": "RLR",
+      "settlement_value": "1540.80",
+      "year_month": "2019-05"
+    },
+    {
+      "description": "Russell 1000 Value",
+      "settlement_symbol": "RVS",
+      "settlement_value": "1215.65",
+      "year_month": "2019-05"
+    },
+    {
+      "description": "FTSE-100 Mini Index",
+      "settlement_symbol": "UKS",
+      "settlement_value": "732.52",
+      "year_month": "2019-05"
+    },
+    {
+      "description": "S&P 500 PM Settled Options",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2859.53",
+      "year_month": "2019-05"
+    },
+    {
+      "description": "Materials Select Sector Index",
+      "settlement_symbol": "SISB",
+      "settlement_value": "575.97",
+      "year_month": "2019-05"
+    },
+    {
+      "description": "Communication Services Select Sector Index",
+      "settlement_symbol": "SISC",
+      "settlement_value": "255.59",
+      "year_month": "2019-05"
+    },
+    {
+      "description": "Energy Select Sector Index",
+      "settlement_symbol": "SISE",
+      "settlement_value": "641.32",
+      "year_month": "2019-05"
+    },
+    {
+      "description": "Industrials Select Sector Index",
+      "settlement_symbol": "SISIN",
+      "settlement_value": "750.13",
+      "year_month": "2019-05"
+    },
+    {
+      "description": "Financial Select Sector Index",
+      "settlement_symbol": "SISM",
+      "settlement_value": "328.64",
+      "year_month": "2019-05"
+    },
+    {
+      "description": "Consumer Staples Select Sector Index",
+      "settlement_symbol": "SISR",
+      "settlement_value": "578.16",
+      "year_month": "2019-05"
+    },
+    {
+      "description": "Real Estate Select Sector Index",
+      "settlement_symbol": "SISRE",
+      "settlement_value": "176.27",
+      "year_month": "2019-05"
+    },
+    {
+      "description": "Technology Select Sector Index",
+      "settlement_symbol": "SIST",
+      "settlement_value": "754.80",
+      "year_month": "2019-05"
+    },
+    {
+      "description": "Utilities Select Sector Index",
+      "settlement_symbol": "SISUT",
+      "settlement_value": "585.33",
+      "year_month": "2019-05"
+    },
+    {
+      "description": "Health Care Select Sector Index",
+      "settlement_symbol": "SISV",
+      "settlement_value": "880.49",
+      "year_month": "2019-05"
+    },
+    {
+      "description": "Consumer Discretionary Select Sector Index",
+      "settlement_symbol": "SISY",
+      "settlement_value": "1168.53",
+      "year_month": "2019-05"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1287.40",
+      "year_month": "2019-04"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "2905.90",
+      "year_month": "2019-04"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "11.71",
+      "year_month": "2019-04"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "264.75",
+      "year_month": "2019-04"
+    },
+    {
+      "description": "MSCI EAFE",
+      "settlement_symbol": "MXS",
+      "settlement_value": "1920.41",
+      "year_month": "2019-04"
+    },
+    {
+      "description": "MSCI Emerging Markets",
+      "settlement_symbol": "EFS",
+      "settlement_value": "1092.52",
+      "year_month": "2019-04"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1564.28",
+      "year_month": "2019-04"
+    },
+    {
+      "description": "Russell 1000 Index",
+      "settlement_symbol": "RIR",
+      "settlement_value": "1609.43",
+      "year_month": "2019-04"
+    },
+    {
+      "description": "Russell 1000 Growth",
+      "settlement_symbol": "RLR",
+      "settlement_value": "1564.57",
+      "year_month": "2019-04"
+    },
+    {
+      "description": "Russell 1000 Value",
+      "settlement_symbol": "RVS",
+      "settlement_value": "1242.03",
+      "year_month": "2019-04"
+    },
+    {
+      "description": "FTSE-100 Mini Index",
+      "settlement_symbol": "UKS",
+      "settlement_value": "744.68",
+      "year_month": "2019-04"
+    },
+    {
+      "description": "S&P 500 PM Settled Options",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2905.03",
+      "year_month": "2019-04"
+    },
+    {
+      "description": "Materials Select Sector Index",
+      "settlement_symbol": "SISB",
+      "settlement_value": "610.83",
+      "year_month": "2019-04"
+    },
+    {
+      "description": "Communication Services Select Sector Index",
+      "settlement_symbol": "SISC",
+      "settlement_value": "257.20",
+      "year_month": "2019-04"
+    },
+    {
+      "description": "Energy Select Sector Index",
+      "settlement_symbol": "SISE",
+      "settlement_value": "683.50",
+      "year_month": "2019-04"
+    },
+    {
+      "description": "Industrials Select Sector Index",
+      "settlement_symbol": "SISIN",
+      "settlement_value": "782.13",
+      "year_month": "2019-04"
+    },
+    {
+      "description": "Financial Select Sector Index",
+      "settlement_symbol": "SISM",
+      "settlement_value": "336.97",
+      "year_month": "2019-04"
+    },
+    {
+      "description": "Consumer Staples Select Sector Index",
+      "settlement_symbol": "SISR",
+      "settlement_value": "572.55",
+      "year_month": "2019-04"
+    },
+    {
+      "description": "Real Estate Select Sector Index",
+      "settlement_symbol": "SISRE",
+      "settlement_value": "170.38",
+      "year_month": "2019-04"
+    },
+    {
+      "description": "Technology Select Sector Index",
+      "settlement_symbol": "SIST",
+      "settlement_value": "781.19",
+      "year_month": "2019-04"
+    },
+    {
+      "description": "Utilities Select Sector Index",
+      "settlement_symbol": "SISUT",
+      "settlement_value": "579.88",
+      "year_month": "2019-04"
+    },
+    {
+      "description": "Health Care Select Sector Index",
+      "settlement_symbol": "SISV",
+      "settlement_value": "862.54",
+      "year_month": "2019-04"
+    },
+    {
+      "description": "Consumer Discretionary Select Sector Index",
+      "settlement_symbol": "SISY",
+      "settlement_value": "1205.95",
+      "year_month": "2019-04"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1247.48",
+      "year_month": "2019-03"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "2811.89",
+      "year_month": "2019-03"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "12.35",
+      "year_month": "2019-03"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "257.59",
+      "year_month": "2019-03"
+    },
+    {
+      "description": "MSCI EAFE",
+      "settlement_symbol": "MXS",
+      "settlement_value": "1890.31",
+      "year_month": "2019-03"
+    },
+    {
+      "description": "MSCI Emerging Markets",
+      "settlement_symbol": "EFS",
+      "settlement_value": "1057.30",
+      "year_month": "2019-03"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1551.90",
+      "year_month": "2019-03"
+    },
+    {
+      "description": "Russell 1000 Index",
+      "settlement_symbol": "RIR",
+      "settlement_value": "1558.79",
+      "year_month": "2019-03"
+    },
+    {
+      "description": "Russell 1000 Growth",
+      "settlement_symbol": "RLR",
+      "settlement_value": "1499.60",
+      "year_month": "2019-03"
+    },
+    {
+      "description": "Russell 1000 Value",
+      "settlement_symbol": "RVS",
+      "settlement_value": "1215.84",
+      "year_month": "2019-03"
+    },
+    {
+      "description": "FTSE-100 Mini Index",
+      "settlement_symbol": "UKS",
+      "settlement_value": "723.22",
+      "year_month": "2019-03"
+    },
+    {
+      "description": "S&P 500 PM Settled Options",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2822.48",
+      "year_month": "2019-03"
+    },
+    {
+      "description": "Materials Select Sector Index",
+      "settlement_symbol": "SISB",
+      "settlement_value": "586.46",
+      "year_month": "2019-03"
+    },
+    {
+      "description": "Communication Services Select Sector Index",
+      "settlement_symbol": "SISC",
+      "settlement_value": "246.26",
+      "year_month": "2019-03"
+    },
+    {
+      "description": "Energy Select Sector Index",
+      "settlement_symbol": "SISE",
+      "settlement_value": "660.12",
+      "year_month": "2019-03"
+    },
+    {
+      "description": "Industrials Select Sector Index",
+      "settlement_symbol": "SISIN",
+      "settlement_value": "745.77",
+      "year_month": "2019-03"
+    },
+    {
+      "description": "Financial Select Sector Index",
+      "settlement_symbol": "SISM",
+      "settlement_value": "325.73",
+      "year_month": "2019-03"
+    },
+    {
+      "description": "Consumer Staples Select Sector Index",
+      "settlement_symbol": "SISR",
+      "settlement_value": "548.95",
+      "year_month": "2019-03"
+    },
+    {
+      "description": "Real Estate Select Sector Index",
+      "settlement_symbol": "SISRE",
+      "settlement_value": "172.74",
+      "year_month": "2019-03"
+    },
+    {
+      "description": "Technology Select Sector Index",
+      "settlement_symbol": "SIST",
+      "settlement_value": "727.42",
+      "year_month": "2019-03"
+    },
+    {
+      "description": "Utilities Select Sector Index",
+      "settlement_symbol": "SISUT",
+      "settlement_value": "585.35",
+      "year_month": "2019-03"
+    },
+    {
+      "description": "Health Care Select Sector Index",
+      "settlement_symbol": "SISV",
+      "settlement_value": "920.34",
+      "year_month": "2019-03"
+    },
+    {
+      "description": "Consumer Discretionary Select Sector Index",
+      "settlement_symbol": "SISY",
+      "settlement_value": "1114.57",
+      "year_month": "2019-03"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1217.96",
+      "year_month": "2019-02"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "2768.87",
+      "year_month": "2019-02"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "15.60",
+      "year_month": "2019-02"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "256.58",
+      "year_month": "2019-02"
+    },
+    {
+      "description": "MSCI EAFE",
+      "settlement_symbol": "MXS",
+      "settlement_value": "1840.10",
+      "year_month": "2019-02"
+    },
+    {
+      "description": "MSCI Emerging Markets",
+      "settlement_symbol": "EFS",
+      "settlement_value": "1030.64",
+      "year_month": "2019-02"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1553.73",
+      "year_month": "2019-02"
+    },
+    {
+      "description": "Russell 1000 Index",
+      "settlement_symbol": "RIR",
+      "settlement_value": "1536.38",
+      "year_month": "2019-02"
+    },
+    {
+      "description": "Russell 1000 Growth",
+      "settlement_symbol": "RLR",
+      "settlement_value": "1474.55",
+      "year_month": "2019-02"
+    },
+    {
+      "description": "Russell 1000 Value",
+      "settlement_symbol": "RVS",
+      "settlement_value": "1201.21",
+      "year_month": "2019-02"
+    },
+    {
+      "description": "FTSE-100 Mini Index",
+      "settlement_symbol": "UKS",
+      "settlement_value": "722.93",
+      "year_month": "2019-02"
+    },
+    {
+      "description": "S&P 500 PM Settled Options",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2775.60",
+      "year_month": "2019-02"
+    },
+    {
+      "description": "Materials Select Sector Index",
+      "settlement_symbol": "SISB",
+      "settlement_value": "576.07",
+      "year_month": "2019-02"
+    },
+    {
+      "description": "Communication Services Select Sector Index",
+      "settlement_symbol": "SISC",
+      "settlement_value": "242.06",
+      "year_month": "2019-02"
+    },
+    {
+      "description": "Energy Select Sector Index",
+      "settlement_symbol": "SISE",
+      "settlement_value": "661.64",
+      "year_month": "2019-02"
+    },
+    {
+      "description": "Industrials Select Sector Index",
+      "settlement_symbol": "SISIN",
+      "settlement_value": "752.97",
+      "year_month": "2019-02"
+    },
+    {
+      "description": "Financial Select Sector Index",
+      "settlement_symbol": "SISM",
+      "settlement_value": "321.46",
+      "year_month": "2019-02"
+    },
+    {
+      "description": "Consumer Staples Select Sector Index",
+      "settlement_symbol": "SISR",
+      "settlement_value": "545.95",
+      "year_month": "2019-02"
+    },
+    {
+      "description": "Real Estate Select Sector Index",
+      "settlement_symbol": "SISRE",
+      "settlement_value": "169.53",
+      "year_month": "2019-02"
+    },
+    {
+      "description": "Technology Select Sector Index",
+      "settlement_symbol": "SIST",
+      "settlement_value": "698.89",
+      "year_month": "2019-02"
+    },
+    {
+      "description": "Utilities Select Sector Index",
+      "settlement_symbol": "SISUT",
+      "settlement_value": "562.73",
+      "year_month": "2019-02"
+    },
+    {
+      "description": "Health Care Select Sector Index",
+      "settlement_symbol": "SISV",
+      "settlement_value": "925.29",
+      "year_month": "2019-02"
+    },
+    {
+      "description": "Consumer Discretionary Select Sector Index",
+      "settlement_symbol": "SISY",
+      "settlement_value": "1110.48",
+      "year_month": "2019-02"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "1181.55",
+      "year_month": "2019-01"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "2657.47",
+      "year_month": "2019-01"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "18.87",
+      "year_month": "2019-01"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "245.74",
+      "year_month": "2019-01"
+    },
+    {
+      "description": "MSCI EAFE",
+      "settlement_symbol": "MXS",
+      "settlement_value": "1805.10",
+      "year_month": "2019-01"
+    },
+    {
+      "description": "MSCI Emerging Markets",
+      "settlement_symbol": "EFS",
+      "settlement_value": "1018.00",
+      "year_month": "2019-01"
+    },
+    {
+      "description": "RUSSELL 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1472.14",
+      "year_month": "2019-01"
+    },
+    {
+      "description": "Russell 1000 Index",
+      "settlement_symbol": "RIR",
+      "settlement_value": "1470.87",
+      "year_month": "2019-01"
+    },
+    {
+      "description": "Russell 1000 Growth",
+      "settlement_symbol": "RLR",
+      "settlement_value": "1401.31",
+      "year_month": "2019-01"
+    },
+    {
+      "description": "Russell 1000 Value",
+      "settlement_symbol": "RVS",
+      "settlement_value": "1158.44",
+      "year_month": "2019-01"
+    },
+    {
+      "description": "FTSE-100 Mini Index",
+      "settlement_symbol": "UKS",
+      "settlement_value": "690.14",
+      "year_month": "2019-01"
+    },
+    {
+      "description": "S&P 500 PM Settled Options",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2670.71",
+      "year_month": "2019-01"
+    }
+  ]
+}

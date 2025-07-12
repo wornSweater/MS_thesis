@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXQ",
+      "expiration_date": "2014-12-31",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2058.90",
+      "year_month": "2014-12"
+    },
+    {
+      "description": "S&P 100 Euro CLOSE",
+      "trading_symbol": "XEO",
+      "expiration_date": "2014-12-31",
+      "settlement_symbol": "XEO",
+      "settlement_value": "908.38",
+      "year_month": "2014-12"
+    },
+    {
+      "description": "Russell 2000",
+      "trading_symbol": "RUTQ",
+      "expiration_date": "2014-12-31",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1204.70",
+      "year_month": "2014-12"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXQ",
+      "expiration_date": "2014-09-30",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1972.29",
+      "year_month": "2014-09"
+    },
+    {
+      "description": "S&P 100 Euro CLOSE",
+      "trading_symbol": "XEO",
+      "expiration_date": "2014-09-30",
+      "settlement_symbol": "XEO",
+      "settlement_value": "881.25",
+      "year_month": "2014-09"
+    },
+    {
+      "description": "Russell 2000",
+      "trading_symbol": "RUTQ",
+      "expiration_date": "2014-09-30",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1101.68",
+      "year_month": "2014-09"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXQ",
+      "expiration_date": "2014-06-30",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1960.23",
+      "year_month": "2014-06"
+    },
+    {
+      "description": "S&P 100 Euro CLOSE",
+      "trading_symbol": "XEO",
+      "expiration_date": "2014-06-30",
+      "settlement_symbol": "XEO",
+      "settlement_value": "865.47",
+      "year_month": "2014-06"
+    },
+    {
+      "description": "Russell 2000",
+      "trading_symbol": "RUTQ",
+      "expiration_date": "2014-06-30",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1192.96",
+      "year_month": "2014-06"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXQ",
+      "expiration_date": "2014-03-31",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1872.34",
+      "year_month": "2014-03"
+    },
+    {
+      "description": "S&P 100 Euro CLOSE",
+      "trading_symbol": "XEO",
+      "expiration_date": "2014-03-31",
+      "settlement_symbol": "XEO",
+      "settlement_value": "828.23",
+      "year_month": "2014-03"
+    }
+  ]
+}

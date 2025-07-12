@@ -1,0 +1,484 @@
+{
+  "data": [
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "553.61",
+      "year_month": "2011-12"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1225.05",
+      "year_month": "2011-12"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "21.36",
+      "year_month": "2011-12"
+    },
+    {
+      "description": "GVZ Options",
+      "settlement_symbol": "GVN",
+      "settlement_value": "20.91",
+      "year_month": "2011-12"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "119.49",
+      "year_month": "2011-12"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "721.85",
+      "year_month": "2011-12"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "2242.25",
+      "year_month": "2011-12"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "547.80",
+      "year_month": "2011-11"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1221.58",
+      "year_month": "2011-11"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "33.36",
+      "year_month": "2011-11"
+    },
+    {
+      "description": "GVZ Options",
+      "settlement_symbol": "GVN",
+      "settlement_value": "26.21",
+      "year_month": "2011-11"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "118.28",
+      "year_month": "2011-11"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "720.35",
+      "year_month": "2011-11"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "2271.19",
+      "year_month": "2011-11"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "558.47",
+      "year_month": "2011-10"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1228.16",
+      "year_month": "2011-10"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "33.15",
+      "year_month": "2011-10"
+    },
+    {
+      "description": "GVZ Options",
+      "settlement_symbol": "GVN",
+      "settlement_value": "29.44",
+      "year_month": "2011-10"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "116.61",
+      "year_month": "2011-10"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "709.83",
+      "year_month": "2011-10"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "2332.99",
+      "year_month": "2011-10"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "546.43",
+      "year_month": "2011-09"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1216.74",
+      "year_month": "2011-09"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "33.72",
+      "year_month": "2011-09"
+    },
+    {
+      "description": "GVZ Options",
+      "settlement_symbol": "GVN",
+      "settlement_value": "30.47",
+      "year_month": "2011-09"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "115.01",
+      "year_month": "2011-09"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "717.19",
+      "year_month": "2011-09"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "2292.79",
+      "year_month": "2011-09"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "509.01",
+      "year_month": "2011-08"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1126.95",
+      "year_month": "2011-08"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "32.73",
+      "year_month": "2011-08"
+    },
+    {
+      "description": "GVZ Options",
+      "settlement_symbol": "GVN",
+      "settlement_value": "25.54",
+      "year_month": "2011-08"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "108.54",
+      "year_month": "2011-08"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "651.70",
+      "year_month": "2011-08"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "2049.88",
+      "year_month": "2011-08"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "587.72",
+      "year_month": "2011-07"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1316.02",
+      "year_month": "2011-07"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "19.10",
+      "year_month": "2011-07"
+    },
+    {
+      "description": "GVZ Options",
+      "settlement_symbol": "GVN",
+      "settlement_value": "17.82",
+      "year_month": "2011-07"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "124.86",
+      "year_month": "2011-07"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "826.81",
+      "year_month": "2011-07"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "2349.17",
+      "year_month": "2011-07"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "567.04",
+      "year_month": "2011-06"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1279.40",
+      "year_month": "2011-06"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "19.73",
+      "year_month": "2011-06"
+    },
+    {
+      "description": "GVZ Options",
+      "settlement_symbol": "GVN",
+      "settlement_value": "15.32",
+      "year_month": "2011-06"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "120.47",
+      "year_month": "2011-06"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "787.57",
+      "year_month": "2011-06"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "2225.78",
+      "year_month": "2011-06"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "591.35",
+      "year_month": "2011-05"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1342.55",
+      "year_month": "2011-05"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "18.02",
+      "year_month": "2011-05"
+    },
+    {
+      "description": "GVZ Options",
+      "settlement_symbol": "GVN",
+      "settlement_value": "18.79",
+      "year_month": "2011-05"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "126.01",
+      "year_month": "2011-05"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "831.14",
+      "year_month": "2011-05"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "2366.74",
+      "year_month": "2011-05"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "588.56",
+      "year_month": "2011-04"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1318.74",
+      "year_month": "2011-04"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "14.86",
+      "year_month": "2011-04"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "123.25",
+      "year_month": "2011-04"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "825.38",
+      "year_month": "2011-04"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "2312.09",
+      "year_month": "2011-04"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "572.93",
+      "year_month": "2011-03"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1287.71",
+      "year_month": "2011-03"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "25.14",
+      "year_month": "2011-03"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "119.10",
+      "year_month": "2011-03"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "793.28",
+      "year_month": "2011-03"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "2242.96",
+      "year_month": "2011-03"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "602.49",
+      "year_month": "2011-02"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1342.21",
+      "year_month": "2011-02"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "16.49",
+      "year_month": "2011-02"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "123.30",
+      "year_month": "2011-02"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "838.20",
+      "year_month": "2011-02"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "2398.87",
+      "year_month": "2011-02"
+    },
+    {
+      "description": "S&P 100",
+      "settlement_symbol": "OEX",
+      "settlement_value": "579.55",
+      "year_month": "2011-01"
+    },
+    {
+      "description": "S&P 500",
+      "settlement_symbol": "SET",
+      "settlement_value": "1289.25",
+      "year_month": "2011-01"
+    },
+    {
+      "description": "VIX Options",
+      "settlement_symbol": "VRO",
+      "settlement_value": "16.38",
+      "year_month": "2011-01"
+    },
+    {
+      "description": "Dow Jones",
+      "settlement_symbol": "DJS",
+      "settlement_value": "118.94",
+      "year_month": "2011-01"
+    },
+    {
+      "description": "Russell 2000",
+      "settlement_symbol": "RLS",
+      "settlement_value": "782.92",
+      "year_month": "2011-01"
+    },
+    {
+      "description": "NASDAQ 100",
+      "settlement_symbol": "NDS",
+      "settlement_value": "2299.08",
+      "year_month": "2011-01"
+    }
+  ]
+}

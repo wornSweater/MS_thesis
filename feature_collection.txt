@@ -1,0 +1,23 @@
+A nonparametric approach to pricing and hedging derivative securities via learning networks:
+1. current price S_t
+2. strike price K
+3. time to maturity T-t
+4. (by homogeneous, simplified to S/K)
+
+
+
+Qi:
+1. open interest rate
+
+A Neural Network Versus Black–Scholes: A Comparison of Pricing and Hedging Performances:
+1. the lag of moneyness: S_t-1/K e.g.
+
+BLACK–SCHOLES VERSUS ARTIFICIAL NEURAL NETWORKS IN PRICING FTSE 100 OPTIONS:
+1. open interest
+2. daily volume
+3. annualized dividend rate
+
+TUDelft (later for ATM straddle):
+1. price / K
+2. time value (price - intrinsic value)
+3. log(time value / K), log transformation (scaled) of time value

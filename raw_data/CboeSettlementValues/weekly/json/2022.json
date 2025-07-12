@@ -1,0 +1,5436 @@
+{
+  "data": [
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-12-30",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 383.95,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-12-30",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1709.17,
+      "display_order": 14
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-12-30",
+      "settlement_symbol": "EFS",
+      "settlement_value": 956.38,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-12-30",
+      "settlement_symbol": "MXS",
+      "settlement_value": 1943.93,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-12-30",
+      "settlement_symbol": "DJS",
+      "settlement_value": 330.62,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-12-29",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3849.28,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-12-29",
+      "settlement_symbol": "XSP",
+      "settlement_value": 384.93,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-12-28",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 378.32,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-12-28",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3783.22,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-12-28",
+      "settlement_symbol": "VRO",
+      "settlement_value": 21.76,
+      "display_order": 27
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-12-28",
+      "settlement_symbol": "XSP",
+      "settlement_value": 378.32,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-12-27",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 382.92,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-12-27",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3829.25,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-12-27",
+      "settlement_symbol": "XSP",
+      "settlement_value": 382.92,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-12-23",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 384.48,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-12-23",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1710.71,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-12-23",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3844.82,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-12-23",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1760.9318,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-12-23",
+      "settlement_symbol": "EFS",
+      "settlement_value": 954.78,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-12-23",
+      "settlement_symbol": "MXS",
+      "settlement_value": 1943.56,
+      "display_order": 39
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-12-23",
+      "settlement_symbol": "XSP",
+      "settlement_value": 384.48,
+      "display_order": 93
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-12-23",
+      "settlement_symbol": "DJS",
+      "settlement_value": 329.49,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-12-22",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3822.39,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-12-22",
+      "settlement_symbol": "XSP",
+      "settlement_value": 382.24,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-12-21",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 387.84,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-12-21",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3878.44,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-12-21",
+      "settlement_symbol": "XSP",
+      "settlement_value": 387.84,
+      "display_order": 93
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-12-20",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3821.62,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-12-20",
+      "settlement_symbol": "XSP",
+      "settlement_value": 382.16,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-12-19",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 381.77,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-12-19",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3817.66,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-12-19",
+      "settlement_symbol": "XSP",
+      "settlement_value": 381.77,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-12-16",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 385.24,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-12-15",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3895.75,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-12-15",
+      "settlement_symbol": "XSP",
+      "settlement_value": 389.58,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-12-14",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 399.53,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-12-14",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3995.32,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-12-14",
+      "settlement_symbol": "VRO",
+      "settlement_value": 22.8,
+      "display_order": 27
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-12-14",
+      "settlement_symbol": "XSP",
+      "settlement_value": 399.53,
+      "display_order": 93
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-12-13",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4019.65,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-12-13",
+      "settlement_symbol": "XSP",
+      "settlement_value": 401.97,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-12-12",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 399.06,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-12-12",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3990.56,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-12-12",
+      "settlement_symbol": "XSP",
+      "settlement_value": 399.06,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-12-09",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 393.44,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-12-09",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1758.31,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-12-09",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3934.38,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-12-09",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1796.6612,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-12-09",
+      "settlement_symbol": "EFS",
+      "settlement_value": 978.28,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-12-09",
+      "settlement_symbol": "MXS",
+      "settlement_value": 1978.88,
+      "display_order": 39
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-12-09",
+      "settlement_symbol": "XSP",
+      "settlement_value": 393.44,
+      "display_order": 93
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-12-09",
+      "settlement_symbol": "DJS",
+      "settlement_value": 336.97,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-12-08",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3963.51,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-12-08",
+      "settlement_symbol": "XSP",
+      "settlement_value": 396.35,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-12-07",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 393.39,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-12-07",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3933.92,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-12-07",
+      "settlement_symbol": "VRO",
+      "settlement_value": 22.66,
+      "display_order": 27
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-12-07",
+      "settlement_symbol": "XSP",
+      "settlement_value": 393.39,
+      "display_order": 93
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-12-06",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3941.26,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-12-06",
+      "settlement_symbol": "XSP",
+      "settlement_value": 394.13,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-12-05",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 399.88,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-12-05",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3998.84,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-12-05",
+      "settlement_symbol": "XSP",
+      "settlement_value": 399.88,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-12-02",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 407.17,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-12-02",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1821.21,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-12-02",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4071.7,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-12-02",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1892.8388,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-12-02",
+      "settlement_symbol": "EFS",
+      "settlement_value": 973.85,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-12-02",
+      "settlement_symbol": "MXS",
+      "settlement_value": 1983.24,
+      "display_order": 39
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-12-02",
+      "settlement_symbol": "XSP",
+      "settlement_value": 407.17,
+      "display_order": 93
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-12-02",
+      "settlement_symbol": "DJS",
+      "settlement_value": 340.26,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-12-01",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4076.57,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-12-01",
+      "settlement_symbol": "XSP",
+      "settlement_value": 407.66,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-11-30",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 408.01,
+      "display_order": 4
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-11-30",
+      "settlement_symbol": "VRO",
+      "settlement_value": 22.32,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-11-29",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3957.63,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-11-29",
+      "settlement_symbol": "XSP",
+      "settlement_value": 395.76,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-11-28",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 396.39,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-11-28",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3963.94,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-11-28",
+      "settlement_symbol": "XSP",
+      "settlement_value": 396.39,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-11-25",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 402.61,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-11-25",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1800.18,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-11-25",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4026.12,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-11-25",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1869.1914,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-11-25",
+      "settlement_symbol": "EFS",
+      "settlement_value": 941.01,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-11-25",
+      "settlement_symbol": "MXS",
+      "settlement_value": 1962.94,
+      "display_order": 39
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-11-25",
+      "settlement_symbol": "XSP",
+      "settlement_value": 402.61,
+      "display_order": 93
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-11-25",
+      "settlement_symbol": "DJS",
+      "settlement_value": 342.08,
+      "display_order": 94
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-11-23",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 402.73,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-11-23",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4027.26,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-11-23",
+      "settlement_symbol": "VRO",
+      "settlement_value": 21.68,
+      "display_order": 27
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-11-23",
+      "settlement_symbol": "XSP",
+      "settlement_value": 402.73,
+      "display_order": 93
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-11-22",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4003.58,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-11-22",
+      "settlement_symbol": "XSP",
+      "settlement_value": 400.36,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-11-21",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 394.99,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-11-21",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3949.94,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-11-21",
+      "settlement_symbol": "XSP",
+      "settlement_value": 394.99,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-11-18",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 396.53,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-11-17",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3946.56,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-11-17",
+      "settlement_symbol": "XSP",
+      "settlement_value": 394.66,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-11-16",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 395.88,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-11-16",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3958.79,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-11-16",
+      "settlement_symbol": "XSP",
+      "settlement_value": 395.88,
+      "display_order": 93
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-11-15",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3991.73,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-11-15",
+      "settlement_symbol": "XSP",
+      "settlement_value": 399.17,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-11-14",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 395.73,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-11-14",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3957.25,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-11-14",
+      "settlement_symbol": "XSP",
+      "settlement_value": 395.73,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-11-11",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 399.29,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-11-11",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1787.75,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-11-11",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3992.93,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-11-11",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1882.7398,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-11-11",
+      "settlement_symbol": "EFS",
+      "settlement_value": 935.73,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-11-11",
+      "settlement_symbol": "MXS",
+      "settlement_value": 1918.41,
+      "display_order": 39
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-11-11",
+      "settlement_symbol": "XSP",
+      "settlement_value": 399.29,
+      "display_order": 93
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-11-11",
+      "settlement_symbol": "DJS",
+      "settlement_value": 337.86,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-11-10",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3956.37,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-11-10",
+      "settlement_symbol": "XSP",
+      "settlement_value": 395.64,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-11-09",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 374.86,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-11-09",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3748.57,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-11-09",
+      "settlement_symbol": "VRO",
+      "settlement_value": 25.33,
+      "display_order": 27
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-11-09",
+      "settlement_symbol": "XSP",
+      "settlement_value": 374.86,
+      "display_order": 93
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-11-08",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3828.11,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-11-08",
+      "settlement_symbol": "XSP",
+      "settlement_value": 382.81,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-11-07",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 380.68,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-11-07",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3806.8,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-11-07",
+      "settlement_symbol": "XSP",
+      "settlement_value": 380.68,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-11-04",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 377.05,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-11-04",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1684.89,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-11-04",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3770.55,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-11-04",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1799.8658,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-11-04",
+      "settlement_symbol": "EFS",
+      "settlement_value": 884.98,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-11-04",
+      "settlement_symbol": "MXS",
+      "settlement_value": 1770.32,
+      "display_order": 39
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-11-04",
+      "settlement_symbol": "XSP",
+      "settlement_value": 377.05,
+      "display_order": 93
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-11-04",
+      "settlement_symbol": "DJS",
+      "settlement_value": 323.63,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-11-03",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3719.89,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-11-03",
+      "settlement_symbol": "XSP",
+      "settlement_value": 371.99,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-11-02",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 375.97,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-11-02",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3759.69,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-11-02",
+      "settlement_symbol": "VRO",
+      "settlement_value": 26.38,
+      "display_order": 27
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-11-02",
+      "settlement_symbol": "XSP",
+      "settlement_value": 375.97,
+      "display_order": 93
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-11-01",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3856.1,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-11-01",
+      "settlement_symbol": "XSP",
+      "settlement_value": 385.61,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-10-31",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 387.2,
+      "display_order": 4
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-10-28",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 390.11,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-10-28",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1756.46,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-10-28",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3901.06,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-10-28",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1846.9208,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-10-28",
+      "settlement_symbol": "EFS",
+      "settlement_value": 845.58,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-10-28",
+      "settlement_symbol": "MXS",
+      "settlement_value": 1748.92,
+      "display_order": 39
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-10-28",
+      "settlement_symbol": "XSP",
+      "settlement_value": 390.11,
+      "display_order": 93
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-10-28",
+      "settlement_symbol": "DJS",
+      "settlement_value": 322.08,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-10-27",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3807.3,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-10-27",
+      "settlement_symbol": "XSP",
+      "settlement_value": 380.73,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-10-26",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 383.06,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-10-26",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3830.6,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-10-26",
+      "settlement_symbol": "VRO",
+      "settlement_value": 28.44,
+      "display_order": 27
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-10-26",
+      "settlement_symbol": "XSP",
+      "settlement_value": 383.06,
+      "display_order": 93
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-10-25",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3859.11,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-10-25",
+      "settlement_symbol": "XSP",
+      "settlement_value": 385.91,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-10-24",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 379.73,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-10-24",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3797.34,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-10-24",
+      "settlement_symbol": "XSP",
+      "settlement_value": 379.73,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-10-21",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 375.27,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-10-20",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3665.78,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-10-20",
+      "settlement_symbol": "XSP",
+      "settlement_value": 366.58,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-10-19",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 369.52,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-10-19",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3695.16,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-10-19",
+      "settlement_symbol": "XSP",
+      "settlement_value": 369.52,
+      "display_order": 93
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-10-18",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3719.98,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-10-18",
+      "settlement_symbol": "XSP",
+      "settlement_value": 372,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-10-17",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 367.8,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-10-17",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3677.95,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-10-17",
+      "settlement_symbol": "XSP",
+      "settlement_value": 367.8,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-10-14",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 358.31,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-10-14",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1622.25,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-10-14",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3583.07,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-10-14",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1682.4029,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-10-14",
+      "settlement_symbol": "EFS",
+      "settlement_value": 863.33,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-10-14",
+      "settlement_symbol": "MXS",
+      "settlement_value": 1670.64,
+      "display_order": 39
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-10-14",
+      "settlement_symbol": "XSP",
+      "settlement_value": 358.31,
+      "display_order": 93
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-10-14",
+      "settlement_symbol": "DJS",
+      "settlement_value": 302.58,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-10-13",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3669.91,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-10-13",
+      "settlement_symbol": "XSP",
+      "settlement_value": 366.99,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-10-12",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 357.7,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-10-12",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3577.03,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-10-12",
+      "settlement_symbol": "VRO",
+      "settlement_value": 33.95,
+      "display_order": 27
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-10-12",
+      "settlement_symbol": "XSP",
+      "settlement_value": 357.7,
+      "display_order": 93
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-10-11",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3588.84,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-10-11",
+      "settlement_symbol": "XSP",
+      "settlement_value": 358.88,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-10-10",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 361.24,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-10-10",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3612.39,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-10-10",
+      "settlement_symbol": "XSP",
+      "settlement_value": 361.24,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-10-07",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 363.97,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-10-07",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1642.89,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-10-07",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3639.66,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-10-07",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1702.1498,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-10-07",
+      "settlement_symbol": "EFS",
+      "settlement_value": 897.74,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-10-07",
+      "settlement_symbol": "MXS",
+      "settlement_value": 1693.58,
+      "display_order": 39
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-10-07",
+      "settlement_symbol": "XSP",
+      "settlement_value": 363.97,
+      "display_order": 93
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-10-07",
+      "settlement_symbol": "DJS",
+      "settlement_value": 296.66,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-10-06",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3744.52,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-10-05",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 378.33,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-10-05",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3783.28,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-10-05",
+      "settlement_symbol": "VRO",
+      "settlement_value": 29.94,
+      "display_order": 27
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-10-05",
+      "settlement_symbol": "XSP",
+      "settlement_value": 378.33,
+      "display_order": 93
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-10-04",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3790.93,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-10-04",
+      "settlement_symbol": "XSP",
+      "settlement_value": 379.09,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-10-03",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 367.84,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-10-03",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3678.43,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-10-03",
+      "settlement_symbol": "XSP",
+      "settlement_value": 367.84,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-09-30",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 358.56,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-09-30",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1625.76,
+      "display_order": 14
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-09-30",
+      "settlement_symbol": "EFS",
+      "settlement_value": 875.79,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-09-30",
+      "settlement_symbol": "MXS",
+      "settlement_value": 1661.48,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-09-30",
+      "settlement_symbol": "DJS",
+      "settlement_value": 291.22,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-09-29",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3640.47,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-09-28",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 371.9,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-09-28",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3719.04,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-09-28",
+      "settlement_symbol": "VRO",
+      "settlement_value": 32.92,
+      "display_order": 27
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-09-28",
+      "settlement_symbol": "XSP",
+      "settlement_value": 371.9,
+      "display_order": 93
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-09-27",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3647.29,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-09-26",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 365.5,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-09-26",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3655.04,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-09-26",
+      "settlement_symbol": "XSP",
+      "settlement_value": 365.5,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-09-23",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 369.32,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-09-23",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1681.52,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-09-23",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3693.23,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-09-23",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1679.5899,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-09-23",
+      "settlement_symbol": "EFS",
+      "settlement_value": 905.84,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-09-23",
+      "settlement_symbol": "MXS",
+      "settlement_value": 1688.02,
+      "display_order": 39
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-09-23",
+      "settlement_symbol": "XSP",
+      "settlement_value": 369.32,
+      "display_order": 93
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-09-23",
+      "settlement_symbol": "DJS",
+      "settlement_value": 298.05,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-09-22",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3757.99,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-09-21",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 378.99,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-09-21",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3789.93,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-09-21",
+      "settlement_symbol": "XSP",
+      "settlement_value": 378.99,
+      "display_order": 93
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-09-20",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3855.93,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-09-19",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 389.99,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-09-19",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3899.89,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-09-19",
+      "settlement_symbol": "XSP",
+      "settlement_value": 389.99,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-09-16",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 387.33,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-09-15",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3901.35,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-09-14",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 394.6,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-09-14",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3946.01,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-09-14",
+      "settlement_symbol": "VRO",
+      "settlement_value": 26.82,
+      "display_order": 27
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-09-14",
+      "settlement_symbol": "XSP",
+      "settlement_value": 394.6,
+      "display_order": 93
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-09-13",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3932.69,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-09-12",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 411.04,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-09-12",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4110.41,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-09-12",
+      "settlement_symbol": "XSP",
+      "settlement_value": 411.04,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-09-09",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 406.74,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-09-09",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1842.52,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-09-09",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4067.36,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-09-09",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1882.8479,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-09-09",
+      "settlement_symbol": "EFS",
+      "settlement_value": 970.29,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-09-09",
+      "settlement_symbol": "MXS",
+      "settlement_value": 1838.8,
+      "display_order": 39
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-09-09",
+      "settlement_symbol": "XSP",
+      "settlement_value": 406.74,
+      "display_order": 93
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-09-09",
+      "settlement_symbol": "DJS",
+      "settlement_value": 319.4,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-09-08",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4006.18,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-09-07",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 397.99,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-09-07",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3979.87,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-09-07",
+      "settlement_symbol": "VRO",
+      "settlement_value": 26.85,
+      "display_order": 27
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-09-07",
+      "settlement_symbol": "XSP",
+      "settlement_value": 397.99,
+      "display_order": 93
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-09-06",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3908.19,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-09-02",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 392.43,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-09-02",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1783.96,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-09-02",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3924.26,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-09-02",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1809.7477,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-09-02",
+      "settlement_symbol": "EFS",
+      "settlement_value": 972.02,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-09-02",
+      "settlement_symbol": "MXS",
+      "settlement_value": 1823.46,
+      "display_order": 39
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-09-02",
+      "settlement_symbol": "XSP",
+      "settlement_value": 392.43,
+      "display_order": 93
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-09-02",
+      "settlement_symbol": "DJS",
+      "settlement_value": 319.21,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-09-01",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3966.85,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-08-31",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 395.5,
+      "display_order": 4
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-08-31",
+      "settlement_symbol": "VRO",
+      "settlement_value": 25.97,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-08-30",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3986.16,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-08-29",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 403.06,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-08-29",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4030.61,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-08-29",
+      "settlement_symbol": "XSP",
+      "settlement_value": 403.06,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-08-26",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 405.77,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-08-26",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1846.12,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-08-26",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4057.66,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-08-26",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1899.8305,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-08-26",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1006.5,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-08-26",
+      "settlement_symbol": "MXS",
+      "settlement_value": 1882.33,
+      "display_order": 39
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-08-26",
+      "settlement_symbol": "XSP",
+      "settlement_value": 405.77,
+      "display_order": 93
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-08-26",
+      "settlement_symbol": "DJS",
+      "settlement_value": 333.37,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-08-25",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4199.12,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-08-24",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 414.08,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-08-24",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4140.77,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-08-24",
+      "settlement_symbol": "VRO",
+      "settlement_value": 24.1,
+      "display_order": 27
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-08-24",
+      "settlement_symbol": "XSP",
+      "settlement_value": 414.08,
+      "display_order": 93
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-08-23",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4128.73,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-08-22",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 413.8,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-08-22",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4137.99,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-08-22",
+      "settlement_symbol": "XSP",
+      "settlement_value": 413.8,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-08-19",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 422.85,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-08-18",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4283.74,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-08-17",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 427.4,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-08-17",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4274.04,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-08-17",
+      "settlement_symbol": "XSP",
+      "settlement_value": 427.4,
+      "display_order": 93
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-08-16",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4305.2,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-08-15",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 429.71,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-08-15",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4297.14,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-08-15",
+      "settlement_symbol": "XSP",
+      "settlement_value": 429.71,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-08-12",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 428.02,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-08-12",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1952.35,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-08-12",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4280.15,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-08-12",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2016.6161,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-08-12",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1016.83,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-08-12",
+      "settlement_symbol": "MXS",
+      "settlement_value": 1963.88,
+      "display_order": 39
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-08-12",
+      "settlement_symbol": "XSP",
+      "settlement_value": 428.02,
+      "display_order": 93
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-08-12",
+      "settlement_symbol": "DJS",
+      "settlement_value": 334.53,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-08-11",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4207.27,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-08-10",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 421.02,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-08-10",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4210.24,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-08-10",
+      "settlement_symbol": "VRO",
+      "settlement_value": 20.37,
+      "display_order": 27
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-08-10",
+      "settlement_symbol": "XSP",
+      "settlement_value": 421.02,
+      "display_order": 93
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-08-09",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4122.47,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-08-08",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 414.01,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-08-08",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4140.06,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-08-08",
+      "settlement_symbol": "XSP",
+      "settlement_value": 414.01,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-08-05",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 414.52,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-08-05",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1893.64,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-08-05",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4145.19,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-08-05",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1921.8239,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-08-05",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1002.87,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-08-05",
+      "settlement_symbol": "MXS",
+      "settlement_value": 1924.07,
+      "display_order": 39
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-08-05",
+      "settlement_symbol": "XSP",
+      "settlement_value": 414.52,
+      "display_order": 93
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-08-05",
+      "settlement_symbol": "DJS",
+      "settlement_value": 325,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-08-04",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4151.94,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-08-03",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 415.52,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-08-03",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4155.17,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-08-03",
+      "settlement_symbol": "VRO",
+      "settlement_value": 22.74,
+      "display_order": 27
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-08-03",
+      "settlement_symbol": "XSP",
+      "settlement_value": 415.52,
+      "display_order": 93
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-08-02",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4091.19,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-08-01",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 411.86,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-08-01",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4118.63,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-08-01",
+      "settlement_symbol": "XSP",
+      "settlement_value": 411.86,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-07-29",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 413.03,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-07-29",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1885.59,
+      "display_order": 14
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-07-29",
+      "settlement_symbol": "EFS",
+      "settlement_value": 993.78,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-07-29",
+      "settlement_symbol": "MXS",
+      "settlement_value": 1937.26,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-07-29",
+      "settlement_symbol": "DJS",
+      "settlement_value": 325.39,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-07-28",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4072.43,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-07-27",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 402.36,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-07-27",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4023.61,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-07-27",
+      "settlement_symbol": "VRO",
+      "settlement_value": 24.21,
+      "display_order": 27
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-07-27",
+      "settlement_symbol": "XSP",
+      "settlement_value": 402.36,
+      "display_order": 93
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-07-26",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3921.05,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-07-25",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 396.68,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-07-25",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3966.84,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-07-25",
+      "settlement_symbol": "XSP",
+      "settlement_value": 396.68,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-07-22",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 396.16,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-07-22",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1810.76,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-07-22",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3961.63,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-07-22",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1806.8807,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-07-22",
+      "settlement_symbol": "EFS",
+      "settlement_value": 990.37,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-07-22",
+      "settlement_symbol": "MXS",
+      "settlement_value": 1897.38,
+      "display_order": 39
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-07-22",
+      "settlement_symbol": "XSP",
+      "settlement_value": 396.16,
+      "display_order": 93
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-07-22",
+      "settlement_symbol": "DJS",
+      "settlement_value": 321.64,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-07-21",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3998.95,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-07-20",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 395.99,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-07-20",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3959.9,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-07-20",
+      "settlement_symbol": "XSP",
+      "settlement_value": 395.99,
+      "display_order": 93
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-07-19",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3936.69,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-07-18",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 383.09,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-07-18",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3830.85,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-07-18",
+      "settlement_symbol": "XSP",
+      "settlement_value": 383.09,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-07-15",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 386.32,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-07-14",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3790.38,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-07-13",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 380.18,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-07-13",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3801.78,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-07-13",
+      "settlement_symbol": "VRO",
+      "settlement_value": 29.15,
+      "display_order": 27
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-07-13",
+      "settlement_symbol": "XSP",
+      "settlement_value": 380.18,
+      "display_order": 93
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-07-12",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3818.8,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-07-11",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 385.44,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-07-11",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3854.43,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-07-11",
+      "settlement_symbol": "XSP",
+      "settlement_value": 385.44,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-07-08",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 389.94,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-07-08",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1786.35,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-07-08",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3899.38,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-07-08",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1769.3645,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-07-08",
+      "settlement_symbol": "EFS",
+      "settlement_value": 999.58,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-07-08",
+      "settlement_symbol": "MXS",
+      "settlement_value": 1849.48,
+      "display_order": 39
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-07-08",
+      "settlement_symbol": "XSP",
+      "settlement_value": 389.94,
+      "display_order": 93
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-07-08",
+      "settlement_symbol": "DJS",
+      "settlement_value": 313.36,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-07-07",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3902.62,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-07-06",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 384.51,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-07-06",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3845.08,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-07-06",
+      "settlement_symbol": "VRO",
+      "settlement_value": 27.87,
+      "display_order": 27
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-07-06",
+      "settlement_symbol": "XSP",
+      "settlement_value": 384.51,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-07-05",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 383.14,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-07-05",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3831.39,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-07-05",
+      "settlement_symbol": "XSP",
+      "settlement_value": 383.14,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-07-01",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 382.53,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-07-01",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1743.13,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-07-01",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3825.33,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-07-01",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1727.7573,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-07-01",
+      "settlement_symbol": "EFS",
+      "settlement_value": 992.84,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-07-01",
+      "settlement_symbol": "MXS",
+      "settlement_value": 1832.34,
+      "display_order": 39
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-07-01",
+      "settlement_symbol": "XSP",
+      "settlement_value": 382.53,
+      "display_order": 93
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-07-01",
+      "settlement_symbol": "DJS",
+      "settlement_value": 307.41,
+      "display_order": 94
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-06-29",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 381.88,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-06-29",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3818.83,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-06-29",
+      "settlement_symbol": "VRO",
+      "settlement_value": 28.93,
+      "display_order": 27
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-06-29",
+      "settlement_symbol": "XSP",
+      "settlement_value": 381.88,
+      "display_order": 93
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-06-28",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3821.55,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-06-27",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 390.01,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-06-27",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3900.11,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-06-27",
+      "settlement_symbol": "XSP",
+      "settlement_value": 390.01,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-06-24",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 391.17,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-06-24",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1789.2,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-06-24",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3911.74,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-06-24",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1765.7375,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-06-24",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1011.18,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-06-24",
+      "settlement_symbol": "MXS",
+      "settlement_value": 1874.19,
+      "display_order": 39
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-06-24",
+      "settlement_symbol": "XSP",
+      "settlement_value": 391.17,
+      "display_order": 93
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-06-24",
+      "settlement_symbol": "DJS",
+      "settlement_value": 309.3,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-06-23",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3795.73,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-06-22",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 375.99,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-06-22",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3759.89,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-06-22",
+      "settlement_symbol": "VRO",
+      "settlement_value": 30.5,
+      "display_order": 27
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-06-22",
+      "settlement_symbol": "XSP",
+      "settlement_value": 375.99,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-06-21",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 376.48,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-06-21",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3764.79,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-06-21",
+      "settlement_symbol": "XSP",
+      "settlement_value": 376.48,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-06-17",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 367.48,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-06-16",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3666.77,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-06-15",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 379,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-06-15",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3789.99,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-06-15",
+      "settlement_symbol": "XSP",
+      "settlement_value": 379,
+      "display_order": 93
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-06-14",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3735.48,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-06-13",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 374.96,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-06-13",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3749.63,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-06-13",
+      "settlement_symbol": "XSP",
+      "settlement_value": 374.96,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-06-10",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 390.09,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-06-10",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1765.66,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-06-10",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3900.86,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-06-10",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1800.2836,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-06-10",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1054.64,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-06-10",
+      "settlement_symbol": "MXS",
+      "settlement_value": 1934.2,
+      "display_order": 39
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-06-10",
+      "settlement_symbol": "XSP",
+      "settlement_value": 390.09,
+      "display_order": 93
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-06-10",
+      "settlement_symbol": "DJS",
+      "settlement_value": 317.79,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-06-09",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4017.82,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-06-08",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 411.58,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-06-08",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4115.77,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-06-08",
+      "settlement_symbol": "VRO",
+      "settlement_value": 24.39,
+      "display_order": 27
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-06-08",
+      "settlement_symbol": "XSP",
+      "settlement_value": 411.58,
+      "display_order": 93
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-06-07",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4160.68,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-06-06",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 412.14,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-06-06",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4121.43,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-06-06",
+      "settlement_symbol": "XSP",
+      "settlement_value": 412.14,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-06-03",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 410.85,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-06-03",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1860.19,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-06-03",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4108.54,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-06-03",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1883.0534,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-06-03",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1060.74,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-06-03",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2029.06,
+      "display_order": 39
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-06-03",
+      "settlement_symbol": "XSP",
+      "settlement_value": 410.85,
+      "display_order": 93
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-06-03",
+      "settlement_symbol": "DJS",
+      "settlement_value": 329.45,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-06-02",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4176.82,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-06-01",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 410.12,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-06-01",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4101.23,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-06-01",
+      "settlement_symbol": "VRO",
+      "settlement_value": 26.09,
+      "display_order": 27
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-06-01",
+      "settlement_symbol": "XSP",
+      "settlement_value": 410.12,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-05-31",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 413.21,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-05-31",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4132.15,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-05-27",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 415.82,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-05-27",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1878.73,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-05-27",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4158.24,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-05-27",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1887.8965,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-05-27",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1043.17,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-05-27",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2035.83,
+      "display_order": 39
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-05-27",
+      "settlement_symbol": "XSP",
+      "settlement_value": 415.82,
+      "display_order": 93
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-05-27",
+      "settlement_symbol": "DJS",
+      "settlement_value": 327.03,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-05-26",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4057.84,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-05-25",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 397.87,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-05-25",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3978.73,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-05-25",
+      "settlement_symbol": "VRO",
+      "settlement_value": 29.78,
+      "display_order": 27
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-05-25",
+      "settlement_symbol": "XSP",
+      "settlement_value": 397.87,
+      "display_order": 93
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-05-24",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3941.48,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-05-23",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 397.38,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-05-23",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3973.75,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-05-23",
+      "settlement_symbol": "XSP",
+      "settlement_value": 397.38,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-05-20",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 390.14,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-05-19",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3900.79,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-05-18",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 392.37,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-05-18",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3923.68,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-05-18",
+      "settlement_symbol": "XSP",
+      "settlement_value": 392.37,
+      "display_order": 93
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-05-17",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4088.85,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-05-16",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 400.8,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-05-16",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4008.01,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-05-16",
+      "settlement_symbol": "XSP",
+      "settlement_value": 400.8,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-05-13",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 402.39,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-05-13",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1828.85,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-05-13",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4023.89,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-05-13",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1792.6662,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-05-13",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1004.52,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-05-13",
+      "settlement_symbol": "MXS",
+      "settlement_value": 1942.38,
+      "display_order": 39
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-05-13",
+      "settlement_symbol": "XSP",
+      "settlement_value": 402.39,
+      "display_order": 93
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-05-13",
+      "settlement_symbol": "DJS",
+      "settlement_value": 319.81,
+      "display_order": 94
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-05-11",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 393.52,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-05-11",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3935.18,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-05-11",
+      "settlement_symbol": "VRO",
+      "settlement_value": 32.98,
+      "display_order": 27
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-05-11",
+      "settlement_symbol": "XSP",
+      "settlement_value": 393.52,
+      "display_order": 93
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-05-10",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4001.05,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-05-09",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 399.12,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-05-09",
+      "settlement_symbol": "SPX",
+      "settlement_value": 3991.24,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-05-09",
+      "settlement_symbol": "XSP",
+      "settlement_value": 399.12,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-05-06",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 412.33,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-05-06",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1878.14,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-05-06",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4123.34,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-05-06",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1839.5647,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-05-06",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1031.5,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-05-06",
+      "settlement_symbol": "MXS",
+      "settlement_value": 1972.82,
+      "display_order": 39
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-05-06",
+      "settlement_symbol": "XSP",
+      "settlement_value": 412.33,
+      "display_order": 93
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-05-06",
+      "settlement_symbol": "DJS",
+      "settlement_value": 327.78,
+      "display_order": 94
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-05-04",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 430.02,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-05-04",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4300.17,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-05-04",
+      "settlement_symbol": "VRO",
+      "settlement_value": 29.1,
+      "display_order": 27
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-05-04",
+      "settlement_symbol": "XSP",
+      "settlement_value": 430.02,
+      "display_order": 93
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-05-03",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4175.48,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-05-02",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 415.54,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-05-02",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4155.38,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-05-02",
+      "settlement_symbol": "XSP",
+      "settlement_value": 415.54,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-04-29",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 413.19,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-04-29",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1879.57,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-04-29",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4131.93,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-04-29",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1864.103,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-04-29",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1076.19,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-04-29",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2033.7,
+      "display_order": 39
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-04-29",
+      "settlement_symbol": "XSP",
+      "settlement_value": 413.19,
+      "display_order": 93
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-04-29",
+      "settlement_symbol": "DJS",
+      "settlement_value": 337.84,
+      "display_order": 94
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-04-27",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 418.4,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-04-27",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4183.96,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-04-27",
+      "settlement_symbol": "VRO",
+      "settlement_value": 31.82,
+      "display_order": 27
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-04-27",
+      "settlement_symbol": "XSP",
+      "settlement_value": 418.4,
+      "display_order": 93
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-04-26",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4175.2,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-04-25",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 429.61,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-04-25",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4296.12,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-04-25",
+      "settlement_symbol": "XSP",
+      "settlement_value": 429.61,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-04-22",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 427.18,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-04-22",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1945.39,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-04-22",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4271.78,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-04-22",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1940.6646,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-04-22",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1075.6,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-04-22",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2081.96,
+      "display_order": 39
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-04-22",
+      "settlement_symbol": "XSP",
+      "settlement_value": 427.18,
+      "display_order": 93
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-04-22",
+      "settlement_symbol": "DJS",
+      "settlement_value": 346.52,
+      "display_order": 94
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-04-20",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 445.95,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-04-20",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4459.45,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-04-20",
+      "settlement_symbol": "XSP",
+      "settlement_value": 445.95,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-04-18",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 439.17,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-04-18",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4391.69,
+      "display_order": 17
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-04-18",
+      "settlement_symbol": "XSP",
+      "settlement_value": 439.17,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-04-14",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 439.26,
+      "display_order": 4
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-04-13",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 444.66,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-04-13",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4446.59,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-04-13",
+      "settlement_symbol": "VRO",
+      "settlement_value": 24.06,
+      "display_order": 27
+    },
+    {
+      "description": "Mini-SPX (XSP)",
+      "trading_symbol": "XSP",
+      "expiration_date": "2022-04-13",
+      "settlement_symbol": "XSP",
+      "settlement_value": 444.66,
+      "display_order": 93
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-04-11",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 441.25,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-04-11",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4412.53,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-04-08",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 448.83,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-04-08",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2056.65,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-04-08",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4488.28,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-04-08",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1994.5622,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-04-08",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1127.93,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-04-08",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2139.56,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-04-08",
+      "settlement_symbol": "DJS",
+      "settlement_value": 345.78,
+      "display_order": 94
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-04-06",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 448.12,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-04-06",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4481.15,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-04-06",
+      "settlement_symbol": "VRO",
+      "settlement_value": 22.91,
+      "display_order": 27
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-04-04",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 458.26,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-04-04",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4582.64,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-04-01",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 454.59,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-04-01",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2091.39,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-04-01",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4545.86,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-04-01",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2091.1104,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-04-01",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1145.85,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-04-01",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2171.15,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-04-01",
+      "settlement_symbol": "DJS",
+      "settlement_value": 348.17,
+      "display_order": 94
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-03-30",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 460.24,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-03-30",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4602.45,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-03-30",
+      "settlement_symbol": "VRO",
+      "settlement_value": 19.15,
+      "display_order": 27
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-03-28",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 457.55,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-03-28",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4575.52,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-03-25",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 454.31,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-03-25",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2091.42,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-03-25",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4543.06,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-03-25",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2077.9832,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-03-25",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1125.01,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-03-25",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2159.53,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-03-25",
+      "settlement_symbol": "DJS",
+      "settlement_value": 347.83,
+      "display_order": 94
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-03-23",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 445.62,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-03-23",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4456.24,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-03-23",
+      "settlement_symbol": "VRO",
+      "settlement_value": 23.82,
+      "display_order": 27
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-03-21",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 446.12,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-03-21",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4461.18,
+      "display_order": 17
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-03-18",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 446.31,
+      "display_order": 4
+    },
+    {
+      "description": "Cboe NANOS S&P 500 Index Options Close",
+      "trading_symbol": "NANOS",
+      "expiration_date": "2022-03-16",
+      "settlement_symbol": "NANOS",
+      "settlement_value": 435.79,
+      "display_order": 4
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-03-16",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4357.86,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-03-14",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4173.11,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-03-11",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1925.35,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-03-11",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4204.31,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-03-11",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1979.6682,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-03-11",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1085.66,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-03-11",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2043.94,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-03-11",
+      "settlement_symbol": "DJS",
+      "settlement_value": 333.82,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-03-09",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4277.88,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-03-09",
+      "settlement_symbol": "VRO",
+      "settlement_value": 32.42,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-03-07",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4201.09,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-03-04",
+      "settlement_symbol": "OEX",
+      "settlement_value": 1979.06,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-03-04",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4328.87,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-03-04",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2000.8998,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-03-04",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1144.91,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-03-04",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2035.47,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-03-04",
+      "settlement_symbol": "DJS",
+      "settlement_value": 334.29,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-03-02",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4386.54,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-03-02",
+      "settlement_symbol": "VRO",
+      "settlement_value": 33.41,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-02-28",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4373.94,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-02-25",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2010.13,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-02-25",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4384.65,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-02-25",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2040.9294,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-02-25",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1171.99,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-02-25",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2177.75,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-02-25",
+      "settlement_symbol": "DJS",
+      "settlement_value": 333.52,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-02-23",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4225.5,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-02-23",
+      "settlement_symbol": "VRO",
+      "settlement_value": 28.29,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-02-22",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4304.76,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-02-16",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4475.01,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-02-14",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4401.67,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-02-11",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2031.42,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-02-11",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4418.64,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-02-11",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2030.1461,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-02-11",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1240.51,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-02-11",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2279.33,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-02-11",
+      "settlement_symbol": "DJS",
+      "settlement_value": 352.51,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-02-09",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4587.18,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-02-09",
+      "settlement_symbol": "VRO",
+      "settlement_value": 20.6,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-02-07",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4483.87,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-02-04",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2081.87,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-02-04",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4500.53,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-02-04",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2002.3587,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-02-04",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1221.1,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-02-04",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2247.73,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-02-04",
+      "settlement_symbol": "DJS",
+      "settlement_value": 350.17,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-02-02",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4589.38,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-02-02",
+      "settlement_symbol": "VRO",
+      "settlement_value": 21.73,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-01-28",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2053.15,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-01-28",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4431.85,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-01-28",
+      "settlement_symbol": "RUT",
+      "settlement_value": 1968.5084,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-01-28",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1191.14,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-01-28",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2201.56,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-01-28",
+      "settlement_symbol": "DJS",
+      "settlement_value": 342.11,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-01-26",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4349.93,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-01-26",
+      "settlement_symbol": "VRO",
+      "settlement_value": 28.94,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-01-24",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4410.13,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-01-19",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4532.76,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-01-18",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4577.11,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-01-14",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2149.93,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-01-14",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4662.85,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-01-14",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2162.4558,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-01-14",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1257.46,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-01-14",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2333,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-01-14",
+      "settlement_symbol": "DJS",
+      "settlement_value": 358.5,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-01-12",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4726.35,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-01-12",
+      "settlement_symbol": "VRO",
+      "settlement_value": 18.05,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-01-10",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4670.29,
+      "display_order": 17
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2022-01-07",
+      "settlement_symbol": "OEX",
+      "settlement_value": 2156.76,
+      "display_order": 14
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-01-07",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4677.03,
+      "display_order": 17
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2022-01-07",
+      "settlement_symbol": "RUT",
+      "settlement_value": 2179.8101,
+      "display_order": 33
+    },
+    {
+      "description": "MSCI Emerging Markets Index",
+      "trading_symbol": "MXEF",
+      "expiration_date": "2022-01-07",
+      "settlement_symbol": "EFS",
+      "settlement_value": 1226.1,
+      "display_order": 37
+    },
+    {
+      "description": "MSCI EAFE Index",
+      "trading_symbol": "MXEA",
+      "expiration_date": "2022-01-07",
+      "settlement_symbol": "MXS",
+      "settlement_value": 2328.99,
+      "display_order": 39
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2022-01-07",
+      "settlement_symbol": "DJS",
+      "settlement_value": 362.04,
+      "display_order": 94
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-01-05",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4700.58,
+      "display_order": 17
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2022-01-05",
+      "settlement_symbol": "VRO",
+      "settlement_value": 17.34,
+      "display_order": 27
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2022-01-03",
+      "settlement_symbol": "SPX",
+      "settlement_value": 4796.56,
+      "display_order": 17
+    }
+  ]
+}

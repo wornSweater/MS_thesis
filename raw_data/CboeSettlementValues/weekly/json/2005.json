@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "description": "S&P 100",
+      "trading_symbol": "RZE",
+      "expiration_date": "FIVE",
+      "settlement_symbol": "OEX",
+      "settlement_value": "570.00",
+      "year_month": "2005-12"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "JXE",
+      "expiration_date": "FIVE",
+      "settlement_symbol": "SET",
+      "settlement_value": "1248.73",
+      "year_month": "2005-12"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "RZD",
+      "expiration_date": "FOUR",
+      "settlement_symbol": "OEX",
+      "settlement_value": "579.41*",
+      "year_month": "2005-12"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "JXD",
+      "expiration_date": "FOUR",
+      "settlement_symbol": "SET",
+      "settlement_value": "1269.16",
+      "year_month": "2005-12"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "RZB",
+      "expiration_date": "TWO",
+      "settlement_symbol": "OEX",
+      "settlement_value": "574.63",
+      "year_month": "2005-12"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "JXB",
+      "expiration_date": "TWO",
+      "settlement_symbol": "SET",
+      "settlement_value": "1256.88",
+      "year_month": "2005-12"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "RZA",
+      "expiration_date": "ONE",
+      "settlement_symbol": "OEX",
+      "settlement_value": "579.61",
+      "year_month": "2005-12"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "JXA",
+      "expiration_date": "ONE",
+      "settlement_symbol": "SET",
+      "settlement_value": "1262.71",
+      "year_month": "2005-12"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "RZE",
+      "expiration_date": "FIVE",
+      "settlement_symbol": "OEX",
+      "settlement_value": "**",
+      "year_month": "2005-11"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "JXE",
+      "expiration_date": "FIVE",
+      "settlement_symbol": "SET",
+      "settlement_value": "**",
+      "year_month": "2005-11"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "RZD",
+      "expiration_date": "FOUR",
+      "settlement_symbol": "OEX",
+      "settlement_value": "583.24",
+      "year_month": "2005-11"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "JXD",
+      "expiration_date": "FOUR",
+      "settlement_symbol": "SET",
+      "settlement_value": "1269.42",
+      "year_month": "2005-11"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "RZB",
+      "expiration_date": "TWO",
+      "settlement_symbol": "OEX",
+      "settlement_value": "569.01",
+      "year_month": "2005-11"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "JXB",
+      "expiration_date": "TWO",
+      "settlement_symbol": "SET",
+      "settlement_value": "1231.69",
+      "year_month": "2005-11"
+    },
+    {
+      "description": "S&P 100",
+      "trading_symbol": "RZA",
+      "expiration_date": "ONE",
+      "settlement_symbol": "OEX",
+      "settlement_value": "561.97",
+      "year_month": "2005-11"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "JXA",
+      "expiration_date": "ONE",
+      "settlement_symbol": "SET",
+      "settlement_value": "1222.20",
+      "year_month": "2005-11"
+    }
+  ]
+}

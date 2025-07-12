@@ -1,0 +1,292 @@
+{
+  "data": [
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-12-29",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2673.61",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "MINI SPX  CLOSE",
+      "trading_symbol": "XSP",
+      "expiration_date": "2017-12-29",
+      "settlement_symbol": "XSP",
+      "settlement_value": "267.36",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-12-29",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1535.51",
+      "year_month": "2017-12"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-11-30",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2647.58",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "MINI SPX  CLOSE",
+      "trading_symbol": "XSP",
+      "expiration_date": "2017-11-30",
+      "settlement_symbol": "XSP",
+      "settlement_value": "264.76",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-11-30",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1544.14",
+      "year_month": "2017-11"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-10-31",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2575.26",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "MINI SPX  CLOSE",
+      "trading_symbol": "XSP",
+      "expiration_date": "2017-10-31",
+      "settlement_symbol": "XSP",
+      "settlement_value": "257.53",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-10-31",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1502.77",
+      "year_month": "2017-10"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-09-29",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2519.36",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "MINI SPX  CLOSE",
+      "trading_symbol": "XSP",
+      "expiration_date": "2017-09-29",
+      "settlement_symbol": "XSP",
+      "settlement_value": "251.94",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-09-29",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1490.86",
+      "year_month": "2017-09"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-08-31",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2471.65",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "MINI SPX  CLOSE",
+      "trading_symbol": "XSP",
+      "expiration_date": "2017-08-31",
+      "settlement_symbol": "XSP",
+      "settlement_value": "247.17",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-08-31",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1405.28",
+      "year_month": "2017-08"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-07-31",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2470.30",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "MINI SPX  CLOSE",
+      "trading_symbol": "XSP",
+      "expiration_date": "2017-07-31",
+      "settlement_symbol": "XSP",
+      "settlement_value": "247.03",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-07-31",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1425.14",
+      "year_month": "2017-07"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-06-30",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2423.41",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "MINI SPX  CLOSE",
+      "trading_symbol": "XSP",
+      "expiration_date": "2017-06-30",
+      "settlement_symbol": "XSP",
+      "settlement_value": "242.34",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-06-30",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1415.36",
+      "year_month": "2017-06"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-05-31",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2411.80",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "MINI SPX  CLOSE",
+      "trading_symbol": "XSP",
+      "expiration_date": "2017-05-31",
+      "settlement_symbol": "XSP",
+      "settlement_value": "241.18",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-05-31",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1370.21",
+      "year_month": "2017-05"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-04-28",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2384.20",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "MINI SPX  CLOSE",
+      "trading_symbol": "XSP",
+      "expiration_date": "2017-04-28",
+      "settlement_symbol": "XSP",
+      "settlement_value": "238.42",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-04-28",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1400.43",
+      "year_month": "2017-04"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-03-31",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2362.72",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "MINI SPX  CLOSE",
+      "trading_symbol": "XSP",
+      "expiration_date": "2017-03-31",
+      "settlement_symbol": "XSP",
+      "settlement_value": "236.27",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-03-31",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1385.92",
+      "year_month": "2017-03"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-02-28",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2363.64",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "MINI SPX  CLOSE",
+      "trading_symbol": "XSP",
+      "expiration_date": "2017-02-28",
+      "settlement_symbol": "XSP",
+      "settlement_value": "236.36",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-02-28",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1386.68",
+      "year_month": "2017-02"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2017-01-31",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2278.87",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "MINI SPX  CLOSE",
+      "trading_symbol": "XSP",
+      "expiration_date": "2017-01-31",
+      "settlement_symbol": "XSP",
+      "settlement_value": "227.89",
+      "year_month": "2017-01"
+    },
+    {
+      "description": "Russell 2000 CLOSE",
+      "trading_symbol": "RUTW",
+      "expiration_date": "2017-01-31",
+      "settlement_symbol": "RUT",
+      "settlement_value": "1361.82",
+      "year_month": "2017-01"
+    }
+  ]
+}

@@ -1,0 +1,1708 @@
+{
+  "data": [
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-12-31",
+      "settlement_symbol": "OEX",
+      "settlement_value": "911.43",
+      "year_month": "2015-12"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-12-31",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2043.94",
+      "year_month": "2015-12"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-12-31",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1146.07",
+      "year_month": "2015-12"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-12-31",
+      "settlement_symbol": "DJS",
+      "settlement_value": "175.32",
+      "year_month": "2015-12"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-12-31",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4634.42",
+      "year_month": "2015-12"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2015-12-30",
+      "settlement_symbol": "VRO",
+      "settlement_value": "16.79",
+      "year_month": "2015-12"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-12-24",
+      "settlement_symbol": "OEX",
+      "settlement_value": "918.84",
+      "year_month": "2015-12"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-12-24",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2060.99",
+      "year_month": "2015-12"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-12-24",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1152.61",
+      "year_month": "2015-12"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-12-24",
+      "settlement_symbol": "DJS",
+      "settlement_value": "175.66",
+      "year_month": "2015-12"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-12-24",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4630.61",
+      "year_month": "2015-12"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2015-12-23",
+      "settlement_symbol": "VRO",
+      "settlement_value": "15.82",
+      "year_month": "2015-12"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-12-11",
+      "settlement_symbol": "OEX",
+      "settlement_value": "898.49",
+      "year_month": "2015-12"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-12-11",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2012.37",
+      "year_month": "2015-12"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-12-11",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1129.57",
+      "year_month": "2015-12"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-12-11",
+      "settlement_symbol": "DJS",
+      "settlement_value": "173.49",
+      "year_month": "2015-12"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-12-11",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4580.65",
+      "year_month": "2015-12"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2015-12-09",
+      "settlement_symbol": "VRO",
+      "settlement_value": "18.28",
+      "year_month": "2015-12"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-12-04",
+      "settlement_symbol": "OEX",
+      "settlement_value": "933.77",
+      "year_month": "2015-12"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-12-04",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2091.69",
+      "year_month": "2015-12"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-12-04",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1170.83",
+      "year_month": "2015-12"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-12-04",
+      "settlement_symbol": "DJS",
+      "settlement_value": "175.22",
+      "year_month": "2015-12"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-12-04",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4611.89",
+      "year_month": "2015-12"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2015-12-01",
+      "settlement_symbol": "VRO",
+      "settlement_value": "15.93",
+      "year_month": "2015-12"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-11-27",
+      "settlement_symbol": "OEX",
+      "settlement_value": "931.53",
+      "year_month": "2015-11"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-11-27",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2090.11",
+      "year_month": "2015-11"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-11-27",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1196.91",
+      "year_month": "2015-11"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-11-27",
+      "settlement_symbol": "DJS",
+      "settlement_value": "177.91",
+      "year_month": "2015-11"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-11-27",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4679.14",
+      "year_month": "2015-11"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2015-11-24",
+      "settlement_symbol": "VRO",
+      "settlement_value": "16.56",
+      "year_month": "2015-11"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-11-13",
+      "settlement_symbol": "OEX",
+      "settlement_value": "903.04",
+      "year_month": "2015-11"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-11-13",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2023.04",
+      "year_month": "2015-11"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-11-13",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1148.49",
+      "year_month": "2015-11"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-11-13",
+      "settlement_symbol": "DJS",
+      "settlement_value": "173.95",
+      "year_month": "2015-11"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-11-13",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4566.00",
+      "year_month": "2015-11"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2015-11-11",
+      "settlement_symbol": "VRO",
+      "settlement_value": "15.33",
+      "year_month": "2015-11"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-11-06",
+      "settlement_symbol": "OEX",
+      "settlement_value": "937.57",
+      "year_month": "2015-11"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-11-06",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2099.20",
+      "year_month": "2015-11"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-11-06",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1186.69",
+      "year_month": "2015-11"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-11-06",
+      "settlement_symbol": "DJS",
+      "settlement_value": "178.37",
+      "year_month": "2015-11"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-11-06",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4691.51",
+      "year_month": "2015-11"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2015-11-04",
+      "settlement_symbol": "VRO",
+      "settlement_value": "13.90",
+      "year_month": "2015-11"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-10-30",
+      "settlement_symbol": "OEX",
+      "settlement_value": "926.74",
+      "year_month": "2015-10"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-10-30",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2079.36",
+      "year_month": "2015-10"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-10-30",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1166.70",
+      "year_month": "2015-10"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-10-30",
+      "settlement_symbol": "DJS",
+      "settlement_value": "177.80",
+      "year_month": "2015-10"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-10-30",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4678.38",
+      "year_month": "2015-10"
+    },
+    {
+      "description": "VIX Option",
+      "trading_symbol": "VIX",
+      "expiration_date": "2015-10-28",
+      "settlement_symbol": "VRO",
+      "settlement_value": "14.86",
+      "year_month": "2015-10"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-10-23",
+      "settlement_symbol": "OEX",
+      "settlement_value": "925.72",
+      "year_month": "2015-10"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-10-23",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2075.15",
+      "year_month": "2015-10"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-10-23",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1162.15",
+      "year_month": "2015-10"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-10-23",
+      "settlement_symbol": "DJS",
+      "settlement_value": "176.05",
+      "year_month": "2015-10"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-10-23",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4624.75",
+      "year_month": "2015-10"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-10-09",
+      "settlement_symbol": "OEX",
+      "settlement_value": "890.85",
+      "year_month": "2015-10"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-10-09",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2014.89",
+      "year_month": "2015-10"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-10-09",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1165.99",
+      "year_month": "2015-10"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-10-09",
+      "settlement_symbol": "DJS",
+      "settlement_value": "170.66",
+      "year_month": "2015-10"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-10-09",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4352.67",
+      "year_month": "2015-10"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-10-02",
+      "settlement_symbol": "OEX",
+      "settlement_value": "862.27",
+      "year_month": "2015-10"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-10-02",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1951.36",
+      "year_month": "2015-10"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-10-02",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1086.57",
+      "year_month": "2015-10"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-10-02",
+      "settlement_symbol": "DJS",
+      "settlement_value": "160.58",
+      "year_month": "2015-10"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-10-02",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4139.34",
+      "year_month": "2015-10"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-09-25",
+      "settlement_symbol": "OEX",
+      "settlement_value": "851.90",
+      "year_month": "2015-09"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-09-25",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1931.34",
+      "year_month": "2015-09"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-09-25",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1147.09",
+      "year_month": "2015-09"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-09-25",
+      "settlement_symbol": "DJS",
+      "settlement_value": "163.95",
+      "year_month": "2015-09"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-09-25",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4312.56",
+      "year_month": "2015-09"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-09-11",
+      "settlement_symbol": "OEX",
+      "settlement_value": "863.01",
+      "year_month": "2015-09"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-09-11",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1961.05",
+      "year_month": "2015-09"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-09-11",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1145.85",
+      "year_month": "2015-09"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-09-11",
+      "settlement_symbol": "DJS",
+      "settlement_value": "162.75",
+      "year_month": "2015-09"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-09-11",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4277.07",
+      "year_month": "2015-09"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-09-04",
+      "settlement_symbol": "OEX",
+      "settlement_value": "844.77",
+      "year_month": "2015-09"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-09-04",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1921.22",
+      "year_month": "2015-09"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-09-04",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1130.99",
+      "year_month": "2015-09"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-09-04",
+      "settlement_symbol": "DJS",
+      "settlement_value": "161.48",
+      "year_month": "2015-09"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-09-04",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4175.19",
+      "year_month": "2015-09"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-08-28",
+      "settlement_symbol": "OEX",
+      "settlement_value": "875.58",
+      "year_month": "2015-08"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-08-28",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1988.87",
+      "year_month": "2015-08"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-08-28",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1149.32",
+      "year_month": "2015-08"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-08-28",
+      "settlement_symbol": "DJS",
+      "settlement_value": "165.84",
+      "year_month": "2015-08"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-08-28",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4299.77",
+      "year_month": "2015-08"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-08-14",
+      "settlement_symbol": "OEX",
+      "settlement_value": "920.75",
+      "year_month": "2015-08"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-08-14",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2091.54",
+      "year_month": "2015-08"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-08-14",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1201.90",
+      "year_month": "2015-08"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-08-14",
+      "settlement_symbol": "DJS",
+      "settlement_value": "173.93",
+      "year_month": "2015-08"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-08-14",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4506.48",
+      "year_month": "2015-08"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-08-07",
+      "settlement_symbol": "OEX",
+      "settlement_value": "916.32",
+      "year_month": "2015-08"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-08-07",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2077.57",
+      "year_month": "2015-08"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-08-07",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1207.89",
+      "year_month": "2015-08"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-08-07",
+      "settlement_symbol": "DJS",
+      "settlement_value": "173.81",
+      "year_month": "2015-08"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-08-07",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4521.76",
+      "year_month": "2015-08"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-07-31",
+      "settlement_symbol": "OEX",
+      "settlement_value": "931.13",
+      "year_month": "2015-07"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-07-31",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2103.84",
+      "year_month": "2015-07"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-07-31",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1235.95",
+      "year_month": "2015-07"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-07-31",
+      "settlement_symbol": "DJS",
+      "settlement_value": "177.90",
+      "year_month": "2015-07"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-07-31",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4619.17",
+      "year_month": "2015-07"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-07-24",
+      "settlement_symbol": "OEX",
+      "settlement_value": "921.21",
+      "year_month": "2015-07"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-07-24",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2079.65",
+      "year_month": "2015-07"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-07-24",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1242.06",
+      "year_month": "2015-07"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-07-24",
+      "settlement_symbol": "DJS",
+      "settlement_value": "177.43",
+      "year_month": "2015-07"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-07-24",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4637.38",
+      "year_month": "2015-07"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-07-10",
+      "settlement_symbol": "OEX",
+      "settlement_value": "914.30",
+      "year_month": "2015-07"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-07-10",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2076.62",
+      "year_month": "2015-07"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-07-10",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1246.24",
+      "year_month": "2015-07"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-07-10",
+      "settlement_symbol": "DJS",
+      "settlement_value": "177.55",
+      "year_month": "2015-07"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-07-10",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4410.05",
+      "year_month": "2015-07"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-07-02",
+      "settlement_symbol": "OEX",
+      "settlement_value": "913.77",
+      "year_month": "2015-07"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-07-02",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2076.78",
+      "year_month": "2015-07"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-07-02",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1259.59",
+      "year_month": "2015-07"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-07-02",
+      "settlement_symbol": "DJS",
+      "settlement_value": "178.15",
+      "year_month": "2015-07"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-07-02",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4435.59",
+      "year_month": "2015-07"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-06-26",
+      "settlement_symbol": "OEX",
+      "settlement_value": "925.00",
+      "year_month": "2015-06"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-06-26",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2101.49",
+      "year_month": "2015-06"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-06-26",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1285.46",
+      "year_month": "2015-06"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-06-26",
+      "settlement_symbol": "DJS",
+      "settlement_value": "179.56",
+      "year_month": "2015-06"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-06-26",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4517.10",
+      "year_month": "2015-06"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-06-12",
+      "settlement_symbol": "OEX",
+      "settlement_value": "921.48",
+      "year_month": "2015-06"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-06-12",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2094.11",
+      "year_month": "2015-06"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-06-12",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1265.15",
+      "year_month": "2015-06"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-06-12",
+      "settlement_symbol": "DJS",
+      "settlement_value": "179.87",
+      "year_month": "2015-06"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-06-12",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4469.56",
+      "year_month": "2015-06"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-06-05",
+      "settlement_symbol": "OEX",
+      "settlement_value": "919.90",
+      "year_month": "2015-06"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-06-05",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2092.83",
+      "year_month": "2015-06"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-06-05",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1249.90",
+      "year_month": "2015-06"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-06-05",
+      "settlement_symbol": "DJS",
+      "settlement_value": "178.99",
+      "year_month": "2015-06"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-06-05",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4482.24",
+      "year_month": "2015-06"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-05-29",
+      "settlement_symbol": "OEX",
+      "settlement_value": "926.11",
+      "year_month": "2015-05"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-05-29",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2107.39",
+      "year_month": "2015-05"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-05-29",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1251.53",
+      "year_month": "2015-05"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-05-29",
+      "settlement_symbol": "DJS",
+      "settlement_value": "181.10",
+      "year_month": "2015-05"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-05-29",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4533.07",
+      "year_month": "2015-05"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-05-22",
+      "settlement_symbol": "OEX",
+      "settlement_value": "934.08",
+      "year_month": "2015-05"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-05-22",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2126.06",
+      "year_month": "2015-05"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-05-22",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1255.09",
+      "year_month": "2015-05"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-05-22",
+      "settlement_symbol": "DJS",
+      "settlement_value": "182.68",
+      "year_month": "2015-05"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-05-22",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4524.35",
+      "year_month": "2015-05"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-05-08",
+      "settlement_symbol": "OEX",
+      "settlement_value": "930.69",
+      "year_month": "2015-05"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-05-08",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2116.10",
+      "year_month": "2015-05"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-05-08",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1236.96",
+      "year_month": "2015-05"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-05-08",
+      "settlement_symbol": "DJS",
+      "settlement_value": "181.14",
+      "year_month": "2015-05"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-05-08",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4442.56",
+      "year_month": "2015-05"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-05-01",
+      "settlement_symbol": "OEX",
+      "settlement_value": "926.09",
+      "year_month": "2015-05"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-05-01",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2108.29",
+      "year_month": "2015-05"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-05-01",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1223.03",
+      "year_month": "2015-05"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-05-01",
+      "settlement_symbol": "DJS",
+      "settlement_value": "179.40",
+      "year_month": "2015-05"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-05-01",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4434.03",
+      "year_month": "2015-05"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-04-24",
+      "settlement_symbol": "OEX",
+      "settlement_value": "928.53",
+      "year_month": "2015-04"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-04-24",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2117.69",
+      "year_month": "2015-04"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-04-24",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1272.87",
+      "year_month": "2015-04"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-04-24",
+      "settlement_symbol": "DJS",
+      "settlement_value": "180.72",
+      "year_month": "2015-04"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-04-24",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4532.90",
+      "year_month": "2015-04"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-04-10",
+      "settlement_symbol": "OEX",
+      "settlement_value": "918.67",
+      "year_month": "2015-04"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-04-10",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2102.06",
+      "year_month": "2015-04"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-04-10",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1264.76",
+      "year_month": "2015-04"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-04-10",
+      "settlement_symbol": "DJS",
+      "settlement_value": "179.91",
+      "year_month": "2015-04"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-04-10",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4409.30",
+      "year_month": "2015-04"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-04-02",
+      "settlement_symbol": "OEX",
+      "settlement_value": "901.10",
+      "year_month": "2015-04"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-04-02",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2066.96",
+      "year_month": "2015-04"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-04-02",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1252.24",
+      "year_month": "2015-04"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-04-02",
+      "settlement_symbol": "DJS",
+      "settlement_value": "177.05",
+      "year_month": "2015-04"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-04-02",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4320.51",
+      "year_month": "2015-04"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-03-27",
+      "settlement_symbol": "OEX",
+      "settlement_value": "900.19",
+      "year_month": "2015-03"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-03-27",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2061.02",
+      "year_month": "2015-03"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-03-27",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1231.94",
+      "year_month": "2015-03"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-03-27",
+      "settlement_symbol": "DJS",
+      "settlement_value": "176.69",
+      "year_month": "2015-03"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-03-27",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4316.34",
+      "year_month": "2015-03"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-03-13",
+      "settlement_symbol": "OEX",
+      "settlement_value": "901.49",
+      "year_month": "2015-03"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-03-13",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2053.40",
+      "year_month": "2015-03"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-03-13",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1235.69",
+      "year_month": "2015-03"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-03-13",
+      "settlement_symbol": "DJS",
+      "settlement_value": "178.42",
+      "year_month": "2015-03"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-03-13",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4319.96",
+      "year_month": "2015-03"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-03-06",
+      "settlement_symbol": "OEX",
+      "settlement_value": "912.00",
+      "year_month": "2015-03"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-03-06",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2071.26",
+      "year_month": "2015-03"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-03-06",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1225.30",
+      "year_month": "2015-03"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-03-06",
+      "settlement_symbol": "DJS",
+      "settlement_value": "180.16",
+      "year_month": "2015-03"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-03-06",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4447.34",
+      "year_month": "2015-03"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-02-27",
+      "settlement_symbol": "OEX",
+      "settlement_value": "925.47",
+      "year_month": "2015-02"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-02-27",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2104.50",
+      "year_month": "2015-02"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-02-27",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1237.75",
+      "year_month": "2015-02"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-02-27",
+      "settlement_symbol": "DJS",
+      "settlement_value": "182.00",
+      "year_month": "2015-02"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-02-27",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4466.45",
+      "year_month": "2015-02"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-02-13",
+      "settlement_symbol": "OEX",
+      "settlement_value": "923.43",
+      "year_month": "2015-02"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-02-13",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2096.99",
+      "year_month": "2015-02"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-02-13",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1218.43",
+      "year_month": "2015-02"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-02-13",
+      "settlement_symbol": "DJS",
+      "settlement_value": "179.72",
+      "year_month": "2015-02"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-02-13",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4363.27",
+      "year_month": "2015-02"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-02-06",
+      "settlement_symbol": "OEX",
+      "settlement_value": "904.06",
+      "year_month": "2015-02"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-02-06",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2055.47",
+      "year_month": "2015-02"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-02-06",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1209.93",
+      "year_month": "2015-02"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-02-06",
+      "settlement_symbol": "DJS",
+      "settlement_value": "178.90",
+      "year_month": "2015-02"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-02-06",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4261.14",
+      "year_month": "2015-02"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-01-30",
+      "settlement_symbol": "OEX",
+      "settlement_value": "875.80",
+      "year_month": "2015-01"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-01-30",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1994.99",
+      "year_month": "2015-01"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-01-30",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1180.97",
+      "year_month": "2015-01"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-01-30",
+      "settlement_symbol": "DJS",
+      "settlement_value": "173.30",
+      "year_month": "2015-01"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-01-30",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4177.93",
+      "year_month": "2015-01"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-01-23",
+      "settlement_symbol": "OEX",
+      "settlement_value": "903.14",
+      "year_month": "2015-01"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-01-23",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2051.82",
+      "year_month": "2015-01"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-01-23",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1190.58",
+      "year_month": "2015-01"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-01-23",
+      "settlement_symbol": "DJS",
+      "settlement_value": "178.08",
+      "year_month": "2015-01"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-01-23",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4271.71",
+      "year_month": "2015-01"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-01-09",
+      "settlement_symbol": "OEX",
+      "settlement_value": "902.13",
+      "year_month": "2015-01"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-01-09",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2044.81",
+      "year_month": "2015-01"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-01-09",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1195.94",
+      "year_month": "2015-01"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-01-09",
+      "settlement_symbol": "DJS",
+      "settlement_value": "179.11",
+      "year_month": "2015-01"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-01-09",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4248.87",
+      "year_month": "2015-01"
+    },
+    {
+      "description": "S&P 100 CLOSE",
+      "trading_symbol": "OEX",
+      "expiration_date": "2015-01-02",
+      "settlement_symbol": "OEX",
+      "settlement_value": "907.50",
+      "year_month": "2015-01"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-01-02",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2058.20",
+      "year_month": "2015-01"
+    },
+    {
+      "description": "Russell 2000 OPEN",
+      "trading_symbol": "RUT",
+      "expiration_date": "2015-01-02",
+      "settlement_symbol": "RLS",
+      "settlement_value": "1210.99",
+      "year_month": "2015-01"
+    },
+    {
+      "description": "DJ IND OPEN",
+      "trading_symbol": "DJX",
+      "expiration_date": "2015-01-02",
+      "settlement_symbol": "DJS",
+      "settlement_value": "178.96",
+      "year_month": "2015-01"
+    },
+    {
+      "description": "NASDAQ 100",
+      "trading_symbol": "NDX",
+      "expiration_date": "2015-01-02",
+      "settlement_symbol": "NDS",
+      "settlement_value": "4259.34",
+      "year_month": "2015-01"
+    }
+  ]
+}

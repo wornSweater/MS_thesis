@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-12-31",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2043.94",
+      "year_month": "2015-12"
+    },
+    {
+      "description": "MINI SPX  CLOSE",
+      "trading_symbol": "XSP",
+      "expiration_date": "2015-12-31",
+      "settlement_symbol": "XSP",
+      "settlement_value": "204.39",
+      "year_month": "2015-12"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-11-30",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2080.41",
+      "year_month": "2015-11"
+    },
+    {
+      "description": "MINI SPX  CLOSE",
+      "trading_symbol": "XSP",
+      "expiration_date": "2015-11-30",
+      "settlement_symbol": "XSP",
+      "settlement_value": "208.04",
+      "year_month": "2015-11"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-10-30",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2079.36",
+      "year_month": "2015-10"
+    },
+    {
+      "description": "MINI SPX  CLOSE",
+      "trading_symbol": "XSP",
+      "expiration_date": "2015-10-30",
+      "settlement_symbol": "XSP",
+      "settlement_value": "207.94",
+      "year_month": "2015-10"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-09-30",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1920.03",
+      "year_month": "2015-09"
+    },
+    {
+      "description": "MINI SPX  CLOSE",
+      "trading_symbol": "XSP",
+      "expiration_date": "2015-09-30",
+      "settlement_symbol": "XSP",
+      "settlement_value": "192.00",
+      "year_month": "2015-09"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-08-31",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1972.18",
+      "year_month": "2015-08"
+    },
+    {
+      "description": "MINI SPX  CLOSE",
+      "trading_symbol": "XSP",
+      "expiration_date": "2015-08-31",
+      "settlement_symbol": "XSP",
+      "settlement_value": "197.22",
+      "year_month": "2015-08"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-07-31",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2103.84",
+      "year_month": "2015-07"
+    },
+    {
+      "description": "MINI SPX  CLOSE",
+      "trading_symbol": "XSP",
+      "expiration_date": "2015-07-31",
+      "settlement_symbol": "XSP",
+      "settlement_value": "210.38",
+      "year_month": "2015-07"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-06-30",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2063.11",
+      "year_month": "2015-06"
+    },
+    {
+      "description": "MINI SPX  CLOSE",
+      "trading_symbol": "XSP",
+      "expiration_date": "2015-06-30",
+      "settlement_symbol": "XSP",
+      "settlement_value": "206.31",
+      "year_month": "2015-06"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-05-29",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2107.39",
+      "year_month": "2015-05"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-04-30",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2085.51",
+      "year_month": "2015-04"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-03-31",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2067.89",
+      "year_month": "2015-03"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-02-27",
+      "settlement_symbol": "SPX",
+      "settlement_value": "2104.50",
+      "year_month": "2015-02"
+    },
+    {
+      "description": "S&P 500 CLOSE",
+      "trading_symbol": "SPXW",
+      "expiration_date": "2015-01-30",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1994.99",
+      "year_month": "2015-01"
+    }
+  ]
+}

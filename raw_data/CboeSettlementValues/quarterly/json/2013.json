@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXQ",
+      "expiration_date": "2013-12-31",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1848.36",
+      "year_month": "2013-12"
+    },
+    {
+      "description": "S&P 100 Euro CLOSE",
+      "trading_symbol": "XEO",
+      "expiration_date": "2013-12-31",
+      "settlement_symbol": "XEO",
+      "settlement_value": "823.81",
+      "year_month": "2013-12"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXQ",
+      "expiration_date": "2013-09-30",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1681.55",
+      "year_month": "2013-09"
+    },
+    {
+      "description": "S&P 100 Euro CLOSE",
+      "trading_symbol": "XEO",
+      "expiration_date": "2013-09-30",
+      "settlement_symbol": "XEO",
+      "settlement_value": "748.12",
+      "year_month": "2013-09"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXQ",
+      "expiration_date": "2013-06-28",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1606.28",
+      "year_month": "2013-06"
+    },
+    {
+      "description": "S&P 100 Euro CLOSE",
+      "trading_symbol": "XEO",
+      "expiration_date": "2013-06-28",
+      "settlement_symbol": "XEO",
+      "settlement_value": "720.62",
+      "year_month": "2013-06"
+    },
+    {
+      "description": "S&P 500",
+      "trading_symbol": "SPXQ",
+      "expiration_date": "2013-03-28",
+      "settlement_symbol": "SPX",
+      "settlement_value": "1569.19",
+      "year_month": "2013-03"
+    },
+    {
+      "description": "S&P 500 MINI",
+      "trading_symbol": "XSPPM",
+      "expiration_date": "2013-03-28",
+      "settlement_symbol": "XSP",
+      "settlement_value": "156.92",
+      "year_month": "2013-03"
+    },
+    {
+      "description": "S&P 100 Euro CLOSE",
+      "trading_symbol": "XEO",
+      "expiration_date": "2013-03-28",
+      "settlement_symbol": "XEO",
+      "settlement_value": "704.57",
+      "year_month": "2013-03"
+    }
+  ]
+}
