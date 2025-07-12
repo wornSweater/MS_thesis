@@ -151,6 +151,13 @@ FEATURES_FAMA = [
 FEATURES_DATE = [
     'date',
     'exdate',
+    'datetime',
+]
+
+FEATURES_YEAR_MONTH_DAY = [
+    'year',
+    'month',
+    'day',
 ]
 
 FEATURES_OTHER = [
@@ -291,6 +298,10 @@ FEATURES_WHOLE = [
     'call_total_open_interest', 
     'put_total_open_interest', 
     'total_open_interest',
+    'datetime',
+    'year',
+    'month',
+    'day',
 ]
 
 
