@@ -276,8 +276,6 @@ FEATURES_WHOLE = [
 
 
 
-
-
 # ATM option features
 FEATURES_CALL_ATM = [
     'call_time_value',
