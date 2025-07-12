@@ -40,6 +40,8 @@ FEATURES_ORIGINAL = [
 'am_set_flag'
 ]
 
+
+
 # general features of each field
 FEATURES_GREEKS = [
     'delta', 
@@ -71,10 +73,21 @@ FEATRUES_BASIC_OPTION = [
     'bid_ask_spread_percentage', 
 ]
 
-FEATURES_SETTLEMENT_INFO = [
-    'settlement_value', 
-    'settlement_symbol', 
-    'starting_code',
+FEATRUES_BASIC_OPTION_NO_INDICATORS = [
+    'best_bid', 
+    'best_offer', 
+    'volume',
+    'open_interest', 
+    'strike', 
+    'option_price',
+    'scaled_option_price', 
+    'scaled_best_bid',
+    'scaled_best_offer',
+    'intrinsic_value', 
+    'moneyness',
+    'log_moneyness', 
+    'bid_ask_spread',
+    'bid_ask_spread_percentage', 
 ]
 
 FEATURES_VOLUME_OPEN_INTEREST = [
@@ -175,6 +188,12 @@ FEATURES_RETURN = [
     'option_return',
     'best_bid_return',
     'best_offer_return',
+]
+
+FEATURES_SETTLEMENT_INFO = [
+    'settlement_value', 
+    'settlement_symbol', 
+    'starting_code',
 ]
 
 FEATURES_WHOLE = [
@@ -330,7 +349,6 @@ FEATURES_STRADDLE_PUT_PAYOFF = [
     'put_payoff',
  ]
 
-
 FEATURES_STRADDLE_EXTRA = [
     'implied_vol_diff',
     'average_implied_vol',
@@ -356,6 +374,11 @@ FEATURES_STRADDLE_EXTRA = [
     'total_best_bid',
  ]
 
+FEATURES_STRADDLE_RETURN = [
+    'straddle_return',
+    'straddle_offer_return',
+    'straddle_bid_return',
+]
 
 # auxiliary features
 # indicator features that do not need to be standardized
