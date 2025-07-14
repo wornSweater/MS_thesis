@@ -400,6 +400,7 @@ FEATURES_INDICATOR = [
     'am_settlement_num', 
 ]
 
+# whole dataset features that can be scaled
 FEATURES_WHOLE_SCALED = (
     FEATURES_YEAR_MONTH_DAY +
     FEATURES_INDICATOR + 

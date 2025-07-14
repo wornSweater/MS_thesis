@@ -400,6 +400,7 @@ FEATURES_INDICATOR = [
     'am_settlement_num', 
 ]
 
+# whole dataset features that can be scaled
 FEATURES_WHOLE_SCALED = (
     FEATRUES_BASIC_OPTION_NO_INDICATORS + 
     FEATURES_VOLUME_OPEN_INTEREST + 
