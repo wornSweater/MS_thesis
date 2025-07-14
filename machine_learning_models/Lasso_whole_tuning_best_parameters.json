@@ -1,0 +1,10 @@
+{
+    "scaler": "maxabs",
+    "target_scaler": "none",
+    "alpha": 0.0009615386534827813,
+    "fit_intercept": false,
+    "positive": false,
+    "selection": "cyclic",
+    "max_iter": 2000,
+    "tol": 1.9797492435803774e-05
+}
