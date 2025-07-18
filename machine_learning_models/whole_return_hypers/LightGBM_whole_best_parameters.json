@@ -1,0 +1,7 @@
+{
+    "scaler": "minmax",
+    "num_leaves": 10,
+    "learning_rate": 0.033836383649652135,
+    "n_estimators": 1500,
+    "min_data_in_leaf": 78
+}

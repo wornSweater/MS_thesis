@@ -1,0 +1,7 @@
+{
+    "scaler": "standard",
+    "alpha": 0.007867164207362786,
+    "selection": "cyclic",
+    "max_iter": 5000,
+    "tol": 0.0002950705006956229
+}

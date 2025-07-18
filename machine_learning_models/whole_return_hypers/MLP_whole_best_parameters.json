@@ -1,0 +1,16 @@
+{
+    "scaler": "standard",
+    "num_layers": 3,
+    "activation": "gelu",
+    "first_layer_size": 256,
+    "layer_1_ratio": 0.9899553178774205,
+    "layer_2_ratio": 0.4694386900580503,
+    "learning_rate": 0.001038500337992742,
+    "batch_size": 32,
+    "epochs": 208,
+    "dropout_rate": 0.31676485538044735,
+    "weight_decay": 4.0487788181534125e-05,
+    "batch_norm": false,
+    "optimizer": "RMSprop",
+    "scheduler": "ReduceLROnPlateau"
+}

@@ -1,0 +1,8 @@
+{
+    "scaler": "standard",
+    "alpha": 0.00964313244812421,
+    "l1_ratio": 0.8004036847036553,
+    "max_iter": 9000,
+    "tol": 0.0006076270344807669,
+    "selection": "random"
+}

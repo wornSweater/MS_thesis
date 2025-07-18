@@ -1,0 +1,7 @@
+{
+    "scaler": "robust",
+    "num_leaves": 25,
+    "learning_rate": 0.29629303834448767,
+    "n_estimators": 300,
+    "min_data_in_leaf": 55
+}

@@ -1,0 +1,21 @@
+{
+    "scaler": "standard",
+    "sequence_length": 7,
+    "hidden_dim": 128,
+    "num_gru_layers": 3,
+    "bidirectional": false,
+    "gru_dropout": 0.14084447802558342,
+    "use_fc_layers": true,
+    "num_fc_layers": 2,
+    "fc_layer_0_size": 64,
+    "fc_layer_1_size": 32,
+    "activation": "leaky_relu",
+    "learning_rate": 0.0003107021727174808,
+    "batch_size": 16,
+    "epochs": 72,
+    "dropout_rate": 0.00018761415268769496,
+    "weight_decay": 1.1845056936929588e-05,
+    "batch_norm": false,
+    "optimizer": "Adam",
+    "scheduler": "ReduceLROnPlateau"
+}

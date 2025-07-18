@@ -1,0 +1,7 @@
+{
+    "scaler": "none",
+    "learning_rate": 0.013352438101767016,
+    "max_depth": 3,
+    "subsample": 0.723011774539153,
+    "min_child_weight": 7
+}

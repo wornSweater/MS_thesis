@@ -1,0 +1,19 @@
+{
+    "scaler": "none",
+    "sequence_length": 48,
+    "hidden_dim": 32,
+    "num_lstm_layers": 3,
+    "bidirectional": false,
+    "lstm_dropout": 0.35260206066020455,
+    "use_fc_layers": false,
+    "activation": "gelu",
+    "learning_rate": 0.0006829856881731791,
+    "batch_size": 64,
+    "epochs": 97,
+    "dropout_rate": 0.12104562863085641,
+    "weight_decay": 8.556164082715794e-05,
+    "batch_norm": true,
+    "optimizer": "AdamW",
+    "scheduler": "StepLR",
+    "step_size": 28
+}
