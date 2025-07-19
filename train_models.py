@@ -35,7 +35,7 @@ from sklearn.metrics import mean_squared_error, r2_score, mean_absolute_error, m
 from feature_settings import *
 
 class Train_Models:
-    def __init__(self, filepath: str, target: str, test_size=0.2, val_size = 0.05):
+    def __init__(self, filepath: str, target: str, test_size=0.2, val_size = 0.1):
 
         self.filepath = filepath
         self.target = target
@@ -79,7 +79,7 @@ class Train_Models:
         if self.target == 'option_return':
             self.features = FEATURES_WHOLE_SCALED
             self.which_data = 'whole'
-        elif self.target == 'straddle_return':
+        elif self.target == 'straddle_return' or self.target == 'settlement_value':
             self.features = FEATURES_STRADDLE_SCALED
             self.which_data = 'straddle'
         else:
@@ -344,6 +344,7 @@ class Train_Models:
         elif optimizer_name == "RMSprop":
             optimizer = optim.RMSprop(model.parameters(), lr=best_params['learning_rate'], weight_decay=best_params['weight_decay'])
         
+        # Setup scheduler
         scheduler = None
         scheduler_name = best_params['scheduler']
         if scheduler_name == "ReduceLROnPlateau":
@@ -356,11 +357,145 @@ class Train_Models:
         criterion = nn.MSELoss()
         
         # Train model
-        train_model(model, train_loader, val_loader, optimizer, criterion, scheduler, best_params['epochs'], device)
+        train_mlp_model(model, train_loader, val_loader, optimizer, criterion, scheduler, best_params['epochs'], device)
+        self.model_ = model
+        return self.model_
+    
+    def lstm(self, best_params):
+        # Apply scaling
+        self.model = 'lstm'
+        
+        X_train_scaled, X_val_scaled, X_test_scaled = self.scale_transform_tree_nn(best_params)
+        self.X_train_scaled = X_train_scaled
+        self.X_val_scaled = X_val_scaled
+        self.X_test_scaled = X_test_scaled
+        
+        # Reconstruct FC layers
+        fc_layers = []
+        if best_params['use_fc_layers']:
+            for i in range(best_params.get('num_fc_layers', 0)):
+                fc_size = best_params.get(f'fc_layer_{i}_size')
+                if fc_size:
+                    fc_layers.append(fc_size)
+        
+        # Create model
+        device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+        model = LSTMRegressor(
+            input_dim=X_train_scaled.shape[1],
+            hidden_dim=best_params['hidden_dim'],
+            num_layers=best_params['num_lstm_layers'],
+            dropout_rate=best_params['dropout_rate'],
+            bidirectional=best_params['bidirectional'],
+            batch_norm=best_params['batch_norm'],
+            activation=best_params['activation'],
+            fc_layers=fc_layers if fc_layers else None,
+            lstm_dropout=best_params.get('lstm_dropout', 0.0)
+        ).to(device)
+        
+        # Create datasets
+        sequence_length = best_params['sequence_length']
+        train_dataset = TimeSeriesLSTMDataset(X_train_scaled.to_numpy(), self.y_train.to_numpy(), sequence_length)
+        val_dataset = TimeSeriesLSTMDataset(X_val_scaled.to_numpy(), self.y_val.to_numpy(), sequence_length)
+        
+        train_loader = DataLoader(train_dataset, batch_size=best_params['batch_size'], shuffle=False)
+        val_loader = DataLoader(val_dataset, batch_size=best_params['batch_size'], shuffle=False)
+        
+        # Setup optimizer
+        optimizer_name = best_params['optimizer']
+        if optimizer_name == "Adam":
+            optimizer = optim.Adam(model.parameters(), lr=best_params['learning_rate'], weight_decay=best_params['weight_decay'])
+        elif optimizer_name == "AdamW":
+            optimizer = optim.AdamW(model.parameters(), lr=best_params['learning_rate'], weight_decay=best_params['weight_decay'])
+        elif optimizer_name == "RMSprop":
+            optimizer = optim.RMSprop(model.parameters(), lr=best_params['learning_rate'], weight_decay=best_params['weight_decay'])
+
+        # Setup scheduler
+        scheduler = None
+        scheduler_name = best_params['scheduler']
+        if scheduler_name == "ReduceLROnPlateau":
+            scheduler = optim.lr_scheduler.ReduceLROnPlateau(optimizer, mode='min', patience=10, factor=0.5)
+        elif scheduler_name == "ExponentialLR":
+            scheduler = optim.lr_scheduler.ExponentialLR(optimizer, gamma=best_params['gamma'])
+        elif scheduler_name == "StepLR":
+            scheduler = optim.lr_scheduler.StepLR(optimizer, step_size=best_params['step_size'], gamma=0.1)
+        else:
+            scheduler = None
+        
+        criterion = nn.MSELoss()
+        
+        # Train model
+        train_lstm_model(model, train_loader, val_loader, optimizer, criterion, scheduler, best_params['epochs'], device)
         self.model_ = model
         return self.model_
 
+    def gru(self, best_params):
+        # Apply scaling
+        self.model = 'gru'
+        
+        X_train_scaled, X_val_scaled, X_test_scaled = self.scale_transform_tree_nn(best_params)
+        self.X_train_scaled = X_train_scaled
+        self.X_val_scaled = X_val_scaled
+        self.X_test_scaled = X_test_scaled
+        
+        # Reconstruct FC layers
+        fc_layers = []
+        if best_params['use_fc_layers']:
+            for i in range(best_params.get('num_fc_layers', 0)):
+                fc_size = best_params.get(f'fc_layer_{i}_size')
+                if fc_size:
+                    fc_layers.append(fc_size)
+        
+        # Create model
+        device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+        model = GRURegressor(
+            input_dim=X_train_scaled.shape[1],
+            hidden_dim=best_params['hidden_dim'],
+            num_layers=best_params['num_gru_layers'],
+            dropout_rate=best_params['dropout_rate'],
+            bidirectional=best_params['bidirectional'],
+            batch_norm=best_params['batch_norm'],
+            activation=best_params['activation'],
+            fc_layers=fc_layers if fc_layers else None,
+            gru_dropout=best_params.get('gru_dropout', 0.0)
+        ).to(device)
+        
+        # Create datasets
+        sequence_length = best_params['sequence_length']
+        train_dataset = TimeSeriesGRUDataset(X_train_scaled.to_numpy(), self.y_train.to_numpy(), sequence_length)
+        val_dataset = TimeSeriesGRUDataset(X_val_scaled.to_numpy(), self.y_val.to_numpy(), sequence_length)
+        
+        train_loader = DataLoader(train_dataset, batch_size=best_params['batch_size'], shuffle=False)
+        val_loader = DataLoader(val_dataset, batch_size=best_params['batch_size'], shuffle=False)
+        
+        # Setup optimizer
+        optimizer_name = best_params['optimizer']
+        if optimizer_name == "Adam":
+            optimizer = optim.Adam(model.parameters(), lr=best_params['learning_rate'], weight_decay=best_params['weight_decay'])
+        elif optimizer_name == "AdamW":
+            optimizer = optim.AdamW(model.parameters(), lr=best_params['learning_rate'], weight_decay=best_params['weight_decay'])
+        elif optimizer_name == "RMSprop":
+            optimizer = optim.RMSprop(model.parameters(), lr=best_params['learning_rate'], weight_decay=best_params['weight_decay'])
 
+        # Setup scheduler
+        scheduler = None
+        scheduler_name = best_params['scheduler']
+        if scheduler_name == "ReduceLROnPlateau":
+            scheduler = optim.lr_scheduler.ReduceLROnPlateau(optimizer, mode='min', patience=10, factor=0.5)
+        elif scheduler_name == "ExponentialLR":
+            scheduler = optim.lr_scheduler.ExponentialLR(optimizer, gamma=best_params['gamma'])
+        elif scheduler_name == "StepLR":
+            scheduler = optim.lr_scheduler.StepLR(optimizer, step_size=best_params['step_size'], gamma=0.1)
+        else:
+            scheduler = None
+        
+        criterion = nn.MSELoss()
+        
+        # Train model
+        train_gru_model(model, train_loader, val_loader, optimizer, criterion, scheduler, best_params['epochs'], device)
+        self.model_ = model
+        return self.model_
+
+# --------- Custom Dataset for MLP ----------
 class TimeSeriesDataset(Dataset):
     def __init__(self, X, y):
         self.X = torch.FloatTensor(X)
@@ -373,6 +508,7 @@ class TimeSeriesDataset(Dataset):
         return self.X[idx], self.y[idx]
     
 
+# --------- MLP Modle Constructor ----------
 class MLPRegressor(nn.Module):
     def __init__(self, input_dim, hidden_layers, dropout_rate=0.2, batch_norm=True, activation='relu'):
         super(MLPRegressor, self).__init__()
@@ -435,7 +571,8 @@ class MLPRegressor(nn.Module):
         return self.network(x).squeeze()
     
 
-def train_model(model, train_loader, val_loader, optimizer, criterion, scheduler, epochs, device, early_stopping_patience=20):
+# --------- Train MLP Model ----------
+def train_mlp_model(model, train_loader, val_loader, optimizer, criterion, scheduler, epochs, device, early_stopping_patience=10):
     model.train()
     best_val_loss = float('inf')
     patience_counter = 0
@@ -468,6 +605,524 @@ def train_model(model, train_loader, val_loader, optimizer, criterion, scheduler
                 val_loss += criterion(outputs, batch_y).item()
         
         val_loss /= len(val_loader)
+        
+        # Learning rate scheduling
+        if scheduler:
+            scheduler.step(val_loss)
+        
+        # Early stopping
+        if val_loss < best_val_loss:
+            best_val_loss = val_loss
+            patience_counter = 0
+        else:
+            patience_counter += 1
+            if patience_counter >= early_stopping_patience:
+                break
+    
+    return best_val_loss
+
+
+# --------- Custom Dataset for Time Series LSTM ----------
+class TimeSeriesLSTMDataset(Dataset):
+    def __init__(self, X, y, sequence_length):
+        self.sequence_length = sequence_length
+        
+        # Convert to numpy arrays first to ensure consistent handling
+        if hasattr(X, 'values'):  # pandas DataFrame
+            X = X.values
+        if hasattr(y, 'values'):  # pandas Series
+            y = y.values
+            
+        # Ensure y is 1D
+        if y.ndim > 1:
+            y = y.squeeze()
+            
+        self.X = torch.FloatTensor(X)
+        self.y = torch.FloatTensor(y)
+        
+        # Create sequences for LSTM
+        self.sequences_X, self.sequences_y = self._create_sequences()
+    
+    def _create_sequences(self):
+        sequences_X = []
+        sequences_y = []
+        
+        # Ensure we have enough data for at least one sequence
+        if len(self.X) < self.sequence_length:
+            return torch.empty(0, self.sequence_length, self.X.shape[1]), torch.empty(0)
+        
+        for i in range(len(self.X) - self.sequence_length + 1):
+            seq_x = self.X[i:i + self.sequence_length]
+            seq_y = self.y[i + self.sequence_length - 1]  # Predict the last value in sequence
+            
+            # Ensure seq_y is a scalar, not an array
+            if hasattr(seq_y, 'item'):
+                seq_y = seq_y.item()
+            
+            sequences_X.append(seq_x)
+            sequences_y.append(seq_y)
+        
+        if len(sequences_X) == 0:
+            return torch.empty(0, self.sequence_length, self.X.shape[1]), torch.empty(0)
+        
+        return torch.stack(sequences_X), torch.tensor(sequences_y, dtype=torch.float32)
+    
+    def __len__(self):
+        return len(self.sequences_X)
+    
+    def __getitem__(self, idx):
+        return self.sequences_X[idx], self.sequences_y[idx]
+
+
+# --------- LSTM Model Architecture ----------
+class LSTMRegressor(nn.Module):
+    def __init__(self, input_dim, hidden_dim, num_layers, dropout_rate=0.2, 
+                 bidirectional=False, batch_norm=True, activation='relu', 
+                 fc_layers=None, lstm_dropout=0.0):
+        super(LSTMRegressor, self).__init__()
+        
+        self.hidden_dim = hidden_dim
+        self.num_layers = num_layers
+        self.bidirectional = bidirectional
+        
+        # LSTM layers
+        self.lstm = nn.LSTM(
+            input_size=input_dim,
+            hidden_size=hidden_dim,
+            num_layers=num_layers,
+            dropout=lstm_dropout if num_layers > 1 else 0,  # LSTM dropout only works with >1 layer
+            bidirectional=bidirectional,
+            batch_first=True
+        )
+        
+        # Calculate LSTM output dimension
+        lstm_output_dim = hidden_dim * 2 if bidirectional else hidden_dim
+        
+        # Activation function mapping
+        activation_functions = {
+            'relu': nn.ReLU(),
+            'tanh': nn.Tanh(),
+            'sigmoid': nn.Sigmoid(),
+            'leaky_relu': nn.LeakyReLU(0.01),
+            'elu': nn.ELU(),
+            'gelu': nn.GELU(),
+            'swish': nn.SiLU(),
+            'mish': nn.Mish()
+        }
+        
+        # Fully connected layers after LSTM
+        fc_layers_list = []
+        prev_dim = lstm_output_dim
+        
+        if fc_layers:
+            for fc_dim in fc_layers:
+                fc_layers_list.append(nn.Linear(prev_dim, fc_dim))
+                
+                if batch_norm:
+                    fc_layers_list.append(nn.BatchNorm1d(fc_dim))
+                
+                fc_layers_list.append(activation_functions[activation])
+                
+                if dropout_rate > 0:
+                    fc_layers_list.append(nn.Dropout(dropout_rate))
+                
+                prev_dim = fc_dim
+        
+        # Output layer
+        fc_layers_list.append(nn.Linear(prev_dim, 1))
+        
+        self.fc_layers = nn.Sequential(*fc_layers_list)
+        
+        # Initialize weights
+        self.apply(lambda m: self._init_weights(m, activation))
+    
+    def _init_weights(self, module, activation):
+        """Initialize weights based on activation function"""
+        if isinstance(module, nn.Linear):
+            if activation in ['tanh', 'sigmoid']:
+                nn.init.xavier_uniform_(module.weight)
+            elif activation in ['relu', 'leaky_relu', 'elu']:
+                nn.init.kaiming_uniform_(module.weight, nonlinearity='relu')
+            else:
+                nn.init.xavier_uniform_(module.weight)
+            
+            if module.bias is not None:
+                nn.init.constant_(module.bias, 0)
+        
+        elif isinstance(module, nn.LSTM):
+            for name, param in module.named_parameters():
+                if 'weight_ih' in name:
+                    nn.init.xavier_uniform_(param.data)
+                elif 'weight_hh' in name:
+                    nn.init.orthogonal_(param.data)
+                elif 'bias' in name:
+                    nn.init.constant_(param.data, 0)
+    
+    def forward(self, x):
+        # x shape: (batch_size, sequence_length, input_dim)
+        
+        # LSTM forward pass
+        lstm_out, (hidden, cell) = self.lstm(x)
+        
+        # Use the last time step output
+        # lstm_out shape: (batch_size, sequence_length, hidden_dim * num_directions)
+        last_output = lstm_out[:, -1, :]  # Take last time step
+        
+        # Pass through fully connected layers
+        output = self.fc_layers(last_output)
+        
+        return output.squeeze()
+
+
+# --------- Training LSTM Function ----------
+def train_lstm_model(model, train_loader, val_loader, optimizer, criterion, scheduler, epochs, device, early_stopping_patience=10):
+    model.train()
+    best_val_loss = float('inf')
+    patience_counter = 0
+    
+    for epoch in tqdm(range(epochs)):
+        # --------- Training ----------
+        train_loss = 0.0
+        model.train()
+        for batch_X, batch_y in train_loader:
+            batch_X, batch_y = batch_X.to(device), batch_y.to(device)
+            
+            optimizer.zero_grad()
+            outputs = model(batch_X)
+            
+            # Ensure outputs and targets have compatible shapes
+            if outputs.dim() > 1:
+                outputs = outputs.squeeze()
+            if batch_y.dim() > 1:
+                batch_y = batch_y.squeeze()
+            
+            loss = criterion(outputs, batch_y)
+            loss.backward()
+            
+            # Gradient clipping (important for LSTMs)
+            torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
+            
+            optimizer.step()
+            train_loss += loss.item()
+        
+        # Validation
+        model.eval()
+        val_loss = 0.0
+        with torch.no_grad():
+            for batch_X, batch_y in val_loader:
+                batch_X, batch_y = batch_X.to(device), batch_y.to(device)
+                outputs = model(batch_X)
+                
+                # Ensure outputs and targets have compatible shapes
+                if outputs.dim() > 1:
+                    outputs = outputs.squeeze()
+                if batch_y.dim() > 1:
+                    batch_y = batch_y.squeeze()
+                
+                val_loss += criterion(outputs, batch_y).item()
+        
+        val_loss /= len(val_loader)
+        
+        # Learning rate scheduling
+        if scheduler:
+            scheduler.step(val_loss)
+        
+        # Early stopping
+        if val_loss < best_val_loss:
+            best_val_loss = val_loss
+            patience_counter = 0
+        else:
+            patience_counter += 1
+            if patience_counter >= early_stopping_patience:
+                break
+    
+    return best_val_loss
+
+
+# --------- Custom Dataset for Time Series GRU ----------
+class TimeSeriesGRUDataset(Dataset):
+    def __init__(self, X, y, sequence_length):
+        self.sequence_length = sequence_length
+        
+        # Convert to numpy arrays first to ensure consistent handling
+        if hasattr(X, 'values'):  # pandas DataFrame
+            X = X.values
+        if hasattr(y, 'values'):  # pandas Series
+            y = y.values
+            
+        # Ensure arrays are at least 2D and 1D respectively
+        if X.ndim == 1:
+            X = X.reshape(-1, 1)
+        if y.ndim > 1:
+            y = y.squeeze()
+        if y.ndim == 0:
+            y = np.array([y])
+            
+        # Convert to tensors
+        self.X = torch.FloatTensor(X)
+        self.y = torch.FloatTensor(y)
+        
+        # Validate we have enough data
+        if len(self.X) < self.sequence_length:
+            print(f"Warning: Data length {len(self.X)} < sequence length {self.sequence_length}")
+            
+        # Create sequences for GRU
+        self.sequences_X, self.sequences_y = self._create_sequences()
+    
+    def _create_sequences(self):
+        sequences_X = []
+        sequences_y = []
+        
+        # Ensure we have enough data for at least one sequence
+        if len(self.X) < self.sequence_length:
+            empty_shape = (0, self.sequence_length, self.X.shape[1] if self.X.dim() > 1 else 1)
+            return torch.empty(empty_shape), torch.empty(0)
+        
+        for i in range(len(self.X) - self.sequence_length + 1):
+            seq_x = self.X[i:i + self.sequence_length]
+            seq_y = self.y[i + self.sequence_length - 1]  # Predict the last value in sequence
+            
+            # Ensure seq_y is a scalar
+            if hasattr(seq_y, 'item'):
+                seq_y = seq_y.item()
+            elif torch.is_tensor(seq_y) and seq_y.numel() == 1:
+                seq_y = seq_y.item()
+            elif isinstance(seq_y, np.ndarray) and seq_y.size == 1:
+                seq_y = float(seq_y.item())
+            else:
+                seq_y = float(seq_y)
+            
+            sequences_X.append(seq_x)
+            sequences_y.append(seq_y)
+        
+        if len(sequences_X) == 0:
+            empty_shape = (0, self.sequence_length, self.X.shape[1] if self.X.dim() > 1 else 1)
+            return torch.empty(empty_shape), torch.empty(0)
+        
+        try:
+            return torch.stack(sequences_X), torch.tensor(sequences_y, dtype=torch.float32)
+        except Exception as e:
+            print(f"Error stacking sequences: {e}")
+            print(f"Sequence X shapes: {[seq.shape for seq in sequences_X[:3]]}")
+            print(f"Sequence y types: {[type(seq) for seq in sequences_y[:3]]}")
+            raise
+    
+    def __len__(self):
+        return len(self.sequences_X)
+    
+    def __getitem__(self, idx):
+        return self.sequences_X[idx], self.sequences_y[idx]
+    
+
+# --------- GRU Model Architecture ----------
+class GRURegressor(nn.Module):
+    def __init__(self, input_dim, hidden_dim, num_layers, dropout_rate=0.2, 
+                 bidirectional=False, batch_norm=True, activation='relu', 
+                 fc_layers=None, gru_dropout=0.0):
+        super(GRURegressor, self).__init__()
+        
+        self.hidden_dim = hidden_dim
+        self.num_layers = num_layers
+        self.bidirectional = bidirectional
+        
+        # GRU layers - simpler than LSTM (no cell state)
+        self.gru = nn.GRU(
+            input_size=input_dim,
+            hidden_size=hidden_dim,
+            num_layers=num_layers,
+            dropout=gru_dropout if num_layers > 1 else 0,  # GRU dropout only works with >1 layer
+            bidirectional=bidirectional,
+            batch_first=True
+        )
+        
+        # Calculate GRU output dimension
+        gru_output_dim = hidden_dim * 2 if bidirectional else hidden_dim
+        
+        # Activation function mapping
+        activation_functions = {
+            'relu': nn.ReLU(),
+            'tanh': nn.Tanh(),
+            'sigmoid': nn.Sigmoid(),
+            'leaky_relu': nn.LeakyReLU(0.01),
+            'elu': nn.ELU(),
+            'gelu': nn.GELU(),
+            'swish': nn.SiLU(),
+            'mish': nn.Mish()
+        }
+        
+        # Fully connected layers after GRU
+        fc_layers_list = []
+        prev_dim = gru_output_dim
+        
+        if fc_layers and len(fc_layers) > 0:
+            for fc_dim in fc_layers:
+                fc_layers_list.append(nn.Linear(prev_dim, fc_dim))
+                
+                if batch_norm:
+                    fc_layers_list.append(nn.BatchNorm1d(fc_dim))
+                
+                fc_layers_list.append(activation_functions[activation])
+                
+                if dropout_rate > 0:
+                    fc_layers_list.append(nn.Dropout(dropout_rate))
+                
+                prev_dim = fc_dim
+        
+        # Output layer (no activation for regression)
+        fc_layers_list.append(nn.Linear(prev_dim, 1))
+        
+        self.fc_layers = nn.Sequential(*fc_layers_list)
+        
+        # Initialize weights
+        self.apply(lambda m: self._init_weights(m, activation))
+    
+    def _init_weights(self, module, activation):
+        """Initialize weights based on activation function"""
+        if isinstance(module, nn.Linear):
+            if activation in ['tanh', 'sigmoid']:
+                nn.init.xavier_uniform_(module.weight)
+            elif activation in ['relu', 'leaky_relu', 'elu']:
+                nn.init.kaiming_uniform_(module.weight, nonlinearity='relu')
+            else:
+                nn.init.xavier_uniform_(module.weight)
+            
+            if module.bias is not None:
+                nn.init.constant_(module.bias, 0)
+        
+        elif isinstance(module, nn.GRU):
+            # GRU weight initialization
+            for name, param in module.named_parameters():
+                if 'weight_ih' in name:
+                    nn.init.xavier_uniform_(param.data)
+                elif 'weight_hh' in name:
+                    nn.init.orthogonal_(param.data)
+                elif 'bias' in name:
+                    nn.init.constant_(param.data, 0)
+    
+    def forward(self, x):
+        # x shape: (batch_size, sequence_length, input_dim)
+        batch_size = x.size(0)
+        
+        # GRU forward pass (simpler than LSTM - only hidden state, no cell state)
+        gru_out, hidden = self.gru(x)
+        
+        # Use the last time step output
+        # gru_out shape: (batch_size, sequence_length, hidden_dim * num_directions)
+        last_output = gru_out[:, -1, :]  # Take last time step
+        
+        # Pass through fully connected layers
+        output = self.fc_layers(last_output)
+        
+        # Ensure output is properly shaped
+        if output.dim() > 1:
+            output = output.squeeze(-1)
+        
+        return output
+    
+
+# --------- Training GRU Function ----------
+def train_gru_model(model, train_loader, val_loader, optimizer, criterion, scheduler, epochs, device, early_stopping_patience=10):
+    best_val_loss = float('inf')
+    patience_counter = 0
+    
+    for epoch in tqdm(range(epochs)):
+        # Training
+        model.train()
+        train_loss = 0.0
+        num_batches = 0
+        
+        for batch_X, batch_y in train_loader:
+            try:
+                batch_X, batch_y = batch_X.to(device), batch_y.to(device)
+                
+                # Ensure proper shapes
+                if batch_X.dim() != 3:
+                    print(f"Warning: Unexpected batch_X shape: {batch_X.shape}")
+                    continue
+                    
+                if batch_y.dim() > 1:
+                    batch_y = batch_y.squeeze()
+                
+                optimizer.zero_grad()
+                outputs = model(batch_X)
+                
+                # Ensure outputs and targets have compatible shapes
+                if outputs.dim() > 1:
+                    outputs = outputs.squeeze()
+                if batch_y.dim() > 1:
+                    batch_y = batch_y.squeeze()
+                
+                # Skip if shapes are incompatible
+                if outputs.shape != batch_y.shape:
+                    print(f"Shape mismatch: outputs {outputs.shape}, targets {batch_y.shape}")
+                    continue
+                
+                loss = criterion(outputs, batch_y)
+                
+                # Check for NaN loss
+                if torch.isnan(loss):
+                    print("NaN loss detected, skipping batch")
+                    continue
+                    
+                loss.backward()
+                
+                # Gradient clipping (important for RNNs)
+                torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
+                
+                optimizer.step()
+                train_loss += loss.item()
+                num_batches += 1
+                
+            except Exception as e:
+                print(f"Error in training batch: {e}")
+                continue
+        
+        if num_batches == 0:
+            print("No valid training batches processed")
+            break
+        
+        # Validation
+        model.eval()
+        val_loss = 0.0
+        val_batches = 0
+        
+        with torch.no_grad():
+            for batch_X, batch_y in val_loader:
+                try:
+                    batch_X, batch_y = batch_X.to(device), batch_y.to(device)
+                    
+                    if batch_X.dim() != 3:
+                        continue
+                        
+                    if batch_y.dim() > 1:
+                        batch_y = batch_y.squeeze()
+                    
+                    outputs = model(batch_X)
+                    
+                    # Ensure outputs and targets have compatible shapes
+                    if outputs.dim() > 1:
+                        outputs = outputs.squeeze()
+                    if batch_y.dim() > 1:
+                        batch_y = batch_y.squeeze()
+                    
+                    if outputs.shape != batch_y.shape:
+                        continue
+                    
+                    loss = criterion(outputs, batch_y)
+                    
+                    if not torch.isnan(loss):
+                        val_loss += loss.item()
+                        val_batches += 1
+                        
+                except Exception as e:
+                    print(f"Error in validation batch: {e}")
+                    continue
+        
+        if val_batches == 0:
+            print("No valid validation batches processed")
+            break
+            
+        val_loss /= val_batches
         
         # Learning rate scheduling
         if scheduler:

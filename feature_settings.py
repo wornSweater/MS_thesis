@@ -428,3 +428,25 @@ FEATURES_STRADDLE_SCALED = (
     FEATURES_HISTORICAL_VOL +
     FEATURES_FAMA
 )
+
+# straddle selected features
+FEATURES_SELECTED = (
+    FEATURES_GREEKS +
+    FEATURES_FORWARD_PRICE +
+    FEATURES_INTEREST_RATE +
+    FEATURES_IMPLIED_VOL +
+    [
+        'stock_close_price',
+        'stock_return', 
+        'put_impl_volatility', 
+        'put_delta',
+        'put_gamma',
+        'put_vega',
+        'put_theta',
+        'vix',
+        'vol_days_10', 
+        'vol_days_14',
+        'vol_days_30', 
+        'vol_days_60', 
+    ]
+)
